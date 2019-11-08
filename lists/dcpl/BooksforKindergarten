@@ -1,0 +1,232 @@
+{
+  "label": "DC Public Library - Suggested Books for Kindergarten",
+  "description": "A list of books recommended by DC Public Library for Kindergarten.",
+  "list": [
+    {
+      "label": "Count the monkeys",
+      "isbns": [
+        "9781423160656"
+      ]
+    },
+    {
+      "label": "Journey",
+      "isbns": [
+        "9780763660536"
+      ]
+    },
+    {
+      "label": "Children make terrible pets",
+      "isbns": [
+        "9780316015486"
+      ]
+    },
+    {
+      "label": "Jabari jumps",
+      "isbns": [
+        "9780763678388"
+      ]
+    },
+    {
+      "label": "Little Excavator",
+      "isbns": [
+        "9781101999202”
+      ]
+    },
+    {
+      "label": "Wolfie the bunny",
+      "isbns": [
+        "9780316226141"
+      ]
+    },
+    {
+      "label": "The odd egg",
+      "isbns": [
+        "9781416968726”
+      ]
+    }
+    {
+      "label": "Julia's house for lost creatures",
+      "isbns": [
+        "9781596438668”
+      ]
+    }
+    {
+      "label": " Stuck",
+      "isbns": [
+        "9780399257377”
+      ]
+    }
+    {
+      "label": "Quit calling me a monster!",
+      "isbns": [
+        "9780385389907”,
+       “9780385389914”
+      ]
+    }
+    {
+      "label": "Fall is not easy",
+      "isbns": [
+        "9781559332347”
+      ]
+    }
+    {
+      "label": "Wave",
+      "isbns": [
+        "9780811859240"
+      ]
+    }
+    {
+      "label": "The summer Nick taught his cats to read",
+      "isbns": [
+        "9781481435697”
+      ]
+    }
+    {
+      "label": "City shapes",
+      "isbns": [
+        "9780316370929"
+      ]
+    }
+    {
+      "label": "Welcome home, Bear : a book of animal habitats",
+      "isbns": [
+        "9780385753753”,
+       “9780385753760"
+      ]
+    }
+    {
+      "label": "The EARTH book",
+      "isbns": [
+        “9780316042659”
+      ]
+    }
+    {
+      "label": "Lizard from the park",
+      "isbns": [
+        "9781442483217”
+      ]
+    }
+    {
+      "label": "This day in June",
+      "isbns": [
+        "9781433816581”,
+       “9781433816598"
+      ]
+    }
+    {
+      "label": "Not a box",
+      "isbns": [
+        "9780061123221”,
+       “9780061123238”,
+       “9780061994425”,
+       “9781428738119”
+      ]
+    }
+    {
+      "label": "Creepy carrots!",
+      "isbns": [
+        "9781442402973”,
+       “9780545787611”
+
+      ]
+    }
+    {
+      "label": "Dragons love tacos”,
+      "isbns": [
+        "9780803736801”
+      ]
+    }
+    {
+      "label": "Where the wild things are",
+      "isbns": [
+        "9780060254933”,
+       “9780064431781”,
+       “9780060254926”,
+       “9780060255206”
+      ]
+    }
+    {
+      "label": "The most magnificent thing",
+      "isbns": [
+        "9781554537044”
+      ]
+    }
+    {
+      "label": "Sylvester and the magic pebble.",
+      "isbns": [
+        "9780671661540”,
+       “9780671662691”
+      ]
+    }
+    {
+      "label": "Grumpy Bird",
+      "isbns": [
+        "9780439851473”,
+       “9780545871822"
+      ]
+    }
+    {
+      "label": "What this story needs is a pig in a wig",
+      "isbns": [
+        "9780062327246”
+      ]
+    }
+    {
+      "label": "Museum day",
+      "isbns": [
+        "9781601152657”,
+       “9781601152664”
+      ]
+    }
+    {
+      "label": "How are you peeling? : foods with moods",
+      "isbns": [
+        "9780439104319”,
+       “9780439598415”
+      ]
+    }
+    {
+      "label": "The airport book",
+      "isbns": [
+        "9781626720916”
+      ]
+    }
+    {
+      "label": "Gravity",
+      "isbns": [
+        "9781596437173"
+      ]
+    }
+    {
+      "label": "I'm trying to love spiders : (it isn't easy)",
+      "isbns": [
+        "9780670016938”
+      ]
+    }
+    {
+      "label": "From wax to crayon",
+      "isbns": [
+        "9780761391838"
+      ]
+    }
+    {
+      "label": "Trombone Shorty",
+      "isbns": [
+        "9781419714658”
+      ]
+    }
+    {
+      "label": "Summer birds : the butterflies of Maria Merian",
+      "isbns": [
+        "9780805089370”
+      ]
+    }
+    {
+      "label": "Frida / por Jonah Winter",
+      "isbns": [
+        "9780439331180”,
+       “9780439373081”
+      ]
+    }
+  ]
+}
