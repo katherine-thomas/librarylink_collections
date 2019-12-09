@@ -1,0 +1,240 @@
+{
+  "label": "DC Public Library - Suggested Books for First Grade",
+  "description": "A list of books recommended by DC Public Library for First Grade.",
+  "list": [
+    {
+      "label": "Don't throw it to Mo!",
+      "isbns": [
+        "9780670016310",
+       "9780606368001",
+       "9780448480091"
+      ]
+    },
+    {
+      "label": "Fly guy presents : castles",
+      "isbns": [
+        "9780545917384"
+      ]
+    },
+    {
+      "label": "Sam & Dave dig a hole",
+      "isbns": [
+        "9780763662295"
+      ]
+    },
+    {
+      "label": "The wolf, the duck & the mouse",
+      "isbns": [
+        "9780763677541"
+      ]
+    },
+    {
+      "label": "The white cat and the monk : a retelling of the poem 'Pangur Bán'",
+      "isbns": [
+        "9781554987801"
+      ]
+    },
+    {
+      "label": "Super Narwhal and Jelly Jolt",
+      "isbns": [
+        "9781101918296",
+        "9781101919194"
+      ]
+    },
+    {
+      "label": "The uncorker of ocean bottles",
+      "isbns": [
+        "9780803738683"
+      ]
+    },
+    {
+      "label": "Last stop on Market Street",
+      "isbns": [
+        "9780399257742",
+       "9780605851269",
+       "9781518211188"
+      ]
+    },
+    {
+      "label": "Little Roja Riding Hood",
+      "isbns": [
+        "9780399247675"
+      ]
+    },
+    {
+      "label": "Yo soy Muslim : a father's letter to his daughter",
+      "isbns": [
+        "9781481489362"
+      ]
+    },
+    {
+      "label": "Flowers are calling",
+      "isbns": [
+        "9780544340121"
+      ]
+    },
+    {
+      "label": "Two Bobbies : a true story of Hurricane Katrina, friendship, and survival",
+      "isbns": [
+        "9780802797551",
+       "9780802797544"
+      ]
+    },
+    {
+      "label": "Sidewalk flowers",
+      "isbns": [
+        "9781554984312"
+      ]
+    },
+    {
+      "label": "We shall overcome : the story of a song",
+      "isbns": [
+        "9781423119548"
+      ]
+    },
+    {
+      "label": "Ling & Ting : not exactly the same!",
+      "isbns": [
+        "9780316024525",
+       "9780316024532"
+      ]
+    },
+    {
+      "label": "Otters love to play",
+      "isbns": [
+        "9780763669133"
+      ]
+    },
+    {
+      "label": "The invisible boy",
+      "isbns": [
+        "9781582464503",
+       "9781582464510"
+      ]
+    },
+    {
+      "label": "Bring me a rock!",
+      "isbns": [
+        "9781481446020"
+      ]
+    },
+    {
+      "label": "Niño wrestles the world",
+      "isbns": [
+        "9781596436046",
+       "9780606372763"
+      ]
+    },
+    {
+      "label": "Looking like me",
+      "isbns": [
+        "9781606840016",
+        "9781606840412"
+      ]
+    },
+    {
+      "label": "Be who you are",
+      "isbns": [
+        "9780316265232"
+      ]
+    },
+    {
+      "label": "The three billy goats Gruff",
+      "isbns": [
+        "9780316341578"
+      ]
+    },
+    {
+      "label": "Star stuff : Carl Sagan and the mysteries of the cosmos",
+      "isbns": [
+        "9781596439603"
+      ]
+    },
+    {
+      "label": "Dog and Bear : three to get ready",
+      "isbns": [
+        "9781596433960"
+      ]
+    },
+    {
+      "label": "Baby Monkey, private eye",
+      "isbns": [
+        "9781338180619"
+      ]
+    },
+    {
+      "label": "Dance! dance! underpants!",
+      "isbns": [
+        "9781484713792"
+      ]
+    },
+    {
+      "label": "Madlenka",
+      "isbns": [
+        "9780374399696"
+      ]
+    },
+    {
+      "label": "Little Red and the very hungry lion",
+      "isbns": [
+        "9780545914383"
+      ]
+    },
+    {
+      "label": "Grandpa Green",
+      "isbns": [
+        "9781596436077"
+      ]
+    },
+    {
+      "label": "Charlie & Mouse",
+      "isbns": [
+        "9781452131535"
+      ]
+    },
+    {
+      "label": "Diego Rivera : his world and ours",
+      "isbns": [
+        "9780810997318"
+      ]
+    },
+    {
+      "label": "The princess and the warrior : a tale of two volcanoes",
+      "isbns": [
+        "9781419721304"
+      ]
+    },
+    {
+      "label": "It's shoe time!",
+      "isbns": [
+        "9781484726471"
+      ]
+    },
+    {
+      "label": "Here comes the garbage barge!",
+      "isbns": [
+        "9780375952180",
+       "9780375852183"
+      ]
+    },
+    {
+      "label": "This is the rope : a story from the Great Migration",
+      "isbns": [
+        "9780399239861"
+      ]
+    },
+ {
+      "label": "Want to play?",
+      "isbns": [
+        "9781620142509",
+       "9781620142592"
+      ]
+    },
+ {
+      "label": "Malala's magic pencil",
+      "isbns": [
+        "9780316319577"
+      ]
+    }
+  ]
+}
