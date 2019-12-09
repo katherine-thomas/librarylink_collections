@@ -1,0 +1,233 @@
+{
+  "label": "DC Public Library - Suggested Books for Sixth Grade",
+  "description": "A list of books recommended by DC Public Library for Sixth Grade.",
+  "list": [
+    {
+      "label": "Booked",
+      "isbns": [
+        "9780544570986",
+        "9781328596307"
+      ]
+    },
+    {
+      "label": "The girl who drank the moon",
+      "isbns": [
+        "9781616205676"
+      ]
+    },
+    {
+      "label": "Serafina's promise : a novel in verse",
+      "isbns": [
+        "9780545535649"
+      ]
+    },
+    {
+      "label": "The epic fail of Arturo Zamora",
+      "isbns": [
+        "9781101997239"
+      ]
+    },
+    {
+      "label": "See you in the cosmos",
+      "isbns": [
+        "9780399186370"
+      ]
+    },
+    {
+      "label": "The witches",
+      "isbns": [
+        "9780141301105",
+        "9780142410110",
+        "9780374384593",
+        "9781101996997"
+      ]
+    },
+    {
+      "label": "The only road",
+      "isbns": [
+        "9781481457507"
+      ]
+    },
+       {
+      "label": "It ain't so awful, falafel",
+      "isbns": [
+        "9780544612310"
+      ]
+    },
+        {
+      "label": "Spy school",
+      "isbns": [
+        "9781442421820",
+        "9781442421844"
+      ]
+    },
+        {
+      "label": "One half from the east",
+      "isbns": [
+        "9780062421906",
+        "9780062572196"
+      ]
+    },
+        {
+      "label": "Redwall",
+      "isbns": [
+        "9780399231605"
+      ]
+    },
+        {
+      "label": "Half a world away",
+      "isbns": [
+        "9781442412750"
+      ]
+    },
+        {
+      "label": "Some kind of happiness",
+      "isbns": [
+        "9781442466012"
+      ]
+    },
+        {
+      "label": "In the footsteps of Crazy Horse",
+      "isbns": [
+        "9781419707858"
+      ]
+    },
+        {
+      "label": "Keeper of the lost cities",
+      "isbns": [
+        "9781442445932"
+      ]
+    },
+        {
+      "label": "Greenglass House",
+      "isbns": [
+        "9780544052703"
+      ]
+    },
+        {
+      "label": "The stars beneath our feet ",
+      "isbns": [
+        "9781524701246",
+        "9781524701253"
+      ]
+    },
+        {
+      "label": "The first rule of punk",
+      "isbns": [
+        "9780425290408"
+      ]
+    },
+        {
+      "label": "Ghost",
+      "isbns": [
+        "9781481450157"
+      ]
+    },
+        {
+      "label": "Echo",
+      "isbns": [
+        "9780439874021"
+      ]
+    },
+        {
+      "label": "The Harlem charade",
+      "isbns": [
+        "9780545783897",
+        "9780545783873"
+      ]
+    },
+        {
+      "label": "Paperboy",
+      "isbns": [
+        "99780385742443",
+        "9780307975058",
+        "9780375990588"
+      ]
+    },
+        {
+      "label": "One crazy summer",
+      "isbns": [
+        "9780060760892",
+        "9780060760885"
+      ]
+    },
+        {
+      "label": "Lowriders in space",
+      "isbns": [
+        "9781452128696",
+        "9781452121550"
+      ]
+    },
+        {
+      "label": "Princeless. 1, Save yourself",
+      "isbns": [
+        "9781939352545"
+      ]
+    },
+        {
+      "label": "Secret coders",
+      "isbns": [
+        "9781626722767",
+        "9781626720756"
+      ]
+    },
+        {
+      "label": "Strange but true!",
+      "isbns": [
+        "9781465439116",
+        "9780241203378"
+      ]
+    },
+            {
+      "label": "Ingri and Edgar Parin d'Aulaire's Book of Greek myths.",
+      "isbns": [
+        "9780440406945",
+        "9780808580065",
+        "9780385015837"
+      ]
+    },
+            {
+      "label": "Tracking trash : flotsam, jetsam, and the science of ocean motion",
+      "isbns": [
+        "9780618581313"
+      ]
+    },
+            {
+      "label": "Legends : the best players, games, and teams in basketball",
+      "isbns": [
+        "9780399169052"
+      ]
+    },
+            {
+      "label": "We are America : a tribute from the heart",
+      "isbns": [
+        "9780060523084",
+        "9780060523091"
+      ]
+    },
+            {
+      "label": "Jazz day : the making of a famous photograph",
+      "isbns": [
+        "9780763669546"
+      ]
+    },
+            {
+      "label": "Her right foot",
+      "isbns": [
+        "9781452162812"
+      ]
+    },
+            {
+      "label": "Marley Dias gets it done : and so can you!",
+      "isbns": [
+        "9781338136890"
+      ]
+    },
+    {
+      "label": "Dream big dreams: photographs from Barack Obama's inspiring and historic presidency",
+      "isbns": [
+        "9780316514392"
+      ]
+    }
+  ]
+}
