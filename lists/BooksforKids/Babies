@@ -1,0 +1,196 @@
+{
+  "label": "DC Public Library - Suggested Books for Babies",
+  "description": "A list of books recommended by DC Public Library for Babies.",
+  "list": [
+    {
+      "label": "Baby signs : a baby-sized guide to speaking with sign language",
+      "isbns": [
+        "9780803731936"
+      ]
+    },
+    {
+      "label": "Whose toes are those?",
+      "isbns": [
+        "9780316736091"
+      ]
+    },
+    {
+      "label": "Toes, ears, & nose! : a lift-the-flap book",
+      "isbns": [
+        "9780689847127",
+        "9780689038624",
+        "9781481419543"
+      ]
+    },
+    {
+      "label": "Moo, baa, la la la!",
+      "isbns": [
+        "9780671449018",
+        "9780689863028"
+      ]
+    },
+    {
+      "label": "Tickle time!",
+      "isbns": [
+        "9780761168836"
+      ]
+    },
+    {
+      "label": "Goodnight moon",
+      "isbns": [
+        "9780060207052",
+        "9780060207069",
+        "9780060775858",
+        "9780694003617",
+        "9780590092425",
+        "9780064430173",
+        "9780062367914",
+        "9781948381147"
+      ]
+    },
+    {
+      "label": "My very first book of animal sounds",
+      "isbns": [
+        "9780399246487"
+      ]
+    },
+    {
+      "label": "Twinkle, twinkle, little star",
+      "isbns": [
+        "9780545518062"
+      ]
+    }
+        {
+      "label": "You are my sunshine",
+      "isbns": [
+        "9780545075527",
+        "9780545359269",
+        "9780545404006"
+      ]
+    }
+        {
+      "label": "Ten little fingers and ten little toes",
+      "isbns": [
+        "9780152060572",
+        "9780547366203",
+        "9780547870069"
+      ]
+    }
+        {
+      "label": "Hello baby!",
+      "isbns": [
+        "9781416985136"
+      ]
+    }
+        {
+      "label": "In my tree",
+      "isbns": [
+        "9780811870528"
+      ]
+    }
+        {
+      "label": "Global babies",
+      "isbns": [
+        "9781580891745",
+        "9781580892506"
+      ]
+    }
+        {
+      "label": "White on black",
+      "isbns": [
+        "9780688119195"
+      ]
+    }
+        {
+      "label": "Choo choo",
+      "isbns": [
+        "9780763634773"
+      ]
+    }
+        {
+      "label": "Peekaboo morning",
+      "isbns": [
+        "9780399251535",
+        "9780399236020"
+      ]
+    }
+        {
+      "label": "Baby's shapes",
+      "isbns": [
+        "9781416998242"
+      ]
+    }
+        {
+      "label": "This little piggy = Este cochinito",
+      "isbns": [
+        "9781846433139"
+      ]
+    }
+        {
+      "label": "Trucks go",
+      "isbns": [
+        "9780811865425"
+      ]
+    }
+        {
+      "label": "Look look outside!",
+      "isbns": [
+        "9780803737297"
+      ]
+    }
+        {
+      "label": "First words",
+      "isbns": [
+        "9781465454713"
+      ]
+    }
+        {
+      "label": "Baby faces",
+      "isbns": [
+        "9780689819117",
+        "9781416978879"
+      ]
+    }
+        {
+      "label": "I kissed the baby!",
+      "isbns": [
+        "9780763621223",
+        "9780763624439"
+      ]
+    }
+        {
+      "label": "The baby goes beep",
+      "isbns": [
+        "9780807505083"
+      ]
+    }
+        {
+      "label": "Animals in underwear ABC",
+      "isbns": [
+        "9780316207362"
+      ]
+    }
+        {
+      "label": "Owl babies",
+      "isbns": [
+        "9781564021014",
+        "9780758733573",
+        "9781564029652",
+        "9780763679613",
+        "9780763621575"
+      ]
+    }
+        {
+      "label": "Baby cakes",
+      "isbns": [
+        "9781416902898"
+      ]
+    }
+        {
+      "label": "Old MacDonald had a farm",
+      "isbns": [
+        "9780843128178"
+      ]
+    }
+  ]
+}
