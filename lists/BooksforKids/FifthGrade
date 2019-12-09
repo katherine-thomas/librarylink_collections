@@ -1,0 +1,237 @@
+{
+  "label": "DC Public Library - Suggested Books for Fifth Grade",
+  "description": "A list of books recommended by DC Public Library for Fifth Grade.",
+  "list": [
+    {
+      "label": "The book of three",
+      "isbns": [
+        "9780805061321"
+      ]
+    },
+    {
+      "label": "Ms. Bixby's last day",
+      "isbns": [
+        "9780062338174"
+      ]
+    },
+    {
+      "label": "The Penderwicks : a summer tale of four sisters, two rabbits, and a very interesting boy",
+      "isbns": [
+        "9780375831430",
+        "9780375931437",
+        "9780440420477"
+      ]
+    },
+    {
+      "label": " The wolf keepers",
+      "isbns": [
+        "9780805098990"
+      ]
+    },
+    {
+      "label": "Bronze and Sunflower",
+      "isbns": [
+        "9780763688165"
+      ]
+    },
+    {
+      "label": "Hidden : a child's story of the Holocaust",
+      "isbns": [
+        "9781596438736"
+      ]
+    },
+    {
+      "label": "George",
+      "isbns": [
+        "9780545812542"
+      ]
+    },
+       {
+      "label": " The Vanderbeekers of 141st Street",
+      "isbns": [
+        "9780544876392"
+      ]
+    },
+        {
+      "label": " Guys read. Heroes & villains",
+      "isbns": [
+        "9780062385611",
+        "9780062385604"
+      ]
+    },
+        {
+      "label": "Out of the dust",
+      "isbns": [
+        "9780590360807",
+        "9780590371254"
+      ]
+    },
+        {
+      "label": "One true way",
+      "isbns": [
+        "9781338181722"
+      ]
+    },
+        {
+      "label": "The phantom tollbooth",
+      "isbns": [
+        "9780394815008",
+        "9780394820378",
+        "9781439555590"
+      ]
+    },
+        {
+      "label": "From the mixed-up files of Mrs. Basil E. Frankweiler",
+      "isbns": [
+        "9780689703089",
+        "9780689853227",
+        "9780689205866"
+      ]
+    },
+        {
+      "label": "Masterminds",
+      "isbns": [
+        "9780062299963",
+        "9780062391131"
+      ]
+    },
+        {
+      "label": "Listen, slowly",
+      "isbns": [
+        "9780062229182"
+      ]
+    },
+        {
+      "label": "Big Nate strikes again",
+      "isbns": [
+        "9780061944376",
+        "9780061944369",
+        "9780062283580"
+      ]
+    },
+        {
+      "label": "As brave as you",
+      "isbns": [
+        "9781481415903",
+        "9781481415910"
+      ]
+    },
+        {
+      "label": "The bad beginning",
+      "isbns": [
+        "9780060283124",
+        "9780064407663",
+        "9780061146305"
+      ]
+    },
+        {
+      "label": "Maniac Magee : a novel",
+      "isbns": [
+        "9780316807227",
+        "9780316809061"
+      ]
+    },
+        {
+      "label": "The screaming staircase",
+      "isbns": [
+        "9781423164913",
+        "9781423186922"
+      ]
+    },
+        {
+      "label": "Smile",
+      "isbns": [
+        "9780545241823",
+        "9780545132053",
+        "9780545132060",
+        "9780606140829"
+      ]
+    },
+        {
+      "label": "The trials of Morrigan Crow",
+      "isbns": [
+        "9780316508889"
+      ]
+    },
+        {
+      "label": "Three times lucky",
+      "isbns": [
+        "9780803736702"
+      ]
+    },
+        {
+      "label": "Newsprints",
+      "isbns": [
+        "9780545803120",
+        "9780545803113"
+      ]
+    },
+        {
+      "label": "Not so different : what you really want to ask about having a disability",
+      "isbns": [
+        "9781626727717"
+      ]
+    },
+        {
+      "label": "Common ground : the water, earth, and air we share",
+      "isbns": [
+        "9780590100564"
+      ]
+    },
+        {
+      "label": "Bugged : how insects changed history",
+      "isbns": [
+        "9780802734228",
+        "9780802734235"
+      ]
+    },
+            {
+      "label": "The great white shark scientist",
+      "isbns": [
+        "9780544352988"
+      ]
+    },
+            {
+      "label": "I'm just no good at rhyming and other nonsense for mischievous kids and immature grown-ups",
+      "isbns": [
+        "9780316266574"
+      ]
+    },
+            {
+      "label": "Wet cement : a mix of concrete poems",
+      "isbns": [
+        "9781626722361"
+      ]
+    },
+            {
+      "label": "Bravo! : poems about amazing Hispanics",
+      "isbns": [
+        "9780805098761"
+      ]
+    },
+            {
+      "label": "Rad American women A-Z",
+      "isbns": [
+        "9780872866836"
+      ]
+    },
+            {
+      "label": "Dazzle ships : World War I and the art of confusion",
+      "isbns": [
+        "9781512410143"
+      ]
+    },
+            {
+      "label": "Alamo all-stars",
+      "isbns": [
+        "9781419719028"
+      ]
+    },
+    {
+      "label": "A poem for Peter : the story of Ezra Jack Keats and the creation of The snowy day",
+      "isbns": [
+        "9780425287682"
+      ]
+    }
+  ]
+}
