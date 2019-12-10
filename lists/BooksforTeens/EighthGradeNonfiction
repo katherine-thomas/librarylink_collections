@@ -1,0 +1,45 @@
+{
+  "label": "DC Public Library - Suggested Nonfiction Books for Eighth Grade",
+  "description": "A list of nonfiction books recommended by DC Public Library for Eighth Grade.",
+  "list": [
+    {
+      "label": "Alexander Hamilton, revolutionary",
+      "isbns": [
+        "9781250123190"
+      ]
+    },
+    {
+      "label": "March. Book one",
+      "isbns": [
+        "9781603093002"
+      ]
+    },
+    {
+      "label": "Girl rising : changing the world one girl at a time",
+      "isbns": [
+        "99780553511468",
+        "9780553511475",
+        "9780553511499"
+      ]
+    },
+    {
+      "label": "Rhythm ride : a road trip through the Motown sound",
+      "isbns": [
+        "9781596439733"
+      ]
+    },
+    {
+      "label": "Voices in the air : poems for listeners",
+      "isbns": [
+        "9780062691866",
+        "9780062691842"
+      ]
+    },
+    {
+      "label": "The boys who challenged Hitler : Knud Pedersen and the Churchill Club",
+      "isbns": [
+        "9780374300227"
+      ]
+    }
+  ]
+}
