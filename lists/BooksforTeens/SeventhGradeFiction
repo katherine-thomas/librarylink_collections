@@ -1,0 +1,177 @@
+{
+  "label": "DC Public Library - Suggested Fiction Books for Seventh Grade",
+  "description": "A list of fictional books recommended by DC Public Library for Seventh Grade.",
+  "list": [
+    {
+      "label": "Zombie baseball beatdown",
+      "isbns": [
+        "9780316220781"
+      ]
+    },
+    {
+      "label": "Heist society",
+      "isbns": [
+        "9781423116394",
+        "9781423116615"
+      ]
+    },
+    {
+      "label": "Alex & Eliza : a love story",
+      "isbns": [
+        "9781524739621"
+      ]
+    },
+    {
+      "label": "Trickster : Native American tales : a graphic collection",
+      "isbns": [
+        "9781555917241"
+      ]
+    },
+    {
+      "label": "Suspect red",
+      "isbns": [
+        "9781423157540"
+      ]
+    },
+    {
+      "label": "When friendship followed me home",
+      "isbns": [
+        "9780803738164",
+        "9781925355499"
+      ]
+    },
+    {
+      "label": "A skinful of shadows",
+      "isbns": [
+        "9781419725722",
+        "9781419733765"
+      ]
+    },
+       {
+      "label": "Finding Audrey",
+      "isbns": [
+        "9780553536515"
+      ]
+    },
+        {
+      "label": "Slacker",
+      "isbns": [
+        "9780545823159"
+      ]
+    },
+        {
+      "label": "Legend",
+      "isbns": [
+        "9780399256752",
+        "9780142422076",
+        "9780545528344",
+        "9780329946227"
+      ]
+    },
+        {
+      "label": "The novice",
+      "isbns": [
+        "9781250067128"
+      ]
+    },
+        {
+      "label": "The last boy at St. Edith's",
+      "isbns": [
+        "9781481444354"
+      ]
+    },
+        {
+      "label": "When Dimple met Rishi",
+      "isbns": [
+        "9781481478687"
+      ]
+    },
+        {
+      "label": "Mark of the thief",
+      "isbns": [
+        "9780545561549"
+      ]
+    },
+        {
+      "label": "Akata witch",
+      "isbns": [
+        "9780670011964",
+        "9780142420911"
+      ]
+    },
+        {
+      "label": "Loving vs. Virginia : a documentary novel of the landmark civil rights case",
+      "isbns": [
+        "9781452125909"
+      ]
+    },
+        {
+      "label": "The golden compass",
+      "isbns": [
+        "9780679879244",
+        "9780440418320",
+        "9780345413352",
+        "9780375838309",
+        "9780375938306"
+      ]
+    },
+        {
+      "label": "Long way down",
+      "isbns": [
+        "9781481438254",
+        "9781481438261"
+      ]
+    },
+        {
+      "label": "How to disappear",
+      "isbns": [
+        "9780062291752"
+      ]
+    },
+        {
+      "label": "Salt to the sea : a novel",
+      "isbns": [
+        "9780399160301"
+      ]
+    },
+        {
+      "label": "The Wednesday wars",
+      "isbns": [
+        "9780618724833",
+        "9781428739239"
+      ]
+    },
+        {
+      "label": "Thornhill",
+      "isbns": [
+        "9781626726543"
+      ]
+    },
+        {
+      "label": "Lumberjanes. [Volume one], Beware the kitten holy",
+      "isbns": [
+        "9781608866878"
+      ]
+    },
+        {
+      "label": "Lowriders in space",
+      "isbns": [
+        "9781452128696",
+        "9781452121550"
+      ]
+    },
+        {
+      "label": "Listen to your heart",
+      "isbns": [
+        "9781338210057"
+      ]
+    },
+        {
+      "label": "American born Chinese",
+      "isbns": [
+        "9781596431522",
+        "9780312384487"
+      ]
+    }
+  ]
+}
