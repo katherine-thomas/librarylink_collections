@@ -1,0 +1,196 @@
+{
+  "label": "DC Public Library - Suggested Fiction Books for Eighth Grade",
+  "description": "A list of fictional books recommended by DC Public Library for Eighth Grade.",
+  "list": [
+    {
+      "label": "Chains",
+      "isbns": [
+        "9781416905851",
+        "9781416905868"
+      ]
+    },
+    {
+      "label": "Black Panther. A nation under our feet, Book 1",
+      "isbns": [
+        "9781302900533"
+      ]
+    },
+    {
+      "label": "Once and for all : a novel",
+      "isbns": [
+        "9780425290330"
+      ]
+    },
+    {
+      "label": "Gutless",
+      "isbns": [
+        "9781328742063",
+        "9780544649613"
+      ]
+    },
+    {
+      "label": "Surviving Hitler",
+      "isbns": [
+        "9781935430599",
+        "9780688174972",
+        "9780060292188",
+        "9780062252135"
+      ]
+    },
+    {
+      "label": "The ruins of Gorlan",
+      "isbns": [
+        "9780399244544",
+        "9780142406632",
+        "9781415609194",
+        "9780756968984",
+        "9781435233133"
+      ]
+    },
+    {
+      "label": "Lily and Dunkin",
+      "isbns": [
+        "9780553536744",
+        "9780553536751"
+      ]
+    },
+       {
+      "label": "The princess bride : S. Morgenstern's classic tale of true love and high adventure",
+      "isbns": [
+        "9780156035217",
+        "9780345430144"
+      ]
+    },
+        {
+      "label": "Allegedly : a novel",
+      "isbns": [
+        "9780062422644",
+        "9780062668653",
+        "9780062422651"
+      ]
+    },
+        {
+      "label": "Warcross",
+      "isbns": [
+        "9780399547966"
+      ]
+    },
+        {
+      "label": "Infinite in between",
+      "isbns": [
+        "9780061731075"
+      ]
+    },
+        {
+      "label": "Wild beauty",
+      "isbns": [
+        "9781250124555",
+        "9781250173744"
+      ]
+    },
+        {
+      "label": "Camp So-and-So",
+      "isbns": [
+        "9781481478687",
+        "9781512434293"
+      ]
+    },
+        {
+      "label": "The Authentics",
+      "isbns": [
+        "9780062486462"
+      ]
+    },
+        {
+      "label": "The false prince",
+      "isbns": [
+        "9780545433471",
+        "9780545284134"
+      ]
+    },
+        {
+      "label": "I am Princess X",
+      "isbns": [
+        "9780545620857",
+        "9780545839112",
+        "9781338243598",
+        "9780545642743"
+      ]
+    },
+        {
+      "label": "Eleanor & Park",
+      "isbns": [
+        "9781250012579"
+      ]
+    },
+        {
+      "label": "The boy in the black suit",
+      "isbns": [
+        "9781442459502",
+        "9781442459519"
+      ]
+    },
+        {
+      "label": "The hired girl",
+      "isbns": [
+        "9780763678180"
+      ]
+    },
+        {
+      "label": "She is not invisible",
+      "isbns": [
+        "9781250056986",
+        "9781596438019"
+      ]
+    },
+        {
+      "label": "Disappeared",
+      "isbns": [
+        "9780545944472"
+      ]
+    },
+        {
+      "label": "The Amulet of Samarkand",
+      "isbns": [
+        "9780786818594",
+        "9780786852550",
+        "9780786856251"
+      ]
+    },
+        {
+      "label": "This one summer",
+      "isbns": [
+        "9781596437746",
+        "9781626720947"
+      ]
+    },
+        {
+      "label": "The Day Tajon Got Shot",
+      "isbns": [
+        "9780996927451"
+      ]
+    },
+        {
+      "label": "Piecing me together",
+      "isbns": [
+        "9781681191058"
+      ]
+    },
+        {
+      "label": "Ms. Marvel. 1, No normal",
+      "isbns": [
+        "9780785190219"
+      ]
+    },
+            {
+      "label": "The book thief",
+      "isbns": [
+        "9781101934180",
+        "9780307433848",
+        "9780307433848",
+        "9780739348345",
+        "9780739348345"
+      ]
+    }
+  ]
+}
