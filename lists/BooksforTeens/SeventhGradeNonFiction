@@ -1,0 +1,84 @@
+{
+  "label": "DC Public Library - Suggested Nonfiction Books for Seventh Grade",
+  "description": "A list of nonfiction books recommended by DC Public Library for Seventh Grade.",
+  "list": [
+    {
+      "label": "Fault lines in the Constitution : the framers, their fights, and the flaws that affect us today",
+      "isbns": [
+        "9781561459452"
+      ]
+    },
+    {
+      "label": "Drowned city : Hurricane Katrina & New Orleans",
+      "isbns": [
+        "9780544157774"
+      ]
+    },
+    {
+      "label": "Alex & Eliza : a love story",
+      "isbns": [
+        "9781524739621"
+      ]
+    },
+    {
+      "label": "Guys read : true stories",
+      "isbns": [
+        "9780061963827",
+        "9780061963810",
+        "9780606359573",
+        "9781480650763"
+      ]
+    },
+    {
+      "label": "Poetry speaks who I am",
+      "isbns": [
+        "9781402210747"
+      ]
+    },
+    {
+      "label": "Titanic : voices from the disaster",
+      "isbns": [
+        "9780545116749",
+        "9780545436779"
+      ]
+    },
+    {
+      "label": "Becoming Kareem : growing up on and off the court",
+      "isbns": [
+        "9780316555388"
+      ]
+    },
+       {
+      "label": "Ten days a madwoman : the daring life and turbulent times of the original 'girl' reporter Nellie Bly",
+      "isbns": [
+        "9780803740174"
+      ]
+    },
+        {
+      "label": "Being Jazz : my life as a (transgender) teen",
+      "isbns": [
+        "9780399554643"
+      ]
+    },
+        {
+      "label": "Samurai rising : the epic life of Minamoto Yoshitsune",
+      "isbns": [
+        "9781580895842"
+      ]
+    },
+        {
+      "label": "Undefeated : Jim Thorpe and the Carlisle Indian School Football team",
+      "isbns": [
+        "9781596439542"
+      ]
+    },
+        {
+      "label": "Brown girl dreaming",
+      "isbns": [
+        "9780399252518",
+        "9780147515827",
+        "9781432850425"
+      ]
+    }
+  ]
+}
