@@ -1,0 +1,79 @@
+{
+  "label": "DC Public Library - Suggested Nonfiction Books for 11th Grade",
+  "description": "A list of nonfiction books recommended by DC Public Library for 11th Grade.",
+  "list": [
+    {
+      "label": "Between the world and me",
+      "isbns": [
+        "9780812993547"
+      ]
+    },
+    {
+      "label": "Undocumented : a Dominican boy's odyssey from a homeless shelter to the Ivy League",
+      "isbns": [
+        "9781594206528"
+      ]
+    },
+    {
+      "label": "Bootleg : murder, moonshine, and the lawless years of prohibition",
+      "isbns": [
+        "9781596434493",
+        "9781250034274"
+      ]
+    },
+    {
+      "label": "Eyes wide open : going behind the environmental headlines",
+      "isbns": [
+        "9780763671020",
+        "9780763675455"
+      ]
+    },
+    {
+      "label": "The 57 bus",
+      "isbns": [
+        "9780374303235"
+      ]
+    },
+        {
+      "label": "Grammar girl presents the ultimate writing guide for students",
+      "isbns": [
+        "9780805089431",
+        "9780805089448"
+      ]
+    },
+            {
+      "label": "Filmish : a graphic journey through film",
+      "isbns": [
+        "9781910593035"
+      ]
+    },
+                {
+      "label": "A hope more powerful than the sea : one refugee's incredible story of love, loss, and survival",
+      "isbns": [
+        "9781250105998"
+      ]
+    },
+                    {
+      "label": "Gather together in my name.",
+      "isbns": [
+        "9780394486925",
+        "9780812980301"
+      ]
+    },
+                        {
+      "label": "Laughing at my nightmare",
+      "isbns": [
+        "9781626720077",
+        "9781250080103",
+        "9781626720084"
+      ]
+    },
+    {
+      "label": "Dreams from my father : a story of race and inheritance",
+      "isbns": [
+        "9781400082773",
+        "9780307383419"
+      ]
+    }
+  ]
+}
