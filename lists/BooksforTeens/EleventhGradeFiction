@@ -1,0 +1,191 @@
+{
+  "label": "DC Public Library - Suggested Fiction Books for Eleventh Grade",
+  "description": "A list of fictional books recommended by DC Public Library for Eleventh Grade.",
+  "list": [
+    {
+      "label": "The hitchhiker's guide to the galaxy",
+      "isbns": [
+        "9781400052929",
+        "9780517542095",
+        "9780345391803",
+        "9780345418913",
+        "9780792738589"
+      ]
+    },
+    {
+      "label": "Children of blood and bone",
+      "isbns": [
+        "9781250170972"
+      ]
+    },
+    {
+      "label": "Ship breaker",
+      "isbns": [
+        "9780316056212"
+      ]
+    },
+    {
+      "label": "Lexicon",
+      "isbns": [
+        "9781594205385",
+        "9780143125426"
+      ]
+    },
+    {
+      "label": "Gap life",
+      "isbns": [
+        "9781250088956"
+      ]
+    },
+    {
+      "label": "Extremely Loud and Incredibly Close",
+      "isbns": [
+        "9780547416212"
+      ]
+    },
+    {
+      "label": "Anansi Boys",
+      "isbns": [
+        "9780061794971",
+        "9780792744467",
+        "9780060515188",
+        "9780061342394"
+      ]
+    },
+       {
+      "label": "Looking for Alaska",
+      "isbns": [
+        "9780525428022",
+        "9781101434208",
+        "9780525475064",
+        "9780142402511"
+      ]
+    },
+        {
+      "label": "The curious incident of the dog in the night-time",
+      "isbns": [
+        "9780385509459",
+        "9780385512107",
+        "9781400032716",
+        "9781456126797",
+        "9781400079070"
+      ]
+    },
+        {
+      "label": "Their eyes were watching God",
+      "isbns": [
+        "9780060776534",
+        "9781402519741",
+        "9780837118857",
+        "9780252006869",
+        "9780060199494",
+        "9780060838676",
+        "9780061120060"
+      ]
+    },
+        {
+      "label": "Dread nation : rise up",
+      "isbns": [
+        "9780062570604"
+      ]
+    },
+        {
+      "label": "Exit, pursued by a bear",
+      "isbns": [
+        "9781101994580"
+      ]
+    },
+        {
+      "label": "The left hand of darkness",
+      "isbns": [
+        "9780143111597",
+        "9780441478125",
+        "9780441478064",
+        "9781101665398",
+        "9781501910111"
+      ]
+    },
+        {
+      "label": "Catwoman : Soulstealer",
+      "isbns": [
+        "9780141386881",
+        "9780399549694",
+        "9780399549700",
+        "9780525644569"
+      ]
+    },
+        {
+      "label": "When the moon was ours",
+      "isbns": [
+        "9781250058669"
+      ]
+    },
+        {
+      "label": "Everything I never told you",
+      "isbns": [
+        "9781594205712"
+      ]
+    },
+        {
+      "label": "Shadowshaper",
+      "isbns": [
+        "9780545591614"
+      ]
+    },
+        {
+      "label": "Out of nowhere",
+      "isbns": [
+        "9780375865800",
+        "9780375865626",
+        "9780375965807"
+      ]
+    },
+        {
+      "label": "Floundering fathers : a pearls before swine collection",
+      "isbns": [
+        "9781449489342"
+      ]
+    },
+        {
+      "label": "Fangirl",
+      "isbns": [
+        "9781250030955"
+      ]
+    },
+        {
+      "label": "Bone Gap",
+      "isbns": [
+        "9780062317605"
+      ]
+    },
+        {
+      "label": "The inexplicable logic of my life : a novel",
+      "isbns": [
+        "9780544586505",
+        "9781328498021",
+        "9781471171031"
+      ]
+    },
+        {
+      "label": "Code name Verity",
+      "isbns": [
+        "9781423152194"
+      ]
+    },
+        {
+      "label": "Everything, everything",
+      "isbns": [
+        "9780553496642",
+        "9780553496673",
+        "9780553496659"
+      ]
+    },
+        {
+      "label": "The serpent king : a novel",
+      "isbns": [
+        "9780553524024",
+        "9780553524031"
+      ]
+    }
+  ]
+}
