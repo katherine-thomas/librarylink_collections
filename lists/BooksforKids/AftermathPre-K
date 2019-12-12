@@ -1,0 +1,79 @@
+{
+  "label": "After the questions....back to childhood for Pre-K to First Grade Children",
+  "description": "When the questions about bad or scary news and events have been addressed, it is quite possible that children who are not in the immediate vicinity of the violence will want life to return to “normal.” They may want to snuggle with a parent and a familiar book, one that feels like an old friend. Your child may prefer adventure, fairy tales, humor or “how things work.” Older children may find comfort in fantasy, where good triumphs over evil. Here is a sampling of suggestions. For more ideas for your child, please talk to one of our children’s librarians or visit our children’s page: http://dclibrary.org/kids/booklists",
+  "list": [
+    {
+      "label": "Corduroy",
+      "isbns": [
+        "9780590757751",
+        "9780140501735",
+        "9780670063369",
+        "9780670241330",
+        "9780670013111"
+      ]
+    },
+    {
+      "label": "Jack and the beanstalk",
+      "isbns": [
+        "9780688102500",
+        "9780688102517",
+        "9780738315256",
+        "9780688152819"
+      ]
+    },
+    {
+      "label": "Cinderella",
+      "isbns": [
+        "9781587170041",
+        "9781587170058"
+      ]
+    },
+    {
+      "label": "King Bidgood's in the bathtub",
+      "isbns": [
+        "9780152427306",
+        "9780152427320",
+        "9780152427313"
+      ]
+    },
+    {
+      "label": "Make way for ducklings",
+      "isbns": [
+        "9780670451494",
+        "9780670035380",
+        "9780140564341",
+        "9780670050178",
+        "9781434219502"
+      ]
+    },
+    {
+      "label": "Strega Nona",
+      "isbns": [
+        "9780138516000",
+        9780671666064",
+        9780138515928",
+        9780590759373"
+      ]
+    },
+        {
+      "label": "The lion & the mouse",
+      "isbns": [
+        "9780316013567"
+      ]
+    },
+            {
+      "label": "Amazing Grace",
+      "isbns": [
+        "9780803710405",
+        "9780590460095",
+        "9781451785296"
+      ]
+    },
+                {
+      "label": "Richard Scarry's best story book ever",
+      "isbns": [
+        "9780307165480"
+      ]
+    }
+  ]
+}
