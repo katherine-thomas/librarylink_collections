@@ -1,0 +1,44 @@
+{
+  "label": "Helping Pre-K through Third Grade Children Deal with Shootings and Other Bad News",
+  "description": "These books, owned by the D.C. Public Library, may be helpful in addressing the “why” questions and offering comfort. for children Pre-K through Third Grade",
+  "list": [
+    {
+      "label": "When I feel scared",
+      "isbns": [
+        "9780807588901",
+        "9780807589007"
+      ]
+    },
+    {
+      "label": "Sometimes bad things happen",
+      "isbns": [
+        "9780761328100"
+      ]
+    },
+    {
+      "label": "On that day : a book of hope for childre",
+      "isbns": [
+        "9781582461007"
+      ]
+    },
+    {
+      "label": "Tell me something happy before I go to sleep",
+      "isbns": [
+        "9780152017958",
+        "9780152018061"
+      ]
+    },
+    {
+      "label": "You hold me up",
+      "isbns": [
+        "9781459814479"
+      ]
+    },
+    {
+      "label": "This place I know : poems of comfort",
+      "isbns": [
+        "9780763619244"
+      ]
+    }
+  ]
+}
