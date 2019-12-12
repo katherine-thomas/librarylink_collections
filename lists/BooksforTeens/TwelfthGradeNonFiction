@@ -1,0 +1,81 @@
+{
+  "label": "DC Public Library - Suggested Nonfiction Books for 12th Grade",
+  "description": "A list of nonfiction books recommended by DC Public Library for 12th Grade.",
+  "list": [
+    {
+      "label": "Modern romance",
+      "isbns": [
+        "9781594206276"
+      ]
+    },
+    {
+      "label": "The naked roommate : and 107 other issues you might run into in college",
+      "isbns": [
+        "9781492645962"
+      ]
+    },
+    {
+      "label": "Stiff : the curious lives of human cadavers",
+      "isbns": [
+        "9780393050936",
+        "9780393324822",
+        "9780329444518",
+        "9781428737495",
+        "9781435287426"
+      ]
+    },
+    {
+      "label": "Hamilton : the revolution : being the complete libretto of the Broadway musical, with a true account of its creation, and concise remarks on hip-hop, the power of stories, and the new America",
+      "isbns": [
+        "9781455539741"
+      ]
+    },
+    {
+      "label": "The Port Chicago 50 : disaster, mutiny, and the fight for civil rights",
+      "isbns": [
+        "9781596437968"
+      ]
+    },
+        {
+      "label": "Yes we (still) can : politics in the age of Obama, Twitter, and Trump",
+      "isbns": [
+        "9781538711712"
+      ]
+    },
+            {
+      "label": "Notorious RBG : the life and times of Ruth Bader Ginsburg",
+      "isbns": [
+        "9780062415837",
+        "9780062415820",
+        "9780062425713",
+        "9780062425737"
+      ]
+    },
+            {
+      "label": "In the country we love : my family divided",
+      "isbns": [
+        "9781627795272"
+      ]
+    },
+                {
+      "label": "Malcolm X : a graphic biography",
+      "isbns": [
+        "9780809095049"
+      ]
+    },
+                    {
+      "label": "Makes me wanna holler : a young Black man in America",
+      "isbns": [
+        "9780679740704",
+        "9780613094900",
+        "9780679412687"
+      ]
+    },
+    {
+      "label": "How dare the sun rise : memoirs of a war child",
+      "isbns": [
+        "9780062470140"
+      ]
+    }
+  ]
+}
