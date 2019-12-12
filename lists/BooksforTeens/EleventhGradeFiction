@@ -3,16 +3,6 @@
   "description": "A list of fictional books recommended by DC Public Library for Eleventh Grade.",
   "list": [
     {
-      "label": "The hitchhiker's guide to the galaxy",
-      "isbns": [
-        "9781400052929",
-        "9780517542095",
-        "9780345391803",
-        "9780345418913",
-        "9780792738589"
-      ]
-    },
-    {
       "label": "Children of blood and bone",
       "isbns": [
         "9781250170972"
@@ -81,6 +71,16 @@
         "9780060199494",
         "9780060838676",
         "9780061120060"
+      ]
+    },
+        {
+      "label": "The hitchhiker's guide to the galaxy",
+      "isbns": [
+        "9781400052929",
+        "9780517542095",
+        "9780345391803",
+        "9780345418913",
+        "9780792738589"
       ]
     },
         {
