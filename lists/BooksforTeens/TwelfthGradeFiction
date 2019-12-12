@@ -1,0 +1,184 @@
+{
+  "label": "DC Public Library - Suggested Fiction Books for 12th Grade",
+  "description": "A list of fictional books recommended by DC Public Library for 12th Grade.",
+  "list": [
+    {
+      "label": "Chains",
+      "isbns": [
+        "9781416905851",
+        "9781416905868"
+      ]
+    },
+    {
+      "label": "Giant days. Volume one",
+      "isbns": [
+        "9781608867899"
+      ]
+    },
+    {
+      "label": "In the time of the butterflies",
+      "isbns": [
+        "9780452274426",
+        "9781565120389",
+        "9781565129764",
+        "9781448733705",
+        "9780613023894",
+        "9781419316579"
+      ]
+    },
+    {
+      "label": "Bless me, Ultima",
+      "isbns": [
+        "9780446675369"
+      ]
+    },
+    {
+      "label": "My friend Dahmer : a graphic novel",
+      "isbns": [
+        "9781419702167",
+        "9781419702174"
+      ]
+    },
+    {
+      "label": "The history of Jane Doe",
+      "isbns": [
+        "9780735228818"
+      ]
+    },
+    {
+      "label": "The passion of Dolssa : a novel",
+      "isbns": [
+        "9780451469922"
+      ]
+    },
+       {
+      "label": "All the light we cannot see : a novel",
+      "isbns": [
+        "9781476746586",
+        "9781476746593",
+        "9781501173219"
+      ]
+    },
+        {
+      "label": "All involved",
+      "isbns": [
+        "9780062378798"
+      ]
+    },
+        {
+      "label": "The regional office is under attack!",
+      "isbns": [
+        "9781594632419"
+      ]
+    },
+        {
+      "label": "Beowulf",
+      "isbns": [
+        "9780763630225"
+      ]
+    },
+        {
+      "label": "Truly devious",
+      "isbns": [
+        "9780062338051"
+      ]
+    },
+        {
+      "label": "Camp So-and-So",
+      "isbns": [
+        "9781481478687",
+        "9781512434293"
+      ]
+    },
+        {
+      "label": "The secret life of bees",
+      "isbns": [
+        "9780736699518",
+        "9780670032372",
+        "9780670894604",
+        "9780965331920",
+        "9780142001745",
+        "9781101010969"
+      ]
+    },
+        {
+      "label": "Girl in translation",
+      "isbns": [
+        "9781594487569"
+      ]
+    },
+        {
+      "label": "The Road",
+      "isbns": [
+        "9780307267450",
+        "9780307265432",
+        "9780307387899"
+      ]
+    },
+        {
+      "label": "Midnight city : a Conquered Earth novel",
+      "isbns": [
+        "9781250009074",
+        "9781250036285"
+      ]
+    },
+        {
+      "label": "The night circus : a novel",
+      "isbns": [
+        "9780385534635",
+        "9780307744432"
+      ]
+    },
+        {
+      "label": "Luna : a novel",
+      "isbns": [
+        "9780316733694",
+        "9780316011273"
+      ]
+    },
+        {
+      "label": "A list of cages",
+      "isbns": [
+        "9781484763803"
+      ]
+    },
+        {
+      "label": "Push : a novel",
+      "isbns": [
+        "9780679446262",
+        "9780307474841"
+      ]
+    },
+        {
+      "label": "History is all you left me",
+      "isbns": [
+        "9781616956929"
+      ]
+    },
+        {
+      "label": "Slaughterhouse-Five",
+      "isbns": [
+        "9780795311987",
+        "9780440339069",
+        "9780385333849",
+        "9780440180296"
+      ]
+    },
+        {
+      "label": "The Martian : a novel",
+      "isbns": [
+        "9780804139021",
+        "9780553418026",
+        "9780804189354"
+      ]
+    },
+        {
+      "label": "The sun is also a star",
+      "isbns": [
+        "9780553496680",
+        "9780553496697",
+        "9780553496710"
+      ]
+    }
+  ]
+}
