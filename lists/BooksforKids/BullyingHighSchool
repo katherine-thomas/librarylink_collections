@@ -1,0 +1,86 @@
+{
+  "label": "Resources about Bullying Prevention for HighSchool (9-12)",
+  "description": "Books from DC Public Library that can help you talk about the topic of bullying prevention with your teen.",
+  "list": [
+    {
+      "label": "Thirteen reasons why : a novel",
+      "isbns": [
+        "9781595141712"
+      ]
+    },
+    {
+      "label": "Playground",
+      "isbns": [
+        "9781595144348"
+      ]
+    },
+    {
+      "label": "Symptoms of being human",
+      "isbns": [
+        "9780062382863"
+      ]
+    },
+    {
+      "label": "Speechless",
+      "isbns": [
+        "99780373210527"
+      ]
+    },
+    {
+      "label": "Rethinking normal : a memoir in transition",
+      "isbns": [
+        "9781442423657"
+      ]
+    },
+    {
+      "label": "Tease",
+      "isbns": [
+        "9780062305305"
+      ]
+    },
+    {
+      "label": "Bullying under attack : true stories written by teen victims, bullies & bystanders",
+      "isbns": [
+        "9780757317606"
+      ]
+    },
+    {
+      "label": "Words wound : delete cyberbullying and make kindness go viral",
+      "isbns": [
+        "9781575424514"
+      ]
+    },
+    {
+      "label": "Positive : surviving my bullies, finding hope, and living to change the world --a memoir",
+      "isbns": [
+        "9780062342515"
+      ]
+    },
+    {
+      "label": "This song will save your life",
+      "isbns": [
+        "9780374351380"
+      ]
+    },
+    {
+      "label": "It gets better : coming out, overcoming bullying, and creating a life worth living",
+      "isbns": [
+        "9780525952336"
+      ]
+    },
+    {
+      "label": "Vicious : true stories by teens about bullying",
+      "isbns": [
+        "9781575424132",
+        "9781575426556"
+      ]
+    },
+    {
+      "label": "Jumped",
+      "isbns": [
+        "9780060760915",
+        "9780060760922"
+      ]
+    }
+  ]
+}
