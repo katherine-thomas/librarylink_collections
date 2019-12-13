@@ -1,0 +1,41 @@
+{
+  "label": "2020 William C. Morris Award Finalists",
+  "description": "The Young Adult Library Services Association (YALSA), a division of the American Library Association (ALA), has selected five books as finalists for the 2020 William C. Morris Award, which honors the year’s best book written for young adults by a previously unpublished author. Check out these titles from DC Public Library",
+  "list": [
+    {
+      "label": "The candle and the flame",
+      "isbns": [
+        "9781338306040"
+      ]
+    },
+    {
+      "label": "The field guide to the North American teenager",
+      "isbns": [
+        "9780062824110",
+        "9780062824134"
+      ]
+    },
+    {
+      "label": "Frankly in Love",
+      "isbns": [
+        "9781984812216",
+        "9781984812209"
+      ]
+    },
+        {
+      "label": "Genesis Begins Again",
+      "isbns": [
+        "9781481465823",
+        "9781481465809",
+        "9781481465816"
+      ]
+    },
+            {
+      "label": "There Will Come a Darkness",
+      "isbns": [
+        "9781250211767",
+        "9781250211750"
+      ]
+    }
+  ]
+}
