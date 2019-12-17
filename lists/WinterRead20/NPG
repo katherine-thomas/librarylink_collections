@@ -1,0 +1,61 @@
+{
+  "label": "DC Public Library Recommended Reads for the National Portrait Gallery",
+  "description": "Visiting the National Portrait Gallery? Keep the fun going with these great reads from your neighborhood library!",
+  "list": [
+    {
+      "label": "My name is Truth : the life of Sojourner Truth",
+      "isbns": [
+        "9780060758981",
+        "9780060758998"
+      ]
+    },
+        {
+      "label": "On a beam of light : a story of Albert Einstein",
+      "isbns": [
+        "9780811872355",
+        "9781681411095"
+      ]
+    },
+            {
+      "label": "Parker looks up : an extraordinary moment",
+      "isbns": [
+        "9781534451865",
+        "9781534451872"
+      ]
+    },
+    {
+      "label": "Martin's Big Words",
+      "isbns": [
+        "9780786807147",
+        "9780786825912",
+        "9780545664424",
+        "9780545106467",
+        "9780439835411"
+      ]
+    },
+    {
+      "label": "Rosa",
+      "isbns": [
+        "9780805071061"
+      ]
+    },
+        {
+      "label": "Wilma unlimited : how Wilma Rudolph became the world's fastest woman",
+      "isbns": [
+        "9780152012670"
+      ]
+    },
+            {
+      "label": "Barack Obama : son of promise, child of hope",
+      "isbns": [
+        "9781416971443"
+      ]
+    },
+                {
+      "label": "Words set me free : the story of young Frederick Douglass",
+      "isbns": [
+        "9781416971443"
+      ]
+    }
+  ]
+}
