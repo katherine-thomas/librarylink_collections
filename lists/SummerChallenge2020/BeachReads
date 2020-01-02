@@ -1,0 +1,246 @@
+{
+  "label": "Listens for the road from DC Public Library",
+  "description": "Hitting the road this summer? A good audiobook can make the miles fly by! Hear titles read by incredible voice actors, the authors themselves and sometimes entire casts of characters that bring the words to life.",
+  "list": [
+    {
+      "label": "Curious Toys",
+      "isbns": [
+        "9780316485883"
+      ]
+    },
+    {
+      "label": "Red, White & Royal Blue",
+      "isbns": [
+        "9781250316776"
+      ]
+    },
+    {
+      "label": "Gun Island",
+      "isbns": [
+        "9780374167394"
+      ]
+    },
+    {
+      "label": "Lost in the Spanish Quarter",
+      "isbns": [
+        "9780062910226",
+        "9780062910233"
+      ]
+    },
+    {
+      "label": "A Madness of Sunshine",
+      "isbns": [
+        "9780593099131"
+      ]
+    },
+    {
+      "label": "Last Ones Left Alive",
+      "isbns": [
+        "9781250235220"
+      ]
+    },
+    {
+      "label": "Ayesha at Last",
+      "isbns": [
+        "9781984802804"
+      ]
+    },
+       {
+      "label": "From Scratch: A Memoir of Love, Sicily, and Finding Home",
+      "isbns": [
+        "9781501187650"
+      ]
+    },
+        {
+      "label": "The Wedding Party",
+      "isbns": [
+        "9781984802194"
+      ]
+    },
+        {
+      "label": "Professor Chandra Follows His Bliss",
+      "isbns": [
+        "9780525511380"
+      ]
+    },
+        {
+      "label": "Lock Every Door",
+      "isbns": [
+        "9781524745141",
+        "9781432866679"
+      ]
+    },
+        {
+      "label": "When We Left Cuba",
+      "isbns": [
+        "9780451490865"
+      ]
+    },
+        {
+      "label": "When Dimple met Rishi",
+      "isbns": [
+        "9781481478687"
+      ]
+    },
+        {
+      "label": "The Princess and the Fangirl",
+      "isbns": [
+        "9781683690962",
+        "9781683691105"
+      ]
+    },
+        {
+      "label": "I Wanna Be Where You Are",
+      "isbns": [
+        "9781250294883"
+      ]
+    },
+        {
+      "label": "The Bride Test",
+      "isbns": [
+        "9780451490827"
+      ]
+    },
+        {
+      "label": "The Seven or Eight Deaths of Stella Fortuna: A Novel",
+      "isbns": [
+        "9780062862822",
+        "9780062911636"
+      ]
+    },
+        {
+      "label": "Normal People: A Novel",
+      "isbns": [
+        "9781984822178",
+        "9780593168202"
+      ]
+    },
+        {
+      "label": "Passing",
+      "isbns": [
+        "9781632062024"
+      ]
+    },
+        {
+      "label": "Wordslut: A Feminist Guide to Taking Back the English Language",
+      "isbns": [
+        "9780062868879"
+      ]
+    },
+        {
+      "label": "Patsy: A Novel",
+      "isbns": [
+        "9781631495632"
+      ]
+    },
+        {
+      "label": "City of Girls: A Novel",
+      "isbns": [
+        "9781594634734",
+        "9780593104361"
+      ]
+    },
+        {
+      "label": "Searching for Sylvie Lee: A Novel",
+      "isbns": [
+        "9780062834300",
+        "9780062912022"
+      ]
+    },
+        {
+      "label": "My Seditious Heart",
+      "isbns": [
+        "9781608466733"
+      ]
+    },
+        {
+      "label": "One Night in Georgia: A Novel",
+      "isbns": [
+        "9780062329899"
+      ]
+    },
+        {
+      "label": "Devotion: A Novel",
+      "isbns": [
+        "9780062883223"
+      ]
+    },
+            {
+      "label": "Evvie Drake Starts Over",
+      "isbns": [
+        "9780525619246",
+        "9781432865702"
+      ]
+    },
+            {
+      "label": "How Could She",
+      "isbns": [
+        "9780525559382"
+      ]
+    },
+            {
+      "label": "Her Royal Highness",
+      "isbns": [
+        "9780062883223"
+      ]
+    },
+            {
+      "label": "Bowlaway",
+      "isbns": [
+        "9780062862853",
+        "9780062888273"
+      ]
+    },
+            {
+      "label": "The Reckless Oath We Made",
+      "isbns": [
+        "9780525541844"
+      ]
+    },
+            {
+      "label": "Waiting for Tom Hanks",
+      "isbns": [
+        "9781984804020"
+      ]
+    },
+            {
+      "label": "Park Avenue Summer",
+      "isbns": [
+        "9781101991152"
+      ]
+    },
+            {
+      "label": "Speaking of Summer",
+      "isbns": [
+        "9781640091917"
+      ]
+    },
+            {
+      "label": "Her Daughter's Mother",
+      "isbns": [
+        "9780525539971"
+      ]
+    },
+            {
+      "label": "The Woman in the Window",
+      "isbns": [
+        "9780062678416",
+        "9780062678423"
+      ]
+    },
+            {
+      "label": "An American Marriage",
+      "isbns": [
+        "9781616201340",
+        "9781616208776",
+        "9781616208684"
+      ]
+    },
+            {
+      "label": "The Kiss Quotient",
+      "isbns": [
+        "9780451490803"
+      ]
+    }
+  ]
+}
