@@ -1,0 +1,199 @@
+{
+  "label": "Listens for the road from DC Public Library",
+  "description": "Hitting the road this summer? A good audiobook can make the miles fly by! Hear titles read by incredible voice actors, the authors themselves and sometimes entire casts of characters that bring the words to life.",
+  "list": [
+    {
+      "label": "Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",
+      "isbns": [
+        "9781549179235",
+        "9781549175459"
+      ]
+    },
+    {
+      "label": "Lincoln in the Bardo",
+      "isbns": [
+        "9780553397604",
+        "9780553397574"
+      ]
+    },
+    {
+      "label": "Stone Mattress",
+      "isbns": [
+        "9780553546057"
+      ]
+    },
+    {
+      "label": "The Testaments",
+      "isbns": [
+        "9780525590453",
+        "9780525590484"
+      ]
+    },
+    {
+      "label": "Bird Box",
+      "isbns": [
+        "9780062331908",
+        "9780062353436"
+      ]
+    },
+    {
+      "label": "Becoming",
+      "isbns": [
+        "9780525633709",
+        "9780525633679",
+        "9780525633693"
+      ]
+    },
+    {
+      "label": "Stay Sexy & Don't Get Murdered",
+      "isbns": [
+        "9781250222282",
+        "9781250222299"
+      ]
+    },
+       {
+      "label": "To Kill a Mockingbird",
+      "isbns": [
+        "9780062368690",
+        "9780061808128",
+        "9780788749384"
+      ]
+    },
+        {
+      "label": "The Graveyard Book",
+      "isbns": [
+        "9780061707391",
+        "9780062363565",
+        "9781436158848"
+      ]
+    },
+        {
+      "label": "Bad Blood",
+      "isbns": [
+        "9780593105061"
+      ]
+    },
+        {
+      "label": "Angela's Ashes",
+      "isbns": [
+        "9780743595261",
+        "9780743595117"
+      ]
+    },
+        {
+      "label": "The Underground Railroad",
+      "isbns": [
+        "9781524736286",
+        "9781524736255"
+      ]
+    },
+        {
+      "label": "Aristotle and Dante Discover the Secrets of the Universe",
+      "isbns": [
+        "9781442366411",
+        "9781442366077"
+      ]
+    },
+        {
+      "label": "Me Talk Pretty One Day",
+      "isbns": [
+        "9781600249471"
+      ]
+    },
+        {
+      "label": "Educated",
+      "isbns": [
+        "9780525528081",
+        "9780525528050"
+      ]
+    },
+        {
+      "label": "Big Sky",
+      "isbns": [
+        "9781549125522"
+      ]
+    },
+        {
+      "label": "Midnight in Chernobyl",
+      "isbns": [
+        "9781508278511",
+        "9781508278528"
+      ]
+    },
+        {
+      "label": "The Raven Tower",
+      "isbns": [
+        "9781549178610"
+      ]
+    },
+        {
+      "label": "The Secret Commonwealth",
+      "isbns": [
+        "9780593105214"
+      ]
+    },
+        {
+      "label": "Tuesday Mooney Talks to Ghosts",
+      "isbns": [
+        "9780358285144"
+      ]
+    },
+        {
+      "label": "Daisy Jones & The Six",
+      "isbns": [
+        "9781984845290",
+        "9781984845320"
+      ]
+    },
+        {
+      "label": "Recursion",
+      "isbns": [
+        "9781984886866"
+      ]
+    },
+        {
+      "label": "Know My Name",
+      "isbns": [
+        "9780593172193"
+      ]
+    },
+        {
+      "label": "Southern Lady Code",
+      "isbns": [
+        "9781984840868"
+      ]
+    },
+        {
+      "label": "The Nickel Boys",
+      "isbns": [
+        "9781984891402"
+      ]
+    },
+        {
+      "label": "The Water Dancer",
+      "isbns": [
+        "9780525494843",
+        "9780525494874"
+      ]
+    },
+            {
+      "label": "The Whisper Man",
+      "isbns": [
+        "9781250222510"
+      ]
+    },
+            {
+      "label": "American Spy",
+      "isbns": [
+        "9780525631422"
+      ]
+    },
+            {
+      "label": "Olive, Again",
+      "isbns": [
+        "9780593147375",
+        "9780593147344"
+      ]
+    }
+  ]
+}
