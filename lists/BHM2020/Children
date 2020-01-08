@@ -1,0 +1,41 @@
+{
+  "label": "DC Public Library - Black History Month 2020 Book Recommendations for Children",
+  "description": "DC Public Library has selected a variety of great titles for children related to the 2020 Black History Month theme 'African Americans and the Vote.'",
+  "list": [
+    {
+      "label": "Lillian’s Right to Vote",
+      "isbns": [
+        "9780385390286"
+      ]
+    },
+    {
+      "label": "Granddaddy’s Turn",
+      "isbns": [
+        "9780763665937",
+        "9781094255170"
+      ]
+    },
+    {
+      "label": "Chasing Freedom: The Life Journeys of Harriet Tubman and Susan B. Anthony",
+      "isbns": [
+        "9780439793384",
+        "9781490692760"
+      ]
+    },
+    {
+      "label": "Revolution",
+      "isbns": [
+        "9780545106078",
+        "9780804168724",
+        "9780553395273"
+      ]
+    },
+    {
+      "label": "Marching for Freedom: Walk Together, Children, and Don't You Grow Weary",
+      "isbns": [
+        "9780670011896",
+        "9781101150979"
+      ]
+    }
+  ]
+}
