@@ -1,0 +1,52 @@
+{
+  "label": "DC Public Library - Black History Month 2020 Book Recommendations for Teens",
+  "description": "DC Public Library has selected a variety of great titles for teens related to the 2020 Black History Month theme 'African Americans and the Vote.'",
+  "list": [
+    {
+      "label": "Turning 15 on the Road to Freedom",
+      "isbns": [
+        "9780803741232",
+        "9780698151338"
+      ]
+    },
+    {
+      "label": "Because They Marched: The People's Campaign for Voting Rights That Changed America",
+      "isbns": [
+        "9780823429219"
+      ]
+    },
+    {
+      "label": "Blood Brother: Jonathan Daniels and His Sacrifice for Civil Rights",
+      "isbns": [
+        "9781629790947"
+      ]
+    },
+    {
+      "label": "The Freedom Summer Murders",
+      "isbns": [
+        "9780545477253"
+      ]
+    },
+    {
+      "label": "March: Book 1",
+      "isbns": [
+        "9781603093002",
+        "9781603093026"
+      ]
+    },
+    {
+      "label": "March: Book 2",
+      "isbns": [
+        "9781603094009",
+        "9781603094016"
+      ]
+    },
+    {
+      "label": "March: Book 3",
+      "isbns": [
+        "9781603094023",
+        "9781684060139"
+      ]
+    }
+  ]
+}
