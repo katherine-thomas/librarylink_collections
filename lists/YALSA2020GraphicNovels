@@ -1,0 +1,77 @@
+{
+  "label": "DC Public Library - YALSA's 2020 Great Graphic Novels for Teens",
+  "description": " The Young Adult Library Services Association (YALSA), a division of the American Library Association (ALA), has announced its 2020 Great Graphic Novels for Teens list. Check out these titles from your neighborhood library!",
+  "list": [
+    {
+      "label": "Bloom",
+      "isbns": [
+        "9781250196910",
+        "9781250245748"
+      ]
+    },
+    {
+      "label": "I Was Their American Dream: a Graphic Memoir",
+      "isbns": [
+        "9780525575115"
+      ]
+    },
+    {
+      "label": "Kiss Number 8",
+      "isbns": [
+        "9781596437098",
+        "9781250252036"
+      ]
+    },
+    {
+      "label": "Laura Dean Keeps Breaking Up With Me",
+      "isbns": [
+        "9781626722590",
+        "9781250261540"
+      ]
+    },
+    {
+      "label": "The Life of Frederick Douglass: A Graphic Narrative of a Slave's Journey from Bondage to Freedom",
+      "isbns": [
+        "9780399581441"
+      ]
+    },
+    {
+      "label": "Pumpkinheads",
+      "isbns": [
+        "9781626721623",
+        "9781250269065"
+      ]
+    },
+    {
+      "label": "Simon & Louise",
+      "isbns": [
+        "9781772620351"
+      ]
+    },
+       {
+      "label": "They Called Us Enemy",
+      "isbns": [
+        "9781603094504",
+        "9781684067510"
+      ]
+    },
+        {
+      "label": "Witch Hat Atelier: Volume 1",
+      "isbns": [
+        "9781632367709"
+      ]
+    },
+        {
+      "label": "Witch Hat Atelier: Volume 2",
+      "isbns": [
+        "9781632368041"
+      ]
+    },
+        {
+      "label": "Witch Hat Atelier: Volume 3",
+      "isbns": [
+        "9781632368058"
+      ]
+    }
+  ]
+}
