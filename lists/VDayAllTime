@@ -1,0 +1,98 @@
+{
+  "label": "DC Public Library Romantic Reads",
+  "description": "In celebration of Valentine's Day the library has compiled a list of romance titles that D.C. is in a 'long term' relationship with. Here are the most checked out romance e-books of all time!",
+  "list": [
+    {
+      "label": "Night Circus ",
+      "isbns": [
+        "9780385534635",	
+        "9781611732023",	
+        "9780385534642",	
+        "9780307938930"
+      ]
+    },
+    {
+      "label": "Fifty Shade of Grey",
+      "isbns": [
+        "9781612130286",	
+        "9780385363129",	
+        "9780385360074",	
+        "9781612130293",	
+        "9780449808177"
+      ]
+    },
+    {
+      "label": "Me Before You",
+      "isbns": [
+        "9780670026609",	
+        "9781410455307",	
+        "9781470333713",	
+        "9781101606377",	
+        "9781470333720"
+      ]
+    },
+        {
+      "label": "Dragonfly in Amber",
+      "isbns": [
+        "9780385302319",	
+        "9780440335184"
+      ]
+    },
+            {
+      "label": "Sweetbitter ",
+      "isbns": [
+        "9781101875940",	
+        "9781410493439",	
+        "9781101875957",	
+        "9780399566318"
+      ]
+    },
+                {
+      "label": "The Tiger's Wife ",
+      "isbns": [
+        "9780385343831",	
+        "9781410439383",	
+        "9780307877000",	
+        "9780307877024",	
+        "9780679604365",	
+        "9780307877031"
+      ]
+    },
+                {
+      "label": "Fifty Shades Darker",
+      "isbns": [
+        "9781612130583",	
+        "9781612130590",	
+        "9780449808191"
+      ]
+    },
+                {
+      "label": "Crazy Rich Asians",
+      "isbns": [
+        "9780385536974",	
+        "9780525643593",	
+        "9780385536981",	
+        "9780804120791"
+      ]
+    },
+                {
+      "label": "Eleanor Oliphant is Completely Fine",
+      "isbns": [
+        "9780735220683",	
+        "9781432847685",	
+        "9781410499646",	
+        "9781524749682",	
+        "9780735220706",	
+        "9781524749712"
+      ]
+    },
+                {
+      "label": "Outlander",
+      "isbns": [
+        "9780385302302",	
+        "9781419359682",	
+        "9780440335160"
+      ]
+    }
+  ]
+}
