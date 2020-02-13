@@ -1,0 +1,30 @@
+{
+  "label": "DC Public Library - Reads for Romance",
+  "description": "Katie’s recommended titles for readers who love romance novels.",
+  "list": [
+    {
+      "label": "Crazy Rich Asians",
+      "isbns": [
+        "9780385536974",	
+        "9780525643593",	
+        "9780385536981",	
+        "9780804120791"
+      ]
+    },
+    {
+      "label": "Red, White and Royal Blue",
+      "isbns": [
+        "9780062453013",
+        "9781250233950"
+      ]
+    },
+    {
+      "label": "Evvie Drake Starts Over",
+      "isbns": [
+        "9780525619246",	
+        "9780525619253",	
+        "9781984845740"
+      ]
+    }
+  ]
+}
