@@ -1,0 +1,85 @@
+{
+  "label": "DC Public Library - Recommended Teen Reads for Asian Pacific American Heritage Month",
+  "description": "May is Asian Pacific American Heritage Month (APAHM), celebrating the achievements and contributions of Asian Americans and Pacific Islanders in the United States. This May, the library has selected great YA titles to help you celebrate APAHM!",
+  "list": [
+    {
+      "label": "A Thousand Beginnings and Endings: 15 Retellings of Asian Myths and Legends",
+      "isbns": [
+        "9780062671158"
+      ]
+    },
+    {
+      "label": "Always and Forever, Lara Jean",
+      "isbns": [
+        "9781481430487",
+        "9781481430500",
+        "9781501942204"
+      ]
+    },
+    {
+      "label": "Frankly in Love",
+      "isbns": [
+        "9781984812209",
+        "9781984812216",
+        "9780593105597"
+      ]
+    },
+    {
+      "label": "Internment",
+      "isbns": [
+        "9780316522694",
+        "9781549148767",
+        "9781549178887"
+      ]
+    },
+    {
+      "label": "Rani Patel in Full Effect",
+      "isbns": [
+        "9781941026502",
+        "9781941026519"
+      ]
+    },
+    {
+      "label": "The Astonishing Color of After",
+      "isbns": [
+        "9780316463997",
+        "9780316464925",
+        "9781549197154"
+      ]
+    },
+        {
+      "label": "This Time Will Be Different",
+      "isbns": [
+        "9780062473448",
+        "9780062473462"
+      ]
+    },
+            {
+      "label": "Pashmina",
+      "isbns": [
+        "9781626720879",
+        "9781250192264"
+      ]
+    },
+                {
+      "label": "The Totally Awesome Hulk. Vol 1. Cho Time",
+      "isbns": [
+        "9780785196099"
+      ]
+    },
+                {
+      "label": "They Called Us Enemy",
+      "isbns": [
+        "9781603094504",
+        "9781684067510"
+      ]
+    },
+                {
+      "label": "Americanized: Rebel Without a Green Card",
+      "isbns": [
+        "9781524717797",
+        "9781524717810"
+      ]
+    }
+  ]
+}
