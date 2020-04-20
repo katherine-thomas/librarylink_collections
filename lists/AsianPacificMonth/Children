@@ -3,52 +3,14 @@
   "description": "May is Asian Pacific American Heritage Month (APAHM), celebrating the achievements and contributions of Asian Americans and Pacific Islanders in the United States. This May, the library has selected great childrens titles to help you celebrate APAHM!",
   "list": [
     {
-      "label": "Here I am",
-      "isbns": [
-        "9781404882997"
-      ]
-    },
-    {
-      "label": "Ho'onani: Hula Warrior",
-      "isbns": [
-        "9780735264496"
-      ]
-    },
-    {
-      "label": "Hush! A Thai Lullaby",
-      "isbns": [
-        "9780531095003"
-      ]
-    },
-    {
       "label": "Lost and Found Cat",
       "isbns": [
-        "9781524715472",
         "9781974900107"
-      ]
-    },
-    {
-      "label": "Puddle",
-      "isbns": [
-        "9780374316952"
-      ]
-    },
-    {
-      "label": "Thread of Love",
-      "isbns": [
-        "9781534404731"
-      ]
-    },
-        {
-      "label": "Green Lantern: Legacy",
-      "isbns": [
-        "9781401283551"
       ]
     },
             {
       "label": "Hello Universe",
       "isbns": [
-        "9780062414151",
         "9780062414175",
         "9780062661654"
       ]
@@ -63,56 +25,32 @@
                 {
       "label": "It Aint So Awful Falafel",
       "isbns": [
-        "9780544612310",
         "9780544612372"
       ]
     },
                     {
       "label": "More to the Story",
       "isbns": [
-        "9781481492096",
         "9781481492119"
       ]
     },
                     {
       "label": "Other Words for Home",
       "isbns": [
-        "9780062747808",
         "9780062747822"
-      ]
-    },
-                    {
-      "label": "Secret Coders series",
-      "isbns": [
-        "9781626720763"
-      ]
-    },
-                    {
-      "label": "Stargazing",
-      "isbns": [
-        "9781250183873"
       ]
     },
                     {
       "label": "The Gauntlet",
       "isbns": [
-        "9781481486965",
         "9781481486989"
       ]
     },
                     {
       "label": "The Night Diary",
       "isbns": [
-        "9780735228511",
-        "9780525530442",
         "9780735228535",
         "9780525530459"
-      ]
-    },
-                {
-      "label": "The Way to Bea",
-      "isbns": [
-        "9780316236676"
       ]
     }
   ]
