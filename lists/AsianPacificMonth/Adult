@@ -5,21 +5,19 @@
     {
       "label": "Amnesty",
       "isbns": [
-        "9781982127244",
         "9781797100869"
       ]
     },
     {
       "label": "Djinn patrol on the purple line",
       "isbns": [
-        "9780593129197"
+        "9780593129203",
+        "9780593155042"
       ]
     },
     {
       "label": "Exit West",
       "isbns": [
-         "9780735212206",
-        "9781432847654",
         "9780735212183",
         "9781524752262"
       ]
@@ -27,8 +25,6 @@
     {
       "label": "Insurrecto",
       "isbns": [
-        "9781616959449",
-        "9781684414086",
         "9781616959456",
         "9781684414086"
       ]
@@ -36,8 +32,6 @@
     {
       "label": "Little Fires Everywhere",
       "isbns": [
-        "9780735224292",
-        "9780525498063",
         "9780735224308",
         "9780525498094"
       ]
@@ -45,15 +39,12 @@
     {
       "label": "No One Can Pronounce My Name: A Novel",
       "isbns": [
-        "9781250112118",
         "9781250112132"
       ]
     },
         {
       "label": "On Earth We're Briefly Gorgeous",
       "isbns": [
-        "99780525562023",
-        "9780593104293",
         "9780525562030",
         "9781984888853"
       ]
@@ -61,27 +52,13 @@
             {
       "label": "Pachinko",
       "isbns": [
-        "9781455563937",
         "9781455569656",
         "9781478945499"
       ]
     },
                 {
-      "label": "Polite society",
-      "isbns": [
-        "9780525539940"
-      ]
-    },
-                {
-      "label": "Sharks in the time of saviors",
-      "isbns": [
-        "9780374272081"
-      ]
-    },
-                {
       "label": "The Incendiaries",
       "isbns": [
-        "9780735213890",
         "9780735213913",
         "9780525626923"
       ]
@@ -89,89 +66,34 @@
                 {
       "label": "The Kiss Quotient",
       "isbns": [
-        "9780451490803",
-        "9781974900466",
         "9780451490810",
         "9781974900480"
       ]
     },
                 {
-      "label": "The Mountain sing",
-      "isbns": [
-        "9781616208189"
-      ]
-    },
-                {
       "label": "We, the Survivors",
       "isbns": [
-        "9780374287245",
         "9780374721725"
-      ]
-    },
-                {
-      "label": "American sutra",
-      "isbns": [
-        "9780674986534"
-      ]
-    },
-                {
-      "label": "Brown, White, Black: An American Family at the Intersection of Race, Gender, Sexuality, and Religion",
-      "isbns": [
-        "9781250133557"
       ]
     },
                 {
       "label": "Indian- ish",
       "isbns": [
-        "9781328482471"
-      ]
-    },
-                {
-      "label": "Not quite not white",
-      "isbns": [
-        "9780143131380"
-      ]
-    },
-                {
-      "label": "The sakura obsession",
-      "isbns": [
-        "9781524733575"
-      ]
-    },
-                {
-      "label": "This land is our land",
-      "isbns": [
-        "9780374276027",
-        "9781250305633"
+        "9781328484321"
       ]
     },
                 {
       "label": "Where the Past Begins ",
       "isbns": [
-        "9780062319296",
-        "9780062694768",
         "9780062319302"
-      ]
-    },
-                {
-      "label": "Wise guy: lessons from a life",
-      "isbns": [
-        "9780525538615"
       ]
     },
                 {
       "label": "Good Talk",
       "isbns": [
-        "9780399589041",
         "9780399589058",
         "9780593105528"
       ]
     },
-                {
-      "label": "Super Sikh. Volume 1",
-      "isbns": [
-        "9780998705989"
-      ]
-    }
   ]
 }
