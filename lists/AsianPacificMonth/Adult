@@ -170,6 +170,43 @@
         "9780062834331",
         "9780062933317" 
       ]
+    },
+                  {
+      "label": "Without You, There Is No Us",
+      "isbns": [
+        "9780307720672",
+        "9781101912768" 
+      ]
+    },
+                   {
+      "label": "First They Killed My Father",
+      "isbns": [
+        "9780062036544" 
+      ]
+    },
+                    {
+      "label": "The Most Wanted Man in China",
+      "isbns": [
+        "9781627795005" 
+      ]
+    },
+                    {
+      "label": "Breaking the Bamboo Ceiling",
+      "isbns": [
+        "9780061983528" 
+      ]
+    },
+                    {
+      "label": "The Displaced",
+      "isbns": [
+        "9781683352075" 
+      ]
+    },
+                        {
+      "label": "The Displaced",
+      "isbns": [
+        "9781579655426" 
+      ]
     }
   ]
 }
