@@ -52,6 +52,67 @@
         "9780735228535",
         "9780525530459"
       ]
+    },
+                    {
+      "label": "Drawn Together",
+      "isbns": [
+        "9780316667814"
+      ]
+    },
+                    {
+      "label": "Grandmother's Visit",
+      "isbns": [
+        "9781554989553"
+      ]
+    },
+                    {
+      "label": "Like the Moon Loves the Sky",
+      "isbns": [
+        "9781797206066"
+      ]
+    },
+                    {
+      "label": "The Opposite Zoo",
+      "isbns": [
+        "9780553511291"
+      ]
+    },
+                    {
+      "label": "The Proudest Blue",
+      "isbns": [
+        "9780316518994",
+        "9781549127328"
+      ]
+    },
+                    {
+      "label": "Everlasting Nora",
+      "isbns": [
+        "9781250304254"
+      ]
+    },
+                    {
+      "label": "Midsummer's Mayhem",
+      "isbns": [
+        "9781982689469"
+      ]
+    },
+                    {
+      "label": "Spirit Hunters",
+      "isbns": [
+        "9780062430106"
+      ]
+    },
+                    {
+      "label": "Stargazing",
+      "isbns": [
+        "9781250754523"
+      ]
+    },
+                        {
+      "label": "When You Trap a Tiger",
+      "isbns": [
+        "9781524715724"
+      ]
     }
   ]
 }
