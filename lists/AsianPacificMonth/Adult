@@ -94,6 +94,82 @@
         "9780399589058",
         "9780593105528"
       ]
+    },
+                {
+      "label": "The Mountains Sing",
+      "isbns": [
+        "9781643750491"
+      ]
+    },
+                {
+      "label": "The Lake",
+      "isbns": [
+        "9781935554691"
+      ]
+    },
+                {
+      "label": "The Lonesome Bodybuilder",
+      "isbns": [
+        "9781593766832"
+      ]
+    },
+                {
+      "label": "Malice",
+      "isbns": [
+        "9781250035615",
+        "9781427259523"
+      ]
+    },
+               {
+      "label": "The Vegetarian",
+      "isbns": [
+        "9780553448191",
+        "9780399567001"
+      ]
+    },
+                 {
+      "label": "The Way You Make Me Feel",
+      "isbns": [
+        "9780374304096"
+      ]
+    },
+                 {
+      "label": "The Expatriates",
+      "isbns": [
+        "9780698404939"
+      ]
+    },
+                 {
+      "label": "A Pale View of Hills",
+      "isbns": [
+        "9780307829078"
+      ]
+    },
+                  {
+      "label": "The Headmaster's Wager",
+      "isbns": [
+        "9780307986474"
+      ]
+    },
+                  {
+      "label": "Number One Chinese Restaurant",
+      "isbns": [
+        "9781250141309",
+        "9781427298201"
+      ]
+    },
+                 {
+      "label": "Chinese Cinderella",
+      "isbns": [
+        "9780307482808"
+      ]
+    },
+                  {
+      "label": "Searching for Sylvie Lee",
+      "isbns": [
+        "9780062834331",
+        "9780062933317" 
+      ]
     }
   ]
 }
