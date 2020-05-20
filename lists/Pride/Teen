@@ -1,0 +1,52 @@
+{
+  "label": "YA Titles to celebrate Pride Month 2020",
+  "description": "During the Pride Month, DC Public Library invites you to check out these great eBooks on Overdrive.",
+  "list": [
+    {
+      "label": "Juliet Takes a Breath",
+      "isbns": [
+        "9780593108185"
+      ]
+    },
+    {
+      "label": "The Fire Never Goes Out",
+      "isbns": [
+        "9780062278289"
+      ]
+    },
+    {
+      "label": "Pet",
+      "isbns": [
+        "9780525647096",
+        "9780593104958"
+      ]
+    },
+    {
+      "label": "Like a Love Story",
+      "isbns": [
+        "9780062839381"
+      ]
+    },
+    {
+      "label": "If I Was Your Girl",
+      "isbns": [
+        "9781250078421",
+        "9781427272928"
+      ]
+    },
+    {
+      "label": "Aristotle and Dante Discover the Secrets of the Universe",
+      "isbns": [
+        "9781442408944",
+        "9781442366077",
+        "9781470370275"
+      ]
+    },
+    {
+      "label": "# Hockey",
+      "isbns": [
+        "https://dclibrary.overdrive.com/media/4297427"
+      ]
+    }
+  ]
+}
