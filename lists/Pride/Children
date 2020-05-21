@@ -1,0 +1,84 @@
+{
+  "label": "Children's Titles to Celebrate Pride Month 2020",
+  "description": "During the Pride Month, DC Public Library invites you to check out these great eBooks and audiobooks on Overdrive.",
+  "list": [
+    {
+      "label": "Heather Has Two Mommies",
+      "isbns": [
+        "9780763679897"
+      ]
+    },
+    {
+      "label": "Stella Brings the Family",
+      "isbns": [
+        "9781452135748"
+      ]
+    },
+    {
+      "label": "Red",
+      "isbns": [
+        "9780062371805"
+      ]
+    },
+    {
+      "label": "The Best At It",
+      "isbns": [
+        "9780062866431"
+      ]
+    },
+    {
+      "label": "Hurricane Child",
+      "isbns": [
+        "9781338129328"
+      ]
+    },
+    {
+      "label": "Not Your Sidekick",
+      "isbns": [
+        "9781945053047"
+      ]
+    },
+    {
+      "label": "Julian is a Mermaid",
+      "isbns": [
+        "9781536214314"
+      ]
+    },
+        {
+      "label": "It Feels Good to Be Yourself: A Book About Gender Identity",
+      "isbns": [
+        "9781250263056"
+      ]
+    },
+            {
+      "label": "I Am Jazz",
+      "isbns": [
+        "9781250263056"
+      ]
+    },
+                {
+      "label": "Harriet Gets Carried Away",
+      "isbns": [
+        "9781481469128"
+      ]
+    },
+                    {
+      "label": "Pride",
+      "isbns": [
+        "9780399555336"
+      ]
+    },
+                        {
+      "label": "Introducing Teddy",
+      "isbns": [
+        "9781681192116"
+      ]
+    },
+                            {
+      "label": "Felix Yz",
+      "isbns": [
+        "9780425288528"
+      ]
+    }
+  ]
+}
