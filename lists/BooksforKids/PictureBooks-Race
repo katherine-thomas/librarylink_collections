@@ -1,20 +1,91 @@
 {
   "label": "Resources for Talking About Race with Children",
   "description": "Picture Books from DC Public Library that can help inform discussions about race with children.",
-  "isbns": [
-	  "9781328780966",
-    "9781572842243",
-    "9780062667120",
-    "9780525553366",
-    "9780786808250",
-    "9781419736858",
-    "9780689832338",
-    "9780316360302",
-    "9780517580301",
-    "9781534421691",
-    "9780061920820",
-    "9781945434952",
-    "9780385390286",
-    "9781442420083"
+  "list": [
+  {
+      "label": "Undefeated",
+      "isbns": [
+        "9781328780966",
+	"9780358057611"
+      ]
+    },
+    {
+      "label": "Crown: An Ode to the Fresh Cut",
+      "isbns": [
+        "9781572842243"
+      ]
+    },
+    {
+      "label": "Hair Love",
+      "isbns": [
+        "9780525553366",
+        "9780525553489",
+        "9781690582885"
+      ]
+    },
+    {
+      "label": "Skin Again",
+      "isbns": [
+        "9780786808250"
+      ]
+    },
+    {
+      "label": "A Ride to Remember: A Civil Rights Story ",
+      "isbns": [
+        "9781419736858",
+	"9781683356233"
+      ]
+    },
+    {
+      "label": "Please, Baby, Please",
+      "isbns": [
+        "9780689832338"
+      ]
+    },
+    {
+      "label": "Hey Black Child",
+      "isbns": [
+        "9780316360302",
+	"9781948381215",
+	"9780316464710",
+	"9781549195501"
+      ]
+    },
+       {
+      "label": "Tar Beach",
+      "isbns": [
+        "9780517580301"
+      ]
+    },
+        {
+      "label": "You Matter",
+      "isbns": [
+        "9781534421691"
+      ]
+    },
+        {
+      "label": "Brick by Brick",
+      "isbns": [
+        "9780061920820"
+      ]
+    },
+        {
+      "label": "Tyrell’s Big Move",
+      "isbns": [
+        "9781945434952"
+      ]
+    },
+        {
+      "label": "Lillian’s Right to Vote",
+      "isbns": [
+        "9780385390286"
+      ]
+    },
+        {
+      "label": "I, Too, Am America",
+      "isbns": [
+        "9781442420083"
+      ]
+    }
   ]
 }
