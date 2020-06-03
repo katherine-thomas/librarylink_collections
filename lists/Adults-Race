@@ -1,0 +1,377 @@
+{
+  "label": "Conversations About Race",
+  "description": "Books from DC Public Library that can help inform discussions about race.",
+  "list": [
+  {
+      "label": "A Shout in the Ruins",
+      "isbns": [
+        "9780316556477"
+      ]
+    },
+    {
+      "label": "Black Card: A Novel",
+      "isbns": [
+        "9781948226264"
+      ]
+    },
+    {
+      "label": "Everywhere You Don't Belong",
+      "isbns": [
+        "9781616208790",
+        "9781643750224"
+      ]
+    },
+    {
+      "label": "Exile Blues",
+      "isbns": [
+        "9781771862004"
+      ]
+    },
+    {
+      "label": "Freedom Lessons: A Novel",
+      "isbns": [
+        "9781631526107"
+      ]
+    },
+    {
+      "label": "Friday Black",
+      "isbns": [
+        "9781328911247"
+      ]
+    },
+    {
+      "label": "Heads of the Colored People: Stories",
+      "isbns": [
+        "9781501167997",
+        "9781684413706",
+        "9781501168017",
+        "9781684413713"
+      ]
+    },
+       {
+      "label": "Heart in Dixie : a novel",
+      "isbns": [
+        "9780692082867"
+      ]
+    },
+           {
+      "label": "Heaven, My Home: Highway 59 Series, Book 2",
+      "isbns": [
+        "9780316363402"
+      ]
+    },
+               {
+      "label": "Jam on the vine : a novel ",
+      "isbns": [
+        "9780802123343"
+      ]
+    },
+                   {
+      "label": "Little boy lost",
+      "isbns": [
+        "9781503943940"
+      ]
+    },
+                   {
+      "label": "Malawi's Sisters",
+      "isbns": [
+        "9781945588303"
+      ]
+    },
+                   {
+      "label": "Negrophobia: An Urban Parable",
+      "isbns": [
+        "9781681373294"
+      ]
+    },
+                       {
+      "label": "Riot Baby",
+      "isbns": [
+        "9781250214751"
+      ]
+    },
+                           {
+      "label": "Roads, where there are no roads : a novel",
+      "isbns": [
+        "9780810134720"
+      ]
+    },
+                               {
+      "label": "Stateway's Garden: Stories",
+      "isbns": [
+        "9781984818164"
+      ]
+    },
+                                   {
+      "label": "Such a Fun Age",
+      "isbns": [
+        "9780525541905",
+        "9780593152379",
+        "9780525541929",
+        "9780593107072"
+      ]
+    },
+        {
+      "label": "Swimming Between Worlds",
+      "isbns": [
+        "9780425282731"
+      ]
+    },
+        {
+      "label": "Tales of Two Americas: Stories of Inequality in a Divided Nation",
+      "isbns": [
+        "9781524704827",
+        "9781524704827"
+      ]
+    },
+   {
+      "label": "That Kind of Mother: A Novel",
+      "isbns": [
+        "9780062667601",
+        "9780062667625"
+      ]
+    },
+       {
+      "label": "The Gone Dead: A Novel",
+      "isbns": [
+        "9780062490698"
+      ]
+    },
+           {
+      "label": "The Holdout: A Novel",
+      "isbns": [
+        "9780399591778",
+        "9780399591785"
+      ]
+    },
+               {
+      "label": "The last thing you surrender",
+      "isbns": [
+        "9781572842458",
+        "9781977318725"
+      ]
+    },
+                   {
+      "label": "The Nickel Boys",
+      "isbns": [
+        "9780385537070",
+        "9781984892249",
+        "9781984891372",
+        "9780385537087",
+        "9781984891402"
+      ]
+    },
+                       {
+      "label": "The Vain Conversation: A Novel",
+      "isbns": [
+        "9781611178821"
+      ]
+    },
+                           {
+      "label": "There You Are",
+      "isbns": [
+        "9781948705585"
+      ]
+    },
+                               {
+      "label": "They Come in All Colors: A Novel",
+      "isbns": [
+        "9781501172328",
+        "9781684413621"
+      ]
+    },
+ {
+      "label": "Tomb of the Unknown Racist: A Novel",
+      "isbns": [
+        "9781640090675"
+      ]
+    },
+          {
+      "label": "We Cast a Shadow: A Novel",
+      "isbns": [
+        "9780525509066",
+        "9780525509080",
+        "9780525637370"
+      ]
+    },
+             {
+      "label": "Anti-Blackness and Christian ethics",
+      "isbns": [
+        "9781626982512"
+      ]
+    },
+                 {
+      "label": "Antiracism: An Introduction",
+      "isbns": [
+        "9781479849284"
+      ]
+    },
+                     {
+      "label": "Backlash: What Happens When We Talk Honestly about Racism in America",
+      "isbns": [
+        "9781538104057"
+      ]
+    },
+                         {
+      "label": "Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do",
+      "isbns": [
+        "9780735224933",
+        "9780735224940"
+      ]
+    },
+                             {
+      "label": "Chokehold: Policing Black Men",
+      "isbns": [
+        "9781595589057",
+        "9781531836665",
+        "9781620974988"
+      ]
+    },
+                                 {
+      "label": "Democracy in Black: How Race Still Enslaves the American Soul",
+      "isbns": [
+        "9780804137416",
+        "9780804137423"
+      ]
+    },
+                                     {
+      "label": "Healing Racial Divides: Finding Strength in Our Diversity",
+      "isbns": [
+        "9780827215122"
+      ]
+    },
+                                         {
+      "label": "Healing Racial Trauma: The Road to Resilience",
+      "isbns": [
+        "9780830845880"
+      ]
+    },
+                                             {
+      "label": "How to Be an Antiracist",
+      "isbns": [
+        "9780525509288",
+        "9780525509295",
+        "9781984832221"
+      ]
+    },
+               {
+      "label": "How We Fight White Supremacy: A Field Guide to Black Resistance",
+      "isbns": [
+        "9781568588490"
+      ]
+    },
+    {
+      "label": "Invisible man, got the whole world watching : a young black man's education",
+      "isbns": [
+        "9781568585284",
+        "9781501925375",
+        "9781568585291"
+      ]
+    },
+        {
+      "label": "Making All Black Lives Matter: Reimagining Freedom in the Twenty-First Century",
+      "isbns": [
+        "9780520292710"
+      ]
+    },
+            {
+      "label": "Self-Portrait in Black and White: Unlearning Race",
+      "isbns": [
+        "9780393608861"
+      ]
+    },
+                {
+      "label": "So You Want to Talk About Race",
+      "isbns": [
+        "9781580056779",
+        "9781538475270",
+        "9781541619234",
+        "9781538475317"
+      ]
+    },
+                    {
+      "label": "Stay Woke: A People's Guide to Making All Black Lives Matter",
+      "isbns": [
+        "9781479874927"
+      ]
+    },
+                        {
+      "label": "Taking bullets : terrorism and Black life in twenty-first century America : confronting white nationalism, supremacy, privilege, plutocracy and oligarchy",
+      "isbns": [
+        "9780883783610"
+      ]
+    },
+                            {
+      "label": "The Devil Finds Work",
+      "isbns": [
+        "9780307275950",
+        "9780803719163"
+      ]
+    },
+                                {
+      "label": "The Fire This Time: A New Generation Speaks about Race",
+      "isbns": [
+        "9781501126345",
+        "9781501126369"
+      ]
+    },
+                                    {
+      "label": "They Can't Kill Us All: The Story of the Struggle for Black Lives",
+      "isbns": [
+        "9780316502160"
+      ]
+    },
+                                        {
+      "label": "Under Our Skin: Getting Real about Race. Getting Free from the Fears and Frustrations that Divide Us.",
+      "isbns": [
+        "9781496413291"
+      ]
+    },
+                                            {
+      "label": "What Doesn't Kill You Makes You Blacker: A Memoir in Essays",
+      "isbns": [
+        "9780062684301",
+        "9780062684332"
+      ]
+    },
+                                                {
+      "label": "What It Is: Race, Family, and One Thinking Black Man's Blues",
+      "isbns": [
+        "9781590519059"
+      ]
+    },
+                                                    {
+      "label": "What Truth Sounds Like: Robert F. Kennedy, James Baldwin, and Our Unfinished Conversation About Race in America",
+      "isbns": [
+        "9781590519059"
+      ]
+    },
+                                                        {
+      "label": "Where Do We Go from Here: Chaos or Community?",
+      "isbns": [
+        "9780807000762"
+      ]
+    },
+                                                            {
+      "label": "White Fragility: Why It's So Hard for White People to Talk About Racism",
+      "isbns": [
+        "9780807047415",
+        "9780807047422",
+        "9780807071168"
+      ]
+    },
+                                                                {
+      "label": "White Privilege Unmasked: How to Be Part of the Solution",
+      "isbns": [
+        "9781785924088"
+      ]
+    },
+                                                                    {
+      "label": "White Rage: The Unspoken Truth of Our Racial Divide",
+      "isbns": [
+        "9781632864123",
+        "9781632864147"
+      ]
+    }
+  ]
+}
