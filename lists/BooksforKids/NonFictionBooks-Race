@@ -1,0 +1,100 @@
+{
+  "label": "Resources for Talking About Race with Children",
+  "description": "Nonfiction Books from DC Public Library that can help inform discussions about race with children.",
+  "list": [
+  {
+      "label": "Freedom Riders: John Lewis and Jim Zwerg on the Front Lines of the Civil Rights Movement",
+      "isbns": [
+        "9780792241737",
+	      "99781428186880"
+      ]
+    },
+    {
+      "label": "Counting on Katherine",
+      "isbns": [
+        "9781250137524"
+      ]
+    },
+    {
+      "label": "Freedom Over Me: Eleven Slaves, Their Lives and Dreams Brought to Life",
+      "isbns": [
+        "9781481456906",
+        "9781481456913"
+      ]
+    },
+    {
+      "label": "Let the Children March",
+      "isbns": [
+        "9780544704527",	
+        "9781094254708",
+        "9781328466488"
+      ]
+    },
+    {
+      "label": "Not My Idea: A Book About Whiteness",
+      "isbns": [
+        "9781948340007"
+      ]
+    },
+    {
+      "label": "We Rise, We Resist, We Raise Our Voices",
+      "isbns": [
+        "9780525580423"
+      ]
+    },
+    {
+      "label": "This Book Is Anti-Racist",
+      "isbns": [
+        "9780711245211"
+      ]
+    },
+       {
+      "label": "Can I Touch Your Hair? Poems of Race, Mistakes, and Friendship",
+      "isbns": [
+        "9781512404425",
+      	"9781094258546"
+      ]
+    },
+           {
+      "label": "Thirteen Ways of Looking at a Black Boy",
+      "isbns": [
+        "9780998799940"
+      ]
+    },
+               {
+      "label": "Let’s Talk About Race",
+      "isbns": [
+        "9780060285982"
+      ]
+    },
+                   {
+      "label": "Heart and Soul: The Story of America and African Americans",
+      "isbns": [
+        "9780061730740",
+        "9781094255927",
+        "9780062125255"
+      ]
+    },
+                       {
+      "label": "Malcolm Little: The Boy Who Grew Up to Become Malcolm X",
+      "isbns": [
+        "9781442412163"
+      ]
+    },
+                           {
+      "label": "Radiant Child: The Story of Young Artist Jean-Michel Basquiat ",
+      "isbns": [
+        "9780316213882",
+        "9781549127021",
+        "9780316394307",
+        "9781478993513"
+      ]
+    },
+                               {
+      "label": "A Place to Land: Martin Luther King Jr. and the Speech that Inspired a Nation",
+      "isbns": [
+        "9780823443314"
+      ]
+    }
+  ]
+}
