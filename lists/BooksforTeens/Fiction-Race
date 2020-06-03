@@ -1,0 +1,114 @@
+{
+  "label": "Resources for Talking About Race with Teens",
+  "description": "Fiction Books from DC Public Library that can help inform discussions about race with cteens.",
+  "list": [
+  {
+      "label": "Black Girl Unlimited",
+      "isbns": [
+        "9781250248589",
+	      "9781250248572",
+        "9781250309860"
+      ]
+    },
+    {
+      "label": "The Belles",
+      "isbns": [
+        "9781484728499",
+        "9781484732496",
+        "9781538540626"
+      ]
+    },
+    {
+      "label": "Let Me Hear a Rhyme",
+      "isbns": [
+        "9780062840325",
+        "9780062840349",
+        "9780062914330"
+      ]
+    },
+    {
+      "label": "All Boys Aren't Blue: A Memoir-Manifesto",
+      "isbns": [
+        "9780374312725",	
+        "9781250247896"
+      ]
+    },
+    {
+      "label": "Light It Up",
+      "isbns": [
+        "9781250128898",
+        "9781250128904"
+      ]
+    },
+    {
+      "label": "Blues Journey",
+      "isbns": [
+        "9781595194336",
+        "9780823416134",
+        "9781430109167"
+      ]
+    },
+    {
+      "label": "Loving vs. Virginia: A Documentary Novel of the Landmark Civil Rights Case",
+      "isbns": [
+        "9781452125909",
+        "9781452153315",
+        "9781520052649"
+      ]
+    },
+       {
+      "label": "Long Way Down",
+      "isbns": [
+        "9781481438254",
+      	"9781508241591",
+        "9781481438278",
+        "9781508241607"
+      ]
+    },
+           {
+      "label": "X, A Novel",
+      "isbns": [
+        "9780763669676"
+      ]
+    },
+               {
+      "label": "Dear Martin",
+      "isbns": [
+        "9781101939499",
+        "9781101939512",
+        "9781524782351"
+      ]
+    },
+                   {
+      "label": "The Day Tajon Got Shot",
+      "isbns": [
+        "9780996927451"
+      ]
+    },
+                       {
+      "label": "The Hate U Give",
+      "isbns": [
+        "9780062871350",
+        "9780062677099",
+        "9780062498533",
+        "9781432841690",
+        "9780062498557",
+        "9780062677082"
+      ]
+    },
+                           {
+      "label": "Piecing Me Together",
+      "isbns": [
+        "9781681191058",
+        "9781681191065"
+      ]
+    },
+                               {
+      "label": "Watch Us Rise ",
+      "isbns": [
+        "9781547600083",
+        "9781547600090"
+      ]
+    }
+  ]
+}
