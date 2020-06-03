@@ -1,0 +1,94 @@
+{
+  "label": "Resources for Talking About Race with Teens",
+  "description": "Nonfiction Books from DC Public Library that can help inform discussions about race with teens.",
+  "list": [
+  {
+      "label": "The Middle Passage: White Ships/Black Cargo",
+      "isbns": [
+        "9780803718043"
+      ]
+    },
+    {
+      "label": "Stolen Justice: The Struggle for African American Voting Rights ",
+      "isbns": [
+        "9781338323481"
+      ]
+    },
+    {
+      "label": "Turning 15 on the Road to Freedom",
+      "isbns": [
+        "9780803741232",
+        "9780698151338"
+      ]
+    },
+    {
+      "label": "Take the Mic: Fictional Stories of Everyday Resistance ",
+      "isbns": [
+        "9781338343700"
+      ]
+    },
+    {
+      "label": "Blues Journey",
+      "isbns": [
+        "9780823416134",
+        "9781250128904"
+      ]
+    },
+    {
+      "label": "Blues Journey",
+      "isbns": [
+        "9781595194336",
+        "9781595194336",
+        "9781430109167"
+      ]
+    },
+    {
+      "label": "You Call This Democracy?: How to Fix Our Government and Deliver Power to the People ",
+      "isbns": [
+        "9780358387428"
+      ]
+    },
+       {
+      "label": "Stamped: Racism, Antiracism, and You",
+      "isbns": [
+        "9780316453677",
+      	"9780316453691"
+      ]
+    },
+           {
+      "label": "The Self-Love Revolution",
+      "isbns": [
+        "9781684034116"
+      ]
+    },
+               {
+      "label": "Dear Martin",
+      "isbns": [
+        "9781101939499",
+        "9781101939512",
+        "9781524782351"
+      ]
+    },
+                   {
+      "label": "March (Book One)",
+      "isbns": [
+        "9781603093002",
+        "9781603093026"
+      ]
+    },
+                   {
+      "label": "March (Book Two)",
+      "isbns": [
+        "9781603094009",
+        "9781603094016"
+      ]
+    },
+                   {
+      "label": "March (Book Three)",
+      "isbns": [
+        "9781603094023",
+        "9781684060139"
+      ]
+    }
+  ]
+}
