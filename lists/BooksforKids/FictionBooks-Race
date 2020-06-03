@@ -1,14 +1,69 @@
 {
   "label": "Resources for Talking About Race with Children",
   "description": "Fiction Books from DC Public Library that can help inform discussions about race with children.",
-  "isbns": [
-	  "9780316456395",
-    "9780062691200",
-    "9780545156660",
-    "9781442495005",
-    "9780545946179",
-    "9780316493802",
-    "9781984892973",
-    "9780399252525"
+  "list": [
+  {
+      "label": "The Only Black Girls in Town",
+      "isbns": [
+        "9780316456388",
+	"9780358057611",
+	"9781549157387"
+      ]
+    },
+    {
+      "label": "New Kid",
+      "isbns": [
+        "9780062691200",
+	"9780062691217",
+	"9780062885326"
+      ]
+    },
+    {
+      "label": "The Journey of Little Charlie",
+      "isbns": [
+        "9780545156660",
+        "9780804168021"
+      ]
+    },
+    {
+      "label": "Blended",
+      "isbns": [
+        "9781442495005",
+	"9781508258773",
+	"9781442495029",
+	"9781508258780"
+      ]
+    },
+    {
+      "label": "The Parker Inheritance",
+      "isbns": [
+        "9780545946179",
+	"9780545952798",
+	"9781338279948"
+      ]
+    },
+    {
+      "label": "Black Brother, Black Brother",
+      "isbns": [
+        "9780316493802",
+	"9780316428934"
+      ]
+    },
+    {
+      "label": "Clean Getaway",
+      "isbns": [
+        "9781984892973",
+	"9781984892997",
+	"9780593155400"
+      ]
+    },
+       {
+      "label": "Harbor Me",
+      "isbns": [
+        "9780399252525",
+	"9780525515135",
+	"9780525639107"
+      ]
+    }
   ]
 }
