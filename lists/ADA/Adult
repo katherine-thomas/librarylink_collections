@@ -1,0 +1,68 @@
+{
+  "label": "DC Public Library - Recommended Adult Reads for the 30th Anniversary of the Americans with Disabilities Act",
+  "description": "July marks the is 30th Anniversary of the Americans with Disabilities Act (ADA). Celebrate 30 years of progress in access & inclusion with these titles from the Library.",
+  "list": [
+    {
+      "label": "Being Heumann : an unrepentant memoir of a disability rights activist",
+      "isbns": [
+        "9780807019290"
+      ]
+    },
+    {
+      "label": "The pretty one : on life, pop culture, disability, and other reasons to fall in love with me",
+      "isbns": [
+        "9781982100544"
+      ]
+    },
+    {
+      "label": "The Collected Schizophrenias Essays",
+      "isbns": [
+        "9781555978273",
+        "9781978640917",
+        "9781555978761"
+      ]
+    },
+    {
+      "label": "Enabling acts : the hidden story of how the Americans with Disabilities Act gave the largest US minority its rights",
+      "isbns": [
+        "9780807071564"
+      ]
+    },
+    {
+      "label": "Haben : the deafblind woman who conquered Harvard Law",
+      "isbns": [
+        "9781538728727"
+      ]
+    },
+    {
+      "label": "Thinking in Pictures. My Life with Autism",
+      "isbns": [
+        "9780307548030"
+      ]
+    },
+        {
+      "label": "Legal Rights. The Guide for Deaf and Hard of Hearing People",
+      "isbns": [
+        "9781563686443"
+      ]
+    },
+            {
+      "label": "Accessible America : a history of disability and design",
+      "isbns": [
+        "9781479894093"
+      ]
+    },
+                {
+      "label": "Deaf in DC : a memoir",
+      "isbns": [
+        "9781563684814"
+      ]
+    },
+                {
+      "label": "Modern HERstory : stories of women and nonbinary people rewriting history ",
+      "isbns": [
+        "9780451490810"
+      ]
+    }
+  ]
+}
