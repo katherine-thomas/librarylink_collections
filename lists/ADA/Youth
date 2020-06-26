@@ -1,0 +1,30 @@
+{
+  "label": "DC Public Library - Recommended Youth Reads for the 30th Anniversary of the Americans with Disabilities Act",
+  "description": "July marks the is 30th Anniversary of the Americans with Disabilities Act (ADA). Celebrate 30 years of progress in access & inclusion with these titles from the Library.",
+  "list": [
+    {
+      "label": "All the way to the top : how one girl's fight for Americans with disabilities changed everything",
+      "isbns": [
+        "9781492688976"
+      ]
+    },
+    {
+      "label": "El Deafo",
+      "isbns": [
+        "9781419710209"
+      ]
+    },
+    {
+      "label": "Gabe & Izzy : standing up for America's bullied",
+      "isbns": [
+        "9780803740624"
+      ]
+    },
+    {
+      "label": "The deaf musicians",
+      "isbns": [
+        "9780399243165"
+      ]
+    }
+  ]
+}
