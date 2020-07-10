@@ -1,0 +1,82 @@
+{
+  "label": "DC Family Reads - One Crazy Summer Read-a-Likes",
+  "description": "Did you enjoy reading 'One Crazy Summer' as a part of DC Family Reads and Summer Challenge? Check out these great read-a-likes from DC Public Library.",
+  "list": [
+    {
+      "label": "Clean Getaway",
+      "isbns": [
+        "9781984892973",
+        "9781984892997",
+        "9780593155400"
+      ]
+    },
+    {
+      "label": "The Watsons Go to Birmingham--1963",
+      "isbns": [
+        "9780385321754",
+        "9780807217771",
+        "9781598953282",
+        "9780385382953",
+        "9780739330593"
+      ]
+    },
+    {
+      "label": "Brown Girl Dreaming",
+      "isbns": [
+        "9780399252518",
+        "9780553397260",
+        "9780698195707",
+        "9780553397277"
+      ]
+    },
+    {
+      "label": "Clayton Byrd Goes Underground",
+      "isbns": [
+        "9780062215918",
+        "9780062682598",
+        "9780062215949",
+        "9780062682581"
+      ]
+    },
+    {
+      "label": "Stella by Starlight",
+      "isbns": [
+        "9780062682581",
+        "9781442380394",
+        "9781442494992",
+        "9781442380417"
+      ]
+    },
+    {
+      "label": "The Parker Inheritance",
+      "isbns": [
+        "9780545946179",
+        "9781338319125",
+        "9781338279948",
+        "9780545952798"
+      ]
+    },
+    {
+      "label": "Betty Before X",
+      "isbns": [
+        "9780374306106",
+        "9781427293688"
+      ]
+    },
+    {
+      "label": "The Only Black Girls in Town",
+      "isbns": [
+        "9780316456388",
+        "9780316456395",
+        "9781549157387"
+      ]
+    },
+    {
+      "label": "It All Comes Down to This",
+      "isbns": [
+        "9780544839571",
+        "9781328695710"
+      ]
+    }
+  ]
+}
