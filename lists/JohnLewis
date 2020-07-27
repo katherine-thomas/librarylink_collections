@@ -1,0 +1,74 @@
+{
+  "label": "Remembering John Lewis",
+  "description": "DC Public Library invites you to check out these great reads, listens and watches for all ages that explore the incredible life and legacy of Civil Rights Leader and Congressman John Lewis.",
+  "list": [
+    {
+      "label": "Preaching to the chickens",
+      "isbns": [
+        "9780399168567",
+        "9781501951459",
+        "9781501948190"
+      ]
+    },
+  {
+      "label": "John Lewis : courage in action",
+      "isbns": [
+        "9781541512382"
+      ]
+    },
+    {
+      "label": "Freedom Riders",
+      "isbns": [
+        "9781572842243",
+        "9781428186880"
+      ]
+    },
+        {
+      "label": "John Lewis in the lead : a story of the civil rights movement",
+      "isbns": [
+        "9781584302506"
+      ]
+    },
+    {
+      "label": "March: Book One",
+      "isbns": [
+        "9781603093002",
+        "9781603093026"
+      ]
+    },
+    {
+      "label": "March: Book Two",
+      "isbns": [
+        "9781603094009",
+        "9781603094016"
+      ]
+    },
+    {
+      "label": "March: Book Three",
+      "isbns": [
+        "9781603094023",
+	      "9781684060139"
+      ]
+    },
+    {
+      "label": "Across That Bridge",
+      "isbns": [
+        "9781401324117",
+        "9781549149894",
+        "9781549149894"
+      ]
+    },
+    {
+      "label": "Walking with the wind : a memoir of the movement",
+      "isbns": [
+        "9780684810652"
+      ]
+    },
+       {
+      "label": "John Lewis : get in the way",
+      "isbns": [
+        "9781531701789"
+      ]
+    }
+  ]
+}
