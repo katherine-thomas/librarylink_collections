@@ -2,6 +2,12 @@
   "label": "Resources for Talking About Race with Children",
   "description": "Picture Books from DC Public Library that can help inform discussions about race with children.",
   "list": [
+    {
+      "label": "Antiracist Baby",
+      "isbns": [
+        "9780593110508"
+      ]
+    },
   {
       "label": "Undefeated",
       "isbns": [
