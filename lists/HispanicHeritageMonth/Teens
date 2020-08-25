@@ -1,0 +1,135 @@
+{
+  "label": "DC Public Library - Hispanic Heritage Month 2020 Book Recommendations for Teens",
+  "description": "DC Public Library has selected a variety of great titles for Teens related to Hispanic Heritage Month",
+  "list": [
+    {
+      "label": "Before We Were Free",
+      "isbns": [
+        "9780399555497",
+        "9781400089956",
+        "9780307433176",
+        "9780739344712"
+      ]
+    },
+    {
+      "label": "How the García Girls Lost their Accents",
+      "isbns": [
+        "9780945575573",
+        "9781616200985"
+      ]
+    },
+    {
+      "label": "With the Fire on High",
+      "isbns": [
+        "9780062662835",
+        "9780062886798",
+        "9780062662859",
+        "9780062886781"
+      ]
+    },
+    {
+      "label": "Clap When You Land",
+      "isbns": [
+        "9780062882769",
+        "9780062882783",
+        "9780063011816"
+      ]
+    },
+        {
+      "label": "The Poet X",
+      "isbns": [
+        "9780062662804",
+        "9780062822499",
+        "9780062662828",
+        "9780062822482"
+      ]
+    },
+        {
+      "label": "Bless Me, Ultima",
+      "isbns": [
+        "9780446675369",
+        "9781455521333"
+      ]
+    },
+        {
+      "label": "The House on Mango Street",
+      "isbns": [
+        "9780679734772",
+        "9780345807199"
+      ]
+    },
+        {
+      "label": "Curse of the Ancients",
+      "isbns": [
+        "9780545386999",
+        "9780545537919"
+      ]
+    },
+        {
+      "label": "The Living",
+      "isbns": [
+        "9780385741200",
+        "9780375984358"
+      ]
+    },
+        {
+      "label": "Romiette and Julio",
+      "isbns": [
+        "9780689821806"
+      ]
+    },
+        {
+      "label": "Perfect Chemistry",
+      "isbns": [
+        "9780802798220",
+        "9780802720993"
+      ]
+    },
+        {
+      "label": "Laughing Out Loud, I fly : Poems in English and Spanish",
+      "isbns": [
+        "9780060276041"
+      ]
+    },
+        {
+      "label": "The Girl Who Could Silence the Wind",
+      "isbns": [
+        "9780763646028",
+        "9780763659684"
+      ]
+    },
+        {
+      "label": "Yaqui Delgado Wants to Kick Your Ass",
+      "isbns": [
+        "9780763658595",
+        "9781469274843",
+        "9780763663544"
+      ]
+    },
+        {
+      "label": "The Shadow of the Wind",
+      "isbns": [
+        "9781594200106",
+        "9781101147061",
+        "9781101975954"
+      ]
+    },
+        {
+      "label": "When I Was Puerto Rican = Cuando era puertorriqueña",
+      "isbns": [
+        "9780201581171",
+        "9780306902536",
+        "9780804153409",
+        "9781490659688"
+      ]
+    },
+        {
+      "label": "The Last Summer of the Death Warriors",
+      "isbns": [
+        "9780545151337",
+        "9780307707055",
+        "9780307707062"
+      ]
+    }
+  ]
+}
