@@ -1,0 +1,181 @@
+{
+  "label": "DC Public Library - Hispanic Heritage Month 2020 Spanish Langauge Book Recommendations for Adult",
+  "description": "DC Public Library has selected a variety of great titles for Adults related to Hispanic Heritage Month",
+  "list": [
+    {
+      "label": "El Juego de Ripper",
+      "isbns": [
+        "9780804171656",
+        "9780804173254",
+        "9788401019579"
+      ]
+    },
+    {
+      "label": "Los de Abajo: Novela de la Revolución Mexicana",
+      "isbns": [
+        "9789681603205"
+      ]
+    },
+    {
+      "label": "2666",
+      "isbns": [
+        "9780307475954",
+        "9788420426464"
+      ]
+    },
+    {
+      "label": "La Casa en Mango Street",
+      "isbns": [
+        "9780679755265",
+        "9780739322802",
+        "9780345807205",
+        "9780739346297"
+      ]
+    },
+        {
+      "label": "Dominicana",
+      "isbns": [
+        "9781250205933",
+        "9781432873318",
+        "9781250205926",
+        "9781250242556"
+      ]
+    },
+        {
+      "label": "Adulterio",
+      "isbns": [
+        "9781101872222"
+      ]
+    },
+        {
+      "label": "Rayuela",
+      "isbns": [
+        "9788466319058",
+        "9789877382099"
+      ]
+    },
+        {
+      "label": "Así Es Como la Pierdes",
+      "isbns": [
+        "9780345805249",
+        "9780345805256"
+      ]
+    },
+        {
+      "label": "El Tiempo Entre Costuras",
+      "isbns": [
+        "9786070704086",
+        "9781451649864"
+      ]
+    },
+        {
+      "label": "Como Agua para Chocolate: Novela de Entregas Mensuales con Recetas, Amores y Remedios Caseros",
+      "isbns": [
+        "9789684061408"
+      ]
+    },
+        {
+      "label": "El Mundo de Afuera",
+      "isbns": [
+        "9781622639403"
+      ]
+    },
+        {
+      "label": "Cantoras",
+      "isbns": [
+        "9780525521693",
+        "9780525521709"
+      ]
+    },
+        {
+      "label": "La Muerte de Artemio Cruz",
+      "isbns": [
+        "9780140255829"
+      ]
+    },
+        {
+      "label": "Necropolis",
+      "isbns": [
+        "9781609450731"
+      ]
+    },
+        {
+      "label": "Soñar en Cubano",
+      "isbns": [
+        "9789684132849",
+        "9780307803412"
+      ]
+    },
+        {
+      "label": "El Otoño del Patriarca",
+      "isbns": [
+        "9788401301551",
+        "9781101911006"
+      ]
+    },
+        {
+      "label": "Arrancame la Vida",
+      "isbns": [
+        "9788420424354"
+      ]
+    },
+        {
+      "label": "La Ridícula Idea de no Volver a Verte",
+      "isbns": [
+        "9788432215483"
+      ]
+    },
+        {
+      "label": "Antología General",
+      "isbns": [
+        "9786074006568"
+      ]
+    },
+        {
+      "label": "La Fugitiva",
+      "isbns": [
+        "9788420407104",
+        "9786071112743"
+      ]
+    },
+        {
+      "label": "La Sombra del Viento",
+      "isbns": [
+        "9788408057932",
+        "9780307806796"
+      ]
+    },
+            {
+      "label": "El Secreto de sus Ojos",
+      "isbns": [
+        "9786071105905"
+      ]
+    },
+            {
+      "label": "Diez Mujeres",
+      "isbns": [
+        "9781616058968"
+      ]
+    },
+            {
+      "label": "El Héroe Discreto",
+      "isbns": [
+        "9781622631193",
+        "9788420415628" 
+      ]
+    },
+            {
+      "label": "El Ruido de las Cosas al Caer",
+      "isbns": [
+        "9781616056117",
+        "9788420494944"
+      ]
+    },
+            {
+      "label": "La Tejedora de Sombras",
+      "isbns": [
+        "9788408110781"
+      ]
+    }
+  ]
+}
