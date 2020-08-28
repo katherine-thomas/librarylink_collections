@@ -1,0 +1,168 @@
+{
+  "label": "DC Public Library - Books on Back to School",
+  "description": "DC Public Library has selected a variety of great titles for children related to heading back to school.",
+  "list": [
+    {
+      "label": "Shapes in math, science and nature",
+      "isbns": [
+        "9781771381246"
+      ]
+    },
+    {
+      "label": "Totally Tardy Marty",
+      "isbns": [
+        "9781419716614"
+      ]
+    },
+    {
+      "label": "Bedtime math | Matemáticas antes de dormir",
+      "isbns": [
+        "9781250035851",
+        "9781250051813"
+      ]
+    },
+    {
+      "label": "If you ever want to bring an alligator to school, don't!",
+      "isbns": [
+        "9780316376570",
+        "9780998206035"
+      ]
+    },
+        {
+      "label": "Football: The Math of the Game",
+      "isbns": [
+        "9781429665674"
+      ]
+    },
+        {
+      "label": "Awesome Algorithms and Creative Coding",
+      "isbns": [
+        "9780778715085"
+      ]
+    },
+        {
+      "label": "Animal School: What Class Are You?",
+      "isbns": [
+        "9780823430451"
+      ]
+    },
+        {
+      "label": "A Smart Girl’s Guide, Middle School",
+      "isbns": [
+        "9781609584061"
+      ]
+    },
+        {
+      "label": "Ruby Wizardry: An Introduction to Programming for Kids",
+      "isbns": [
+        "9781593275662"
+      ]
+    },
+        {
+      "label": "Save the Earth Science Experiments",
+      "isbns": [
+        "9781600593222"
+      ]
+    },
+        {
+      "label": "Bully",
+      "isbns": [
+        "9781596436305"
+      ]
+    },
+        {
+      "label": "Algebra & Geometry",
+      "isbns": [
+        "9780753466278"
+      ]
+    },
+        {
+      "label": "Putting on the Brakes: Understanding and Taking Control of Your ADD or ADHD",
+      "isbns": [
+        "9781433803864"
+      ]
+    },
+        {
+      "label": "Maisy Goes to Preschool",
+      "isbns": [
+        "9780763642549"
+      ]
+    },
+        {
+      "label": "Pirate’s Guide to First Grade",
+      "isbns": [
+        "9780312369286"
+      ]
+    },
+        {
+      "label": "A Is for Musk Ox",
+      "isbns": [
+        "9781596436763"
+      ]
+    },
+        {
+      "label": "How Rocket Learned to Read",
+      "isbns": [
+        "9780375858994",
+        "9780375989223"
+      ]
+    },
+        {
+      "label": "Llama Llama Misses Mama",
+      "isbns": [
+        "9780670061983",
+        "9781101647547"
+      ]
+    },
+        {
+      "label": "Lunch Lady and the Mutant Mathletes",
+      "isbns": [
+        "9780375870286"
+      ]
+    },
+        {
+      "label": "Sideways Stories from Wayside School ",
+      "isbns": [
+        "9780688160869",
+        "9780380731480",
+        "9780062694164"
+      ]
+    },
+        {
+      "label": "Kindergarten Rocks!",
+      "isbns": [
+        "9780152049324"
+      ]
+    },
+            {
+      "label": "It's My School",
+      "isbns": [
+        "9780802780867"
+      ]
+    },
+            {
+      "label": "Kindergarten Countdown",
+      "isbns": [
+        "9780375842528"
+      ]
+    },
+            {
+      "label": "Off to Kindergarten",
+      "isbns": [
+        "9780439730907" 
+      ]
+    },
+            {
+      "label": "Kindergarten Diary",
+      "isbns": [
+        "9780061456916"
+      ]
+    },
+            {
+      "label": "Mom, It's my First Day of Kindergarten!",
+      "isbns": [
+        "9780374350048"
+      ]
+    }
+  ]
+}
