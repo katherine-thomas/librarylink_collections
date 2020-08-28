@@ -1,0 +1,103 @@
+{
+  "label": "DC Public Library - Books on Back to School for Teens",
+  "description": "DC Public Library has selected a variety of great titles for teens related to heading back to school.",
+  "list": [
+    {
+      "label": "Kiss My Math: Showing Pre-Algebra Who’s Boss",
+      "isbns": [
+        "9780452295407"
+      ]
+    },
+    {
+      "label": "How to Win at High School",
+      "isbns": [
+        "9780062336866"
+      ]
+    },
+    {
+      "label": "How to Grow Up Like Me: The Ballou Story Project",
+      "isbns": [
+        "9780692309568"
+      ]
+    },
+    {
+      "label": "El Deafo | Super Sorda",
+      "isbns": [
+        "9781419712173",
+        "9788417108168",
+        "9781613126219"
+      ]
+    },
+        {
+      "label": "Learn to Program with Scratch",
+      "isbns": [
+        "9781593275433"
+      ]
+    },
+        {
+      "label": "Electricity and Magnetism Science Fair Projects",
+      "isbns": [
+        "9780766034181"
+      ]
+    },
+        {
+      "label": "Algebra",
+      "isbns": [
+        "9780470185599"
+      ]
+    },
+        {
+      "label": "Grammar Girl Presents the Ultimate Writing Guide for Students",
+      "isbns": [
+        "9780805089431"
+      ]
+    },
+        {
+      "label": "It Gets Better: Coming Out, Overcoming Bullying, and Creating a Life Worth Living",
+      "isbns": [
+        "9780525952336"
+      ]
+    },
+        {
+      "label": "Get into Any College",
+      "isbns": [
+        "9781617600975",
+        "9781617600067",
+        "9781617600609"
+      ]
+    },
+        {
+      "label": "Middle School: Get Me Out of Here",
+      "isbns": [
+        "9780316206716",
+        "9780316256599"
+      ]
+    },
+        {
+      "label": "Eleanor & Park",
+      "isbns": [
+        "9781250012579"
+      ]
+    },
+        {
+      "label": "Yaqui Delgado Want to Kick Your Ass ",
+      "isbns": [
+        "9780763658595",
+        "9781469274843",
+        "9780763663544"
+      ]
+    },
+        {
+      "label": "Stuck in the Middle",
+      "isbns": [
+        "9780670062218"
+      ]
+    },
+        {
+      "label": "Sleeping Freshmen Never Lie ",
+      "isbns": [
+        "9780525473114"
+      ]
+    }
+  ]
+}
