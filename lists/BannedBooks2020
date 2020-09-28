@@ -1,0 +1,392 @@
+{
+  "label": "Banned Books Week 2020",
+  "description": "Banned Books Week 2020 runs from Sept. 27 - Oct. 3. It is an annual awareness campaign promoted by the American Library Association and Amnesty International, that celebrates the freedom to read, draws attention to banned and challenged books, and highlights persecuted individuals. The Library has compiled a list of some of the most challenged books from the past 10 years. You can check them out with your Library card.",
+  "list": [
+    {
+      "label": "A Bad Boy Can Be Good for A Girl",
+      "isbns": [
+        "9780385909464"
+      ]
+    },
+  {
+      "label": "A Day in the Life of Marlon Bundo",
+      "isbns": [
+        "9781452173801",
+        "9781452176369"
+      ]
+    },
+    {
+      "label": "Alice (series)",
+      "isbns": [
+        "9780689314667",
+        "9780689316814",
+        "9780689318054"
+      ]
+    },
+        {
+      "label": "And Tango Makes Three",
+      "isbns": [
+        "9780689878459"
+      ]
+    },
+            {
+      "label": "A Stolen Life",
+      "isbns": [
+        "9781451629187",
+        "9781451629200"
+      ]
+    },
+                {
+      "label": "Beloved",
+      "isbns": [
+        "9780525659273",
+        "9780739342275",
+        "9780307388629",
+        "9780739346747"
+      ]
+    },
+                {
+      "label": "Beyond Magenta: Transgender Teens Speak Out",
+      "isbns": [
+        "9780763656119",
+        "9780763670351"
+      ]
+    },
+    {
+      "label": "Bless Me Ultima",
+      "isbns": [
+        "9780446675369",
+        "9781455521333"
+      ]
+    },
+    {
+      "label": "Bone (series)",
+      "isbns": [
+        "9780439706230",
+        "9780439706247",
+        "9780439706254"
+      ]
+    },
+    {
+      "label": "Brave New World",
+      "isbns": [
+        "9780060850524",
+        "9780062368232",
+        "9780792753520"
+      ]
+    },
+        {
+      "label": "Captain Underpants (series)",
+      "isbns": [
+        "9780590846271",
+        "9781338312676",
+        "9780545628044"
+      ]
+    },
+    {
+      "label": "Crank",
+      "isbns": [
+        "9781416995135",
+        "9781598877687"
+      ]
+    },
+    {
+      "label": "Drama",
+      "isbns": [
+        "9780545326995",
+        "9781338269161",
+        "9780545779968"
+      ]
+    },
+        {
+      "label": "Eleanor & Park ",
+      "isbns": [
+        "9781250012579",
+        "9780385368261",
+        "9781250031211",
+        "9780385368292"
+      ]
+    },
+            {
+      "label": "Fifty Shades of Grey",
+      "isbns": [
+        "9781612130286",
+        "9780385363129",
+        "9780385360074",
+        "9781612130293",
+        "9780449808177"
+      ]
+    },
+                {
+      "label": "Fun Home",
+      "isbns": [
+        "9780618477944"
+      ]
+    },
+                    {
+      "label": "George",
+      "isbns": [
+        "9780545812542",
+        "9780545880060",
+        "9781338248296"
+      ]
+    },
+                        {
+      "label": "Gossip Girl (series)",
+      "isbns": [
+        "9780316136884"
+      ]
+    },
+                            {
+      "label": "Habibi",
+      "isbns": [
+        "9780375424144"
+      ]
+    },
+                                {
+      "label": "Harry Potter (series)",
+      "isbns": [
+        "9780590353403",
+        "9781524721251",
+        "9781781100486",
+        "9781781102633"
+      ]
+    },
+                                {
+      "label": "I Am Jazz",
+      "isbns": [
+        "9780803741072",
+        "9780698176737"
+      ]
+    },
+                                {
+      "label": "It’s Perfectly Normal",
+      "isbns": [
+        "9780763668716"
+      ]
+    },
+                                {
+      "label": "Looking for Alaska",
+      "isbns": [
+        "9780525428022",
+        "9781101434208",
+        "9780593209462"
+      ]
+    },
+                                {
+      "label": "Lush",
+      "isbns": [
+        "9780439853460"
+      ]
+    },
+                                {
+      "label": "Make Something Up: Stories You Can’t Unread",
+      "isbns": [
+        "9780385538053",
+        "9781470383916",
+        "9780385538060"
+      ]
+    },
+                                {
+      "label": "My Mom's Having A Baby! A Kid's Month-by-Month Guide to Pregnancy",
+      "isbns": [
+        "9780807553442"
+      ]
+    },
+                                {
+      "label": "Nasreen’s Secret School: A True Story from Afghanistan",
+      "isbns": [
+        "9781416994374"
+      ]
+    },
+                                {
+      "label": "Nickel and Dimed",
+      "isbns": [
+        "9780312626686",
+        "9781429926645"
+      ]
+    },
+                                {
+      "label": "Persepolis",
+      "isbns": [
+        "9780375422300"
+      ]
+    },
+                                    {
+      "label": "Prince & Knight",
+      "isbns": [
+        "9781499805529"
+      ]
+    },
+                                        {
+      "label": "Saga",
+      "isbns": [
+        "9780670062805"
+      ]
+    },
+                                            {
+      "label": "Scary Stories (series)",
+      "isbns": [
+        "9780064401708",
+        "9780062682840"
+      ]
+    },
+                                                {
+      "label": "Sex is a Funny Word",
+      "isbns": [
+        "9781609806064"
+      ]
+    },
+                                                    {
+      "label": "Skippyjon Jones series",
+      "isbns": [
+        "99780525471349"
+      ]
+    },
+                                                        {
+      "label": "The Absolutely True Diary of a Part-Time Indian",
+      "isbns": [
+        "9780316013680",
+        "9781428182974",
+        "9780316280372",
+        "9781456103521"
+      ]
+    },
+                                                            {
+      "label": "The Bluest Eye",
+      "isbns": [
+        "9780307278449",
+        "9780307941138",
+        "9780307386588",
+        "9780307941145"
+      ]
+    },
+                                                                {
+      "label": "The Color of Earth (series)",
+      "isbns": [
+        "9781596434585"
+      ]
+    },
+                                                                    {
+      "label": "The Curious Incident of the Dog in the Night-Time",
+      "isbns": [
+        "9780385509459",
+        "9781400079070",
+        "9781456126797"
+      ]
+    },
+                                                                        {
+      "label": "The Glass Castle",
+      "isbns": [
+        "9780743247535",
+        "9781508239741",
+        "9781416550600",
+        "9781508231110"
+      ]
+    },
+                                                                            {
+      "label": "The Handmaid’s Tale",
+      "isbns": [
+        "9780395404256",
+        "9781432838478",
+        "9781543661903",
+        "9780547345666"
+      ]
+    },
+                                                                                {
+      "label": "The Hate U Give",
+      "isbns": [
+        "9780062498533",
+        "9781432841690",
+        "9780062677099",
+        "9780062498557",
+        "9780062677082"
+      ]
+    },
+                                                                                    {
+      "label": "The Holy Bible",
+      "isbns": [
+        "9781620116524"
+      ]
+    },
+                                                                                        {
+      "label": "The Hunger Games",
+      "isbns": [
+        "9780439023481",
+        "9780545091022",
+        "9780545229937",
+        "9781338249101"
+      ]
+    },
+                                                                                            {
+      "label": "The Kite Runner",
+      "isbns": [
+        "9781573222457",
+        "9781101217238",
+        "9781508219132"
+      ]
+    },
+                                                                                                {
+      "label": "Thirteen Reasons Why",
+      "isbns": [
+        "9781595147882",
+        "9780739361221",
+        "9781101539927",
+        "9780739361238"
+      ]
+    },
+                                                                                                    {
+      "label": "This Day in June",
+      "isbns": [
+        "9781433816581"
+      ]
+    },
+                                                                                                        {
+      "label": "This One Summer",
+      "isbns": [
+        "9781626720947",
+        "9781466858527"
+      ]
+    },
+                                                                                                            {
+      "label": "The Perks of Being a Wallflower",
+      "isbns": [
+        "9780671027346",
+        "9781439122433",
+        "9781508251576"
+      ]
+    },
+                                                                                                                {
+      "label": "To Kill a Mockingbird",
+      "isbns": [
+        "9780062420701",
+        "9780061980268",
+        "9780061808128",
+        "9780062368683",
+        "9780062368690"
+      ]
+    },
+                                                                                                                    {
+      "label": "Twilight",
+      "isbns": [
+        "9780316160179",
+        "9780316137690",
+        "9780739345306"
+      ]
+    },
+                                                                                                                        {
+      "label": "Two Boys Kissing",
+      "isbns": [
+        "9780307931900",
+        "9780307975645",
+        "9780804123747"
+      ]
+    },
+                                                                                                                            {
+      "label": "What My Mother Doesn't Know",
+      "isbns": [
+        "9780689841149"
+      ]
+    }
+  ]
+}
