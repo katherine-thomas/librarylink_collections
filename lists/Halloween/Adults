@@ -1,0 +1,156 @@
+{
+  "label": "DC Public Library - Spooky Halloween Reads for Adults",
+  "description": "Get into the Halloween spirit with these great adult reads from DC Public Library.",
+  "list": [
+    {
+      "label": "Rebecca",
+      "isbns": [
+        "9781101907870",
+        "9780316254342",
+        "9781405628648"
+      ]
+    },
+    {
+      "label": "The Turn of the Screw",
+      "isbns": [
+        "9780141441351",
+        "9781560005476",
+        "9781620112182",
+        "9781481552646"
+      ]
+    },
+    {
+      "label": "The Haunting of Hill House",
+      "isbns": [
+        "9780143129370",
+        "9781101530641",
+        "9781597778183"
+      ]
+    },
+    {
+      "label": "The Shining",
+      "isbns": [
+        "9780345806789",
+        "9780385528863",
+        "9780385360135"
+      ]
+    },
+        {
+      "label": "Her Body and Other Parties",
+      "isbns": [
+        "9781555977887",
+        "9781555979805",
+        "9781681686899"
+      ]
+    },
+        {
+      "label": "House of Leaves",
+      "isbns": [
+        "9780375420528"
+      ]
+    },
+        {
+      "label": "The Good House",
+      "isbns": [
+        "9780743449014"
+      ]
+    },
+        {
+      "label": "Frankenstein",
+      "isbns": [
+        "9780872261907",
+        "9780553898033",
+        "9789589494431"
+      ]
+    },
+        {
+      "label": "Dracula",
+      "isbns": [
+        "9780307593856",
+        "9781101076156",
+        "9781483088570"
+      ]
+    },
+        {
+      "label": "And Then There Were None",
+      "isbns": [
+        "9780062073471",
+        "9780062265890",
+        "9780062265876"
+      ]
+    },
+        {
+      "label": "White is for Witching",
+      "isbns": [
+        "9780385526050",
+        "9780698157293"
+      ]
+    },
+        {
+      "label": "Rosemary's Baby",
+      "isbns": [
+        "9781605981109",
+        "9781453217528"
+      ]
+    },
+        {
+      "label": "Little Sister Death",
+      "isbns": [
+        "9781938103131"
+      ]
+    },
+        {
+      "label": "Fledgling",
+      "isbns": [
+        "9781583226902",
+        "9781583228043",
+        "9780792748113"
+      ]
+    },
+        {
+      "label": "The Thirteenth Tale",
+      "isbns": [
+        "9780743298025",
+        "9781416540533"
+      ]
+    },
+        {
+      "label": "Something Wicked This Way Comes",
+      "isbns": [
+        "9780380977277",
+        "9780062242174",
+        "9781400198252"
+      ]
+    },
+        {
+      "label": "Practical Magic",
+      "isbns": [
+        "9780399140556",
+        "9781440673757",
+        "9780743587167"
+      ]
+    },
+        {
+      "label": "The Woman in Black",
+      "isbns": [
+        "9780879235765",
+        "9780307745323"
+      ]
+    },
+        {
+      "label": "Zone One",
+      "isbns": [
+        "9780385528078",
+        "9780385535014",
+        "9780307940957"
+      ]
+    },
+        {
+      "label": "The Hunger",
+      "isbns": [
+        "9780735212510",
+        "9780735212527"
+      ]
+    }
+  ]
+}
