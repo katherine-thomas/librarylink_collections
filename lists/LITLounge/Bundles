@@ -1,0 +1,37 @@
+{
+  "label": "DC Public Library - Books by Author A'Lelia Bundles",
+  "description": "As a part of the LITerary Lounge by Mocha Series, the DC Public Library has compiled a list of A'Lelia Bundles titles that you can check out with your library card.",
+  "list": [
+    {
+      "label": "Self made : inspired by the life of Madam C.J. Walker",
+      "isbns": [
+        "9781982126674",
+        "9781508296133"
+      ]
+    },
+    {
+      "label": "Madam Walker Theatre Center : an Indianapolis treasure",
+      "isbns": [
+        "9781467110877"
+      ]
+    },
+    {
+      "label": "Madam C.J. Walker : entrepreneur",
+      "isbns": [
+        "9781604130720"
+      ]
+    },
+    {
+      "label": "On her own ground : the life and times of Madam C.J. Walker",
+      "isbns": [
+        "9780684825823"
+      ]
+    },
+    {
+      "label": "Madam C.J. Walker",
+      "isbns": [
+        "9781555466152"
+      ]
+    }
+  ]
+}
