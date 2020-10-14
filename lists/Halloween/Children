@@ -1,0 +1,130 @@
+{
+  "label": "DC Public Library - Spooky Halloween Reads for Kids",
+  "description": "Get into the Halloween spirit with these great reads from DC Public Library for kids!",
+  "list": [
+    {
+      "label": "Scary Stories to Tell in the Dark",
+      "isbns": [
+        "9780064401708",
+        "9780062682840"
+      ]
+    },
+    {
+      "label": "A very brave witch",
+      "isbns": [
+        "9780689867309"
+      ]
+    },
+    {
+      "label": "Bunnicula : a rabbit tale of mystery",
+      "isbns": [
+        "9780689307003",
+        "9781400094738",
+        "9781439132050",
+        "9780739345061"
+      ]
+    },
+    {
+      "label": "Creepy Pair of Underwear!",
+      "isbns": [
+        "9781442402980"
+      ]
+    },
+        {
+      "label": "Pete the Cat: Five Little Pumpkins",
+      "isbns": [
+        "9780062304186"
+      ]
+    },
+        {
+      "label": "The runaway pumpkin",
+      "isbns": [
+        "9780439439749"
+      ]
+    },
+        {
+      "label": "Bonaparte Falls Apart",
+      "isbns": [
+        "9781101937686"
+      ]
+    },
+        {
+      "label": "Little Blue Truck's Halloween",
+      "isbns": [
+        "9780544772533"
+      ]
+    },
+        {
+      "label": "Llama Llama Trick or Treat",
+      "isbns": [
+        "9780451469786"
+      ]
+    },
+        {
+      "label": "Snowmen at Halloween",
+      "isbns": [
+        "9780525554684"
+      ]
+    },
+        {
+      "label": "Pick a pumpkin",
+      "isbns": [
+        "9781536207644"
+      ]
+    },
+        {
+      "label": "My Monster Mama Loves Me So",
+      "isbns": [
+        "9780688168667"
+      ]
+    },
+        {
+      "label": "It's Pumpkin Day, Mouse!",
+      "isbns": [
+        "9780694014293"
+      ]
+    },
+        {
+      "label": "Goblin moon",
+      "isbns": [
+        "9780062792297"
+      ]
+    },
+        {
+      "label": "What Was I Scared Of?",
+      "isbns": [
+        "9780375853425"
+      ]
+    },
+        {
+      "label": "Duck & Goose, honk! quack! boo!",
+      "isbns": [
+        "9781524701758"
+      ]
+    },
+        {
+      "label": "Los gatos black on Halloween",
+      "isbns": [
+        "9781250079459"
+      ]
+    },
+        {
+      "label": "Seven orange pumpkins : a counting book",
+      "isbns": [
+        "9780803741386"
+      ]
+    },
+        {
+      "label": "Not very scary",
+      "isbns": [
+        "9780374355470"
+      ]
+    },
+        {
+      "label": "How to scare a ghost ",
+      "isbns": [
+        "9781524701901"
+      ]
+    }
+  ]
+}
