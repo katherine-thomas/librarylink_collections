@@ -1,0 +1,134 @@
+{
+  "label": "DC Public Library - Native American Heritage Month 2020 Book Recommendations for Teens",
+  "description": "DC Public Library has selected a variety of great titles for teens related to Native American Heritage Month.",
+  "list": [
+    {
+      "label": "Undefeated: Jim Thorpe and the Carlisle Indian School Football team",
+      "isbns": [
+        "9781596439542",
+        "9780553552799",
+        "9781596439559"
+      ]
+    },
+    {
+      "label": "The Absolutely True Diary of a Part-time Indian",
+      "isbns": [
+        "9780316013680",
+        "9781428182974",
+        "9780316280372",
+        "9780316280372"
+      ]
+    },
+    {
+      "label": "#NotYourPrincess: Voices of Native American Women",
+      "isbns": [
+        "9781554519583"
+      ]
+    },
+    {
+      "label": "Love Beyond Body, Space, and Time: An Indigenous LGBT Sci-fi Anthology",
+      "isbns": [
+        "9780993997075"
+      ]
+    },
+    {
+      "label": "This Place: 150 Years Retold",
+      "isbns": [
+        "9781553797586"
+      ]
+    },
+    {
+      "label": "The Marrow Thieves",
+      "isbns": [
+        "9781770864863",
+        "9781770864870"
+      ]
+    },
+    {
+      "label": "Give Me Some Truth",
+      "isbns": [
+        "9781338143546"
+      ]
+    },
+       {
+      "label": "Hearts Unbroken",
+      "isbns": [
+        "9780763681142",
+        "9781536202007"
+      ]
+    },
+        {
+      "label": "Fire Starters",
+      "isbns": [
+        "9781553796855"
+      ]
+    },
+        {
+      "label": "Trickster: Native American Tales: A Graphic Collection",
+      "isbns": [
+        "9781555917241"
+      ]
+    },
+        {
+      "label": "Looks Like Daylight: Voices of Indigenous Kids",
+      "isbns": [
+        "9781554981205"
+      ]
+    },
+        {
+      "label": "If I Ever Get Out of Here: A Novel with Paintings",
+      "isbns": [
+        "9780545417303"
+      ]
+    },
+        {
+      "label": "Shadows Cast By Stars",
+      "isbns": [
+        "9781442401914"
+      ]
+    },
+        {
+      "label": "Do All Indians Live in Tipis?: Questions and Answers from the National Museum of the American Indian",
+      "isbns": [
+        "9781588346193"
+      ]
+    },
+        {
+      "label": "Wabi: A Hero's Tale",
+      "isbns": [
+        "9780803730984"
+      ]
+    },
+            {
+      "label": "Dakwakada Warriors",
+      "isbns": [
+        "9781772620412"
+      ]
+    },
+            {
+      "label": "Danny Blackgoat: Dangerous Passage",
+      "isbns": [
+        "9781939053152"
+      ]
+    },
+                {
+      "label": "An Indigenous Peoples' History of the United States for Young People",
+      "isbns": [
+        "9780807049396"
+      ]
+    },
+                {
+      "label": "My Name Is Not Easy",
+      "isbns": [
+        "9780761459804",
+        "9780761460916"
+      ]
+    },
+                {
+      "label": "Journey Into Mohawk Country",
+      "isbns": [
+        "9781596431065"
+      ]
+    }
+  ]
+}
