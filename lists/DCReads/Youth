@@ -1,0 +1,173 @@
+{
+  "label": "DC Reads - Read-a-likes",
+  "description": "Loved 'Good Reads' by Mira Jacob? Check out these other good reads for children and teens recommended by DC Public Library!",
+  "list": [
+    {
+      "label": "It's Trevor Noah: Born a Crime",
+      "isbns": [
+        "9780399588198"
+      ]
+    },
+    {
+      "label": "We Came to America",
+      "isbns": [
+        "9780517709474"
+      ]
+    },
+    {
+      "label": "The Truths we Hold",
+      "isbns": [
+        "9781984837066"
+      ]
+    },
+    {
+      "label": "Same Sun Here",
+      "isbns": [
+        "9780763656843",
+        "9781455822300"
+      ]
+    },
+    {
+      "label": "Once Upon an Eid",
+      "isbns": [
+        "9781419740831"
+      ]
+    },
+    {
+      "label": "Pashmina",
+      "isbns": [
+        "9781626720886",
+        "9781250192264"
+      ]
+    },
+    {
+      "label": "American Born Chinese",
+      "isbns": [
+        "9781596433731",
+        "9781466805460"
+      ]
+    },
+       {
+      "label": "Internment",
+      "isbns": [
+        "9780316522694",
+        "9781549148767",
+        "9780316522830",
+        "9781549178887"
+      ]
+    },
+        {
+      "label": "Take the Mic",
+      "isbns": [
+        "9781338343700",
+        "9781338343724"
+      ]
+    },
+        {
+      "label": "Stamped from the Beginning",
+      "isbns": [
+        "9780316453691"
+      ]
+    },
+        {
+      "label": "Born Confused",
+      "isbns": [
+        "9780439357623"
+      ]
+    },
+        {
+      "label": "Love Hate and Other Filters",
+      "isbns": [
+        "9781616958480"
+      ]
+    },
+        {
+      "label": "There's Something about Sweetie",
+      "isbns": [
+        "9781534416789",
+        "9781534416802",
+        "9781508294900"
+      ]
+    },
+        {
+      "label": "Almost American Girl",
+      "isbns": [
+        "9780062685094",
+        "9780062685117"
+      ]
+    },
+        {
+      "label": "Don't Ask Me Where I'm From",
+      "isbns": [
+        "9781534438248",
+        "9781534438262"
+      ]
+    },
+            {
+      "label": "This is My America",
+      "isbns": [
+        "9780593118764",
+        "9780593118788",
+        "9780593207949"
+      ]
+    },
+            {
+      "label": "We Are Not From Here",
+      "isbns": [
+        "9781984812261",
+        "9781984812278"
+      ]
+    },
+            {
+      "label": "Color Me In",
+      "isbns": [
+        "9780525578239",
+        "9781984889157",
+        "9780525578246"
+      ]
+    },
+            {
+      "label": "A Very Large Expanse of Sea",
+      "isbns": [
+        "9780062866561",
+        "9780062888204",
+        "9780062866585",
+        "9780062888198"
+      ]
+    },
+            {
+      "label": "Our Stories, Our Voices",
+      "isbns": [
+        "9781534408999"
+      ]
+    },
+            {
+      "label": "American Street",
+      "isbns": [
+        "9780062473042",
+        "9780062679550",
+        "9780062473066",
+        "9780062661241"
+      ]
+    },
+            {
+      "label": "How I Resist",
+      "isbns": [
+        "9781250168368"
+      ]
+    },
+            {
+      "label": "Here We Are: Feminism for the Real World",
+      "isbns": [
+        "9781616205867"
+      ]
+    },
+            {
+      "label": "Color Outside the Lines",
+      "isbns": [
+        "9781641290463",
+        "9781641290470"
+      ]
+    }
+  ]
+}
