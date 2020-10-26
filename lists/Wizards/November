@@ -1,0 +1,28 @@
+{
+  "label": "Washington Wizards Book of the Month - November 2020",
+  "description": "Check out the November 2020 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "Fry Bread",
+      "isbns": [
+        "9781626727465",
+        "9781250760869"
+      ]
+    },
+    {
+      "label": "I Can Make This Promise",
+      "isbns": [
+        "9780062871992",
+        "9780062872036",
+        "9780062987556"
+      ]
+    },
+    {
+      "label": "My Name Is Not Easy",
+      "isbns": [
+        "9780761459804",
+        "9780761460916"
+      ]
+    }
+  ]
+}
