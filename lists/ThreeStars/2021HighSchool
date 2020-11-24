@@ -1,0 +1,73 @@
+{
+  "label": "2021 Three Stars Book Award High School Nominees",
+  "description": "The Three Stars Book Award is a project of the District of Columbia Library Association: School Library Section, local librarians and reading advocates. The inaugural award was given in 2017. Voting for the Three Stars Book Award takes place in May and June, and is open to students who live or go to school in Washington, DC. We strive to recognize books that incorporate diversity, multiculturalism, and other curricular connections as a means to connect reading to learning while building a culture of reading across DC schools. Nominees are chosen by a committee based on readers' interests and requests. Winners are chosen by students and readers across the district. ",
+  "list": [
+    {
+      "label": "Clap When You Land",
+      "isbns": [
+        "9780062882769",
+        "9780062882783",
+        "9780063011816"
+      ]
+    },
+  {
+      "label": "Legendborn",
+      "isbns": [
+        "9781534441606",
+        "9781534441620",
+        "9781797113463"
+      ]
+    },
+    {
+      "label": "Dread Nation",
+      "isbns": [
+        "9780062570604",
+        "9780062822963",
+        "9780062570628",
+        "9780062822956"
+      ]
+    },
+        {
+      "label": "This is My America",
+      "isbns": [
+        "9780593118764",
+        "9780593118788",
+        "9780593207949"
+      ]
+    },
+    {
+      "label": "Furia",
+      "isbns": [
+        "9781616209919",
+        "9781643751207",
+        "9781649040114"
+      ]
+    },
+    {
+      "label": "Late to the Party",
+      "isbns": [
+        "9781250209146",
+        "9781250248282"
+      ]
+    },
+    {
+      "label": "The Universal Laws of Marco",
+      "isbns": [
+        "9781442485112"
+      ]
+    },
+        {
+      "label": "Pumpkinheads",
+      "isbns": [
+        "9781250312853",
+        "9781250269065"
+      ]
+    },
+        {
+      "label": "Darkly",
+      "isbns": [
+        "9781912248544"
+      ]
+    }
+  ]
+}
