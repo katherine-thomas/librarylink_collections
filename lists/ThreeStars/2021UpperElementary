@@ -1,0 +1,56 @@
+{
+  "label": "2021 Three Stars Book Award Upper Elementary Nominees",
+  "description": "The Three Stars Book Award is a project of the District of Columbia Library Association: School Library Section, local librarians and reading advocates. The inaugural award was given in 2017. Voting for the Three Stars Book Award takes place in May and June, and is open to students who live or go to school in Washington, DC. We strive to recognize books that incorporate diversity, multiculturalism, and other curricular connections as a means to connect reading to learning while building a culture of reading across DC schools. Nominees are chosen by a committee based on readers' interests and requests. Winners are chosen by students and readers across the district. ",
+  "list": [
+    {
+      "label": "Becoming Muhammad Ali",
+      "isbns": [
+        "9780316498166",
+        "9780316120890"
+      ]
+    },
+  {
+      "label": "Isaiah Dunn is my hero",
+      "isbns": [
+        "9780593121368",
+        "9780593121382"
+      ]
+    },
+    {
+      "label": "When Stars are Scattered",
+      "isbns": [
+        "9780525553915",
+        "9780525553922",
+        "9780593162590"
+      ]
+    },
+        {
+      "label": "Stand Up, Yumi Chung!",
+      "isbns": [
+        "9780525554974",
+        "9780525554981",
+        "9780593162682"
+      ]
+    },
+    {
+      "label": "Dear Sweet Pea",
+      "isbns": [
+        "9780062473073",
+        "9780062473097",
+        "9780062965202"
+      ]
+    },
+    {
+      "label": "A Wish in the Dark",
+      "isbns": [
+        "9781536211726"
+      ]
+    },
+    {
+      "label": "Three Keys: A Front Desk",
+      "isbns": [
+        "9781338591385"
+      ]
+    }
+  ]
+}
