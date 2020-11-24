@@ -1,0 +1,76 @@
+{
+  "label": "2021 Three Stars Book Award Middle School Nominees",
+  "description": "The Three Stars Book Award is a project of the District of Columbia Library Association: School Library Section, local librarians and reading advocates. The inaugural award was given in 2017. Voting for the Three Stars Book Award takes place in May and June, and is open to students who live or go to school in Washington, DC. We strive to recognize books that incorporate diversity, multiculturalism, and other curricular connections as a means to connect reading to learning while building a culture of reading across DC schools. Nominees are chosen by a committee based on readers' interests and requests. Winners are chosen by students and readers across the district. ",
+  "list": [
+    {
+      "label": "A Place at the Table",
+      "isbns": [
+        "9780358116684"
+      ]
+    },
+  {
+      "label": "This Book is Anti-Racist",
+      "isbns": [
+        "9780711245211",
+        "9780711251663"
+      ]
+    },
+    {
+      "label": "Snapdragon",
+      "isbns": [
+        "9781250171122",
+        "9781250776341"
+      ]
+    },
+        {
+      "label": "From the Desk of Zoe Washington",
+      "isbns": [
+        "9780062875853",
+        "9780062875884",
+        "9780062969279"
+      ]
+    },
+    {
+      "label": "Tristan Strong Punches a Hole the Sky",
+      "isbns": [
+        "9781368039932",
+        "9781368054416",
+        "9780593149584"
+      ]
+    },
+    {
+      "label": "Land of Cranes",
+      "isbns": [
+        "9781338343809",
+        "9781338343908"
+      ]
+    },
+    {
+      "label": "Born to Fly",
+      "isbns": [
+        "9781626721302",
+        "9780593154878"
+      ]
+    },
+        {
+      "label": "They Called Us Enemy",
+      "isbns": [
+        "9781603094504",
+        "9781684067510"
+      ]
+    },
+        {
+      "label": "Some Places More Than Others",
+      "isbns": [
+        "9781681191089",
+        "9781681191096"
+      ]
+    },
+        {
+      "label": "Dragon Hoops",
+      "isbns": [
+        "9781250783141"
+      ]
+    }
+  ]
+}
