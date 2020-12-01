@@ -1,0 +1,27 @@
+{
+  "label": "Washington Wizards Book of the Month - December 2020",
+  "description": "Check out the December 2020 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "Journey",
+      "isbns": [
+        "9780763660536"
+      ]
+    },
+    {
+      "label": "Radiant Child",
+      "isbns": [
+        "9780316213882",
+        "9780316394307",
+        "9781478993513"
+      ]
+    },
+    {
+      "label": "It Ain't So Awful Falafel",
+      "isbns": [
+        "9781544400686",
+        "9780544612372"
+      ]
+    }
+  ]
+}
