@@ -1,0 +1,209 @@
+{
+  "label": "D.C.'s Favorite Reads for Kids in 2020",
+  "description": "DC Public Library has compiled D.C.'s favorite reads of 2020 for kids! These titles had the most check outs and renewals this past year. Check them out today with your library card.",
+  "list": [
+    {
+      "label": "Big Nate",
+      "isbns": [
+        "9780061944345",
+        "9780062107589",
+        "9780062002617"
+      ]
+    },
+    {
+      "label": "Harry Potter and the Sorcerer's Stone",
+      "isbns": [
+        "9780590353403",
+        "9781524721251",
+        "9781781100486",
+        "9781781102633"
+      ]
+    },
+    {
+      "label": "Dog Man",
+      "isbns": [
+        "9780545581608",
+        "9780545581639"
+      ]
+    },
+    {
+      "label": "Diary of a Wimpy Kid",
+      "isbns": [
+        "9781419729454",
+        "9781613122433",
+        "9781461813996"
+      ]
+    },
+    {
+      "label": "New Kid",
+      "isbns": [
+        "9780062691200",
+        "9780062691217",
+        "9780062885326"
+      ]
+    },
+    {
+      "label": "A Wrinkle In Time",
+      "isbns": [
+        "9780374308032",
+        "9780307916570",
+        "9781429915649",
+        "9780307916600"
+      ]
+    },
+    {
+      "label": "Amulet",
+      "isbns": [
+        "9780439846806"
+      ]
+    },
+       {
+      "label": "Harry Potter and the Chamber of Secrets",
+      "isbns": [
+        "9780439064866",
+        "9780807281949",
+        "9781781100509",
+        "9781781102640"
+      ]
+    },
+        {
+      "label": "Little Women",
+      "isbns": [
+        "9780143135562",
+        "9781633793828",
+        "9781620114568",
+        "9781483088952"
+      ]
+    },
+        {
+      "label": "Harry Potter and the Prisoner of Azkaban",
+      "isbns": [
+        "9780439136358",
+        "9780807282328",
+        "9781781100516",
+        "9781781102657"
+      ]
+    },
+        {
+      "label": "Harry Potter and the Goblet of Fire",
+      "isbns": [
+        "9780439139595",
+        "9780807282595",
+        "9781781100523",
+        "9781781102664"
+        ]
+    },
+        {
+      "label": "Guts",
+      "isbns": [
+        "9780545852500",
+        "9780545852531"
+      ]
+    },
+        {
+      "label": "One Crazy Summer",
+      "isbns": [
+        "9780060760892",
+        "9781449821968",
+        "9780061966675",
+        "9781456115111"
+      ]
+    },
+        {
+      "label": "Fancy Nancy",
+      "isbns": [
+        "9780060542092",
+        "9780062377913",
+        "9780062213280"
+      ]
+    },
+        {
+      "label": "The Lightning Thief",
+      "isbns": [
+        "9780786856299",
+        "9781423131892",
+        "9780739345146"
+      ]
+    },
+            {
+      "label": "The Giver",
+      "isbns": [
+        "9780395645666",
+        "9780807262030",
+        "9780547345901",
+        "9780739344569"
+      ]
+    },
+            {
+      "label": "Harry Potter and the Deathly Hallows",
+      "isbns": [
+        "9780545010221",
+        "9780739360385",
+        "9781781102435",
+        "9781781102695"
+      ]
+    },
+                {
+      "label": "Wonder",
+      "isbns": [
+        "9780375869020",
+        "9781536611779",
+        "9780375899881"
+      ]
+    },
+                {
+      "label": "Pete the Cat",
+      "isbns": [
+        "9780061906220",
+        "9780062065605"
+      ]
+    },
+                    {
+      "label": "Harry Potter and the Order of the Phoenix",
+      "isbns": [
+        "9780439358064",
+        "9780807220313",
+        "9781781100530",
+        "9781781102671"
+      ]
+    },
+                    {
+      "label": "The Land of Stories",
+      "isbns": [
+        "9780316201575",
+        "9780316204927",
+        "9781619691261"
+      ]
+    },
+                        {
+      "label": "Dog Man and Cat Kid",
+      "isbns": [
+        "9780545935180",
+        "9780545935418"
+      ]
+    },
+                        {
+      "label": "Dog Man Unleashed",
+      "isbns": [
+        "9780545935203",
+        "9780545935432"
+      ]
+    },
+                            {
+      "label": "Harry Potter and the Half-Blood Prince",
+      "isbns": [
+        "9780439784542",
+        "9780307283658",
+        "9781781102688",
+        "9781781100547"
+      ]
+    },
+                            {
+      "label": "Pinkalicious",
+      "isbns": [
+        "9780060776398",
+        "9780061728785"
+      ]
+    }
+  ]
+}
