@@ -1,0 +1,80 @@
+{
+  "label": "Books and Baseball Reads for Winter 2021",
+  "description": "DC Public Library and the Washington Nationals Youth Baseball Academy have compiled great reads for the Winter 2021 season of Books and Baseball! Check them out today with your library card.",
+  "list": [
+    {
+      "label": "Fuzzy Baseball",
+      "isbns": [
+        "9781629914770"
+      ]
+    },
+    {
+      "label": "The Kid from Diamond Street",
+      "isbns": [
+        "9780544611634",
+        "9780544612365"
+      ]
+    },
+    {
+      "label": "Clorinda Plays Baseball",
+      "isbns": [
+        "9780689868658"
+      ]
+    },
+    {
+      "label": "My Mommy Medicine",
+      "isbns": [
+        "9781250140913"
+      ]
+    },
+    {
+      "label": "Curious George at the Baseball Game",
+      "isbns": [
+        "9780618663743"
+      ]
+    },
+    {
+      "label": "Baseball Ballerina",
+      "isbns": [
+        "9780679817345"
+      ]
+    },
+    {
+      "label": "Dino Baseball",
+      "isbns": [
+        "9780761344292",
+        "9781467767187"
+      ]
+    },
+       {
+      "label": "The Bear in the Book",
+      "isbns": [
+        "9780374305918"
+      ]
+    },
+        {
+      "label": "My First Book of Baseball",
+      "isbns": [
+        "9781618931672"
+      ]
+    },
+        {
+      "label": "Baseball Buzz",
+      "isbns": [
+        "9781496542595"
+      ]
+    },
+        {
+      "label": "Berenstain Bears 'We Love Baseball'",
+      "isbns": [
+        "9780062350299"
+        ]
+    },
+        {
+      "label": "Nick Plays Baseball",
+      "isbns": [
+        "9780399232312"
+      ]
+    }
+  ]
+}
