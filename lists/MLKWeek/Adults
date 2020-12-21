@@ -1,0 +1,100 @@
+{
+  "label": "DC Public Library - Martin Luther King Jr. Day 2021 Books for Adults",
+  "description": "Check out these great reads for adults in celebration of Martin Luther Kinig Jr. Day 2021 with your DC Public Library Card.",
+  "list": [
+    {
+      "label": "The autobiography of Martin Luther King, Jr.",
+      "isbns": [
+        "9780446676502",
+        "9781504831010",
+        "9781594833274"
+      ]
+    },
+    {
+      "label": "All labor has dignity",
+      "isbns": [
+        "9780807086025",
+        "9780807086018"
+      ]
+    },
+    {
+      "label": "The radical King",
+      "isbns": [
+        "9780807034521",
+        "9780807012833"
+      ]
+    },
+    {
+      "label": "The sword and the shield",
+      "isbns": [
+        "9781541619395"
+      ]
+    },
+        {
+      "label": "To shape a new world",
+      "isbns": [
+        "9780674237834"
+      ]
+    },
+        {
+      "label": "30-day journey with Martin Luther King, Jr.",
+      "isbns": [
+        "9781506452258",
+        "9781506452265"
+      ]
+    },
+        {
+      "label": "Crusader without violence",
+      "isbns": [
+        "9781588383501"
+      ]
+    },
+        {
+      "label": "To the promised land",
+      "isbns": [
+        "9780393356731",
+        "9781432850470",
+        "9781684410583"
+      ]
+    },
+        {
+      "label": "In a garment of destiny",
+      "isbns": [
+        "9780807086056"
+      ]
+    },
+        {
+      "label": "The preacher King",
+      "isbns": [
+        "9780190065126"
+      ]
+    },
+        {
+      "label": "The promise and the dream ",
+      "isbns": [
+        "9781948122269",
+        "9781974974283"
+      ]
+    },
+        {
+      "label": "My life, my love, my legacy",
+      "isbns": [
+        "9781250159939",
+        "9781250122629"
+      ]
+    },
+        {
+      "label": "The night James Brown saved Boston ",
+      "isbns": [
+        "9781603992534"
+      ]
+    },
+        {
+      "label": "King : a biography",
+      "isbns": [
+        "9780252079092",
+        "9780252094781"
+      ]
+    }
+  ]
+}
