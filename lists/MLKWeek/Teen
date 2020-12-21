@@ -1,0 +1,135 @@
+{
+  "label": "DC Public Library - Martin Luther King Jr. Day 2021 Books for Teens",
+  "description": "Check out these great reads for teens in celebration of Martin Luther Kinig Jr. Day 2021 with your DC Public Library Card.",
+  "list": [
+    {
+      "label": "March: Book One",
+      "isbns": [
+        "9781603093002",
+        "9781603093026"
+      ]
+    },
+    {
+      "label": "March: Book Two",
+      "isbns": [
+        "9781603094009",
+        "9781603094016"
+      ]
+    },
+    {
+      "label": "March: Book Three",
+      "isbns": [
+        "9781603094023",
+        "9781684060139"
+      ]
+    },
+    {
+      "label": "The Rock and the River",
+      "isbns": [
+        "9781416975823"
+      ]
+    },
+        {
+      "label": "Dear Martin",
+      "isbns": [
+        "9781101939499",
+        "9781524782344",
+        "9781101939512",
+        "9781524782351"
+      ]
+    },
+        {
+      "label": "Strong Voices; Fifteen American Speeches Worth Knowing",
+      "isbns": [
+        "9780062572042"
+      ]
+    },
+        {
+      "label": "Chasing King's Killer: The Hunt for Martin Luther King, Jr.'s Assassin",
+      "isbns": [
+        "9780545723336",
+        "9781338227246"
+      ]
+    },
+        {
+      "label": "Trouble Maker for Justice: the story of Bayard Rustin, the man behind the March on Washington ",
+      "isbns": [
+        "9780872867659"
+      ]
+    },
+        {
+      "label": "For Everyone",
+      "isbns": [
+        "9781481486248"
+      ]
+    },
+        {
+      "label": "I See the Promised Land",
+      "isbns": [
+        "9789380340043"
+      ]
+    },
+        {
+      "label": "The March against Fear: the last great walk of the civil rights movement and the emergence of Black power",
+      "isbns": [
+        "9781426326653"
+      ]
+    },
+        {
+      "label": "A time to break silence: the essential works of Martin Luther King, Jr. for students",
+      "isbns": [
+        "9780807033180"
+      ]
+    },
+        {
+      "label": "We Troubled the Waters: Poems",
+      "isbns": [
+        "9780061337352"
+      ]
+    },
+        {
+      "label": "To the Mountaintop",
+      "isbns": [
+        "9781596436053"
+      ]
+    },
+        {
+      "label": "The Silence of Our Friends",
+      "isbns": [
+        "9781596436183"
+      ]
+    },
+        {
+      "label": "Turning 15 on the road to freedom: my story of the 1965 Selma Voting Rights March",
+      "isbns": [
+        "9780803741232",
+        "9780698151338",
+        "9781524779108"
+      ]
+    },
+        {
+      "label": "One Person, No Vote: how not all voters are treated equally",
+      "isbns": [
+        "9781547601073"
+      ]
+    },
+        {
+      "label": "Locked up for freedom: civil rights protesters at the Leesburg Stockade",
+      "isbns": [
+        "9781467785976"
+      ]
+    },
+        {
+      "label": "Fire in the Streets",
+      "isbns": [
+        "9781442422308"
+      ]
+    },
+        {
+      "label": "March forward, girl: from young warrior to Little Rock Nine",
+      "isbns": [
+        "9781328882127"
+      ]
+    }
+  ]
+}
