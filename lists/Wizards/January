@@ -1,0 +1,27 @@
+{
+  "label": "Washington Wizards Book of the Month - January 2021",
+  "description": "Check out the January 2021 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "A Ride to Remember",
+      "isbns": [
+        "9781419736858",
+        "9781683356233"
+      ]
+    },
+    {
+      "label": "A Place to Land: Martin Luther King Jr. and the Speech That Inspired a Nation",
+      "isbns": [
+        "9780823443314",
+        "9780823443741"
+      ]
+    },
+    {
+      "label": "March: Book One",
+      "isbns": [
+        "9781603093002",
+        "9781603093026"
+      ]
+    }
+  ]
+}
