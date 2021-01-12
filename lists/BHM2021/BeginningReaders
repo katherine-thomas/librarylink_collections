@@ -1,0 +1,78 @@
+{
+  "label": "Black History Month Beginning Readers",
+  "description": "Beginning Readers. Support and encourage your child's journey to become an independent reader with these fun stories that get young readers thinking about making good choices, too.",
+  "list": [
+    {
+      "label": "The garden",
+      "isbns": [
+        "9781620145654"
+      ]
+    },
+    {
+      "label": "I love being me!",
+      "isbns": [
+        "9781984895608"
+      ]
+    },
+    {
+      "label": "Jumping the broom",
+      "isbns": [
+        "9780439568784"
+      ]
+    },
+    {
+      "label": "Lights out!",
+      "isbns": [
+        "9780439568685"
+      ]
+    },
+    {
+      "label": "Low Down Bad-Day Blues",
+      "isbns": [
+        "9780439568678"
+      ]
+    },
+    {
+      "label": "Messy Bessey",
+      "isbns": [
+        "9780516270036"
+      ]
+    },
+    {
+      "label": "Miami Jackson sees it through",
+      "isbns": [
+        "9780307465139"
+      ]
+    },
+       {
+      "label": "A mom like no other",
+      "isbns": [
+        "9780439568531"
+      ]
+    },
+        {
+      "label": "Music time",
+      "isbns": [
+        "9781620143438"
+      ]
+    },
+        {
+      "label": "The two Tyrones",
+      "isbns": [
+        "9780439568661"
+      ]
+    },
+        {
+      "label": "Ty's travels : all aboard!",
+      "isbns": [
+        "9780062951120"
+        ]
+    },
+            {
+      "label": "Ty's travels : zip, zoom!",
+      "isbns": [
+        "9780062951090"
+        ]
+    }
+  ]
+}
