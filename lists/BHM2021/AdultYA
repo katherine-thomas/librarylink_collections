@@ -1,0 +1,105 @@
+{
+  "label": "Black History Month Adult for Young Adult",
+  "description": "Ever wonder what books our children's and young adult librarians would recommend to teens ready to transition to adult fiction and nonfiction? Check out our Adult for Young Adult readers list to find out.",
+  "list": [
+    {
+      "label": "Bad feminist : essays",
+      "isbns": [
+        "9780062282712",
+        "9780062282729",
+        "9780062379764"
+      ]
+    },
+    {
+      "label": "Between the world and me",
+      "isbns": [
+        "9780812993547",
+        "9781410485847",
+        "9780451482211",
+        "9780679645986",
+        "9780147520517"
+      ]
+    },
+    {
+      "label": "Binti",
+      "isbns": [
+        "9781250203427",
+        "9780765384461",
+        "9781427275462"
+      ]
+    },
+    {
+      "label": "The Bluest Eye",
+      "isbns": [
+        "9780307278449",
+        "9780307941138",
+        "9780307386588",
+        "9780307941145"
+      ]
+    },
+    {
+      "label": "For colored girls who have considered suicide, when the rainbow is enuf : a choreopoem",
+      "isbns": [
+        "9780026098403",
+        "9781441880086",
+        "9781451624151",
+        "9780769796079"
+      ]
+    },
+    {
+      "label": "Gorilla, my love",
+      "isbns": [
+        "9780394482019",
+        "9780307778000"
+      ]
+    },
+       {
+      "label": "How to be an antiracist",
+      "isbns": [
+        "9780525509288",
+        "9780593395707",
+        "9780525509295",
+        "9781984832221"
+      ]
+    },
+        {
+      "label": "Just us : an American conversation",
+      "isbns": [
+        "9781644450215",
+        "9781644451199"
+      ]
+    },
+            {
+      "label": "Making Our Way Home",
+      "isbns": [
+        "9781984856920",
+        "9781984856937"
+      ]
+    },
+            {
+      "label": "No, you shut up : speaking truth to power and reclaiming America",
+      "isbns": [
+        "9780062942685",
+        "9780062942715",
+        "9780062942692"
+      ]
+    },
+                {
+      "label": "Notes from a young Black chef : a memoir",
+      "isbns": [
+        "9781524732622",
+        "9781432865696",
+        "9781524732639",
+        "9781984839909"
+      ]
+    },
+            {
+      "label": "The underground railroad : a novel",
+      "isbns": [
+        "9780385542364",
+        "9781524736309",
+        "9781524736255"
+      ]
+    }
+  ]
+}
