@@ -1,0 +1,150 @@
+{
+  "label": "DC Public Library - Black History Month Books for Adults",
+  "description": "Check out these great reads for adults in celebration of Black History Month 2021 with your DC Public Library Card.",
+  "list": [
+    {
+      "label": "The Black Panthers : vanguard of the revolution",
+      "isbns": [
+        "9781627895453"
+      ]
+    },
+    {
+      "label": "The yellow house",
+      "isbns": [
+        "9780802125088",
+        "9780802146540"
+      ]
+    },
+    {
+      "label": "The other Madisons",
+      "isbns": [
+        "9781328604392"
+      ]
+    },
+    {
+      "label": "The Central Park five",
+      "isbns": [
+        "9780307387981",
+        "9781642592016",
+        "9781608838547"
+      ]
+    },
+        {
+      "label": "The world according to Fannie Davis",
+      "isbns": [
+        "9780316558739",
+        "9789549149726",
+        "9780316419031"
+      ]
+    },
+        {
+      "label": "Survival math",
+      "isbns": [
+        "9781501131738",
+        "9781501131745"
+      ]
+    },
+        {
+      "label": "Living in color : what's funny about me",
+      "isbns": [
+        "9781496712943"
+      ]
+    },
+        {
+      "label": "Standing the test of time",
+      "isbns": [
+        "9781467856423"
+      ]
+    },
+        {
+      "label": "These ghosts are family : a novel",
+      "isbns": [
+        "9781982117436",
+        "9781797103907"
+      ]
+    },
+        {
+      "label": "My mother. Barack Obama. Donald Trump",
+      "isbns": [
+        "9781501198809",
+        "9781508265269"
+      ]
+    },
+        {
+      "label": "In West Mills : a novel",
+      "isbns": [
+        "9781635573404",
+        "9781635573411"
+      ]
+    },
+        {
+      "label": "Take Me Out To The Go-Go",
+      "isbns": [
+        "9781508597612"
+      ]
+    },
+        {
+      "label": "Sweet bitter blues",
+      "isbns": [
+        "9781496826923"
+      ]
+    },
+        {
+      "label": "The Turner house",
+      "isbns": [
+        "9780544303164",
+        "9781410487827",
+        "9780544303201",
+        "9781504612630"
+      ]
+    },
+            {
+      "label": "It's all down hill from here",
+      "isbns": [
+        "9781984823748",
+        "9780593153444",
+        "9780593148136",
+        "9780593148167"
+      ]
+    },
+                {
+      "label": "The Black Panthers",
+      "isbns": [
+        "9781568585550"
+      ]
+    },
+                    {
+      "label": "Just As I Am: A Memoir",
+      "isbns": [
+        "9780062931061"
+      ]
+    },
+                        {
+      "label": "The dead are arising",
+      "isbns": [
+        "9781631491665",
+        "9781631491672"
+      ]
+    },
+                            {
+      "label": "Black Panthers speak",
+      "isbns": [
+        "9781608463282"
+      ]
+    },
+                                {
+      "label": "The autobiography of Malcolm X",
+      "isbns": [
+        "9780345350688",
+        "9781713530695",
+        "9781101967805"
+      ]
+    },
+                                    {
+      "label": "Historic capital",
+      "isbns": [
+        "9780816692347"
+      ]
+    }
+  ]
+}
