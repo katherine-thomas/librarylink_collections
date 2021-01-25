@@ -1,0 +1,93 @@
+{
+  "label": "Graphic Novels for All Ages",
+  "description": "We call them graphic novels. You probably call them comic books. The terminology doesn't matter. Those of us who read them know their magic. Their power to impact our personal origin story. This list features stories for children and young adults of all ages. ",
+  "list": [
+    {
+      "label": "Amazons, abolitionists, and activists : a graphic history of women's fight for their rights",
+      "isbns": [
+        "9780399581793"
+      ]
+    },
+    {
+      "label": "The crossover: the graphic novel",
+      "isbns": [
+        "9781328960016",
+        "9780358128168"
+      ]
+    },
+    {
+      "label": "I am Alfonso Jones",
+      "isbns": [
+        "9781620142639"
+      ]
+    },
+    {
+      "label": "Jake the Fake Keeps it Real; Book 1",
+      "isbns": [
+        "9781524721305",
+        "9780553523539",
+        "9781524721336"
+      ]
+    },
+    {
+      "label": "Long way down: the graphic novel",
+      "isbns": [
+        "9781534444959",
+        "9781534444973"
+      ]
+    },
+    {
+      "label": "Miles Morales",
+      "isbns": [
+        "9781484787489",
+        "9780525527114",
+        "9781368001373",
+        "9780525527121"
+      ]
+    },
+       {
+      "label": "Monster : a graphic novel",
+      "isbns": [
+        "9780062275004",
+        "9780062275011"
+      ]
+    },
+        {
+      "label": "New Kid",
+      "isbns": [
+        "9780062691200",
+        "9780062691217",
+        "9780062885326"
+      ]
+    },
+            {
+      "label": "Shuri. 1, The search for Black Panther",
+      "isbns": [
+        "9781302915230",
+        "9781338633689"
+      ]
+    },
+            {
+      "label": "The Supadupa Kid",
+      "isbns": [
+        "9780615665986",
+        "9781301237296"
+      ]
+    },
+                {
+      "label": "Twins: Book 1",
+      "isbns": [
+        "9781338236132",
+        "9781338236194"
+      ]
+    },
+            {
+      "label": "When stars are scattered",
+      "isbns": [
+        "9780525553915",
+        "9780525553922",
+        "9780593162590"
+      ]
+    }
+  ]
+}
