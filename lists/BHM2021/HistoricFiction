@@ -1,0 +1,94 @@
+{
+  "label": "Historical Fiction for Middle Grade, & Young Adults",
+  "description": "Rich in character, these page-turning fictional stories for middle and young adult readers will lead to a deeper understanding of systematic racisim in America.",
+  "list": [
+    {
+      "label": "47",
+      "isbns": [
+        "9780316110358",
+        "9780307206626",
+        "9780739329368"
+      ]
+    },
+    {
+      "label": "Ghost boys",
+      "isbns": [
+        "9780316262286",
+        "9781549172458",
+        "9780316262248",
+        "9781549172434"
+      ]
+    },
+    {
+      "label": "It all comes down to this",
+      "isbns": [
+        "9780544839571",
+        "9781328695710"
+      ]
+    },
+    {
+      "label": "Midnight without a moon",
+      "isbns": [
+        "9780544785106",
+        "9780544868205"
+      ]
+    },
+    {
+      "label": "My Life as an Ice Cream Sandwich",
+      "isbns": [
+        "9780399187353",
+        "9780399187377",
+        "9781984884756"
+      ]
+    },
+    {
+      "label": "One Crazy Summer",
+      "isbns": [
+        "9780060760892",
+        "9781449821968",
+        "9780061966675",
+        "9781456115111"
+      ]
+    },
+       {
+      "label": "Riot",
+      "isbns": [
+        "9781606840009",
+        "9780307583413"
+      ]
+    },
+        {
+      "label": "Roll of thunder, hear my cry",
+      "isbns": [
+        "9781101993880",
+        "9780807216088",
+        "9781101657942",
+        "9780739345016"
+      ]
+    },
+            {
+      "label": "Stella by starlight",
+      "isbns": [
+        "9781442494978",
+        "9781442380394",
+        "9781442494992",
+        "9781442380417"
+      ]
+    },
+            {
+      "label": "The Watsons Go to Birmingham",
+      "isbns": [
+        "9780385321754",
+        "9780807217771",
+        "9780385382953",
+        "9780739330593"
+      ]
+    },
+                {
+      "label": "A wish after midnight",
+      "isbns": [
+        "9780982555057"
+      ]
+    }
+  ]
+}
