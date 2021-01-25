@@ -1,0 +1,68 @@
+{
+  "label": "Coretta Scott King Book Awards",
+  "description": "Coretta Scott King Book Awards recognizing an African American author and illustrator of outstanding books for children and young adults. Check out the 2021 selections with your library card.",
+  "list": [
+    {
+      "label": "Before the Ever After",
+      "isbns": [
+        "9780399545436",
+        "9780399545450"
+      ]
+    },
+    {
+      "label": "All the Days Past, All the Days to Come",
+      "isbns": [
+        "9780399257308",
+        "9780698173194"
+      ]
+    },
+    {
+      "label": "King and the Dragonflies",
+      "isbns": [
+        "9781338129335",
+        "9781338129359"
+      ]
+    },
+    {
+      "label": "Lifting as We Climb: Black Women’s Battle for the Ballot Box",
+      "isbns": [
+        "9780451481542"
+      ]
+    },
+    {
+      "label": "R-E-S-P-E-C-T Aretha Franklin the Queen of Soul",
+      "isbns": [
+        "9781534452282",
+        "9781534452299"
+      ]
+    },
+    {
+      "label": "Magnificent Homespun Brown: A Celebration",
+      "isbns": [
+        "9780884487975",
+        "9780884487999"
+      ]
+    },
+       {
+      "label": "Exquisite: The Poetry and Life of Gwendolyn Brooks",
+      "isbns": [
+        "9781419734113"
+      ]
+    },
+        {
+      "label": "Me & Mama",
+      "isbns": [
+        "9781534454217",
+        "9781534454224"
+      ]
+    },
+            {
+      "label": "Legendborn",
+      "isbns": [
+        "9781534441606",
+        "9781534441620",
+        "9781797113463"
+      ]
+    }
+  ]
+}
