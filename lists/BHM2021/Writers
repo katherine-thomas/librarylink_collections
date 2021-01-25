@@ -1,0 +1,70 @@
+{
+  "label": "Stories of Black Writers",
+  "description": "Writing is personal. At its best, writing lays the innermost self bare to the reader. Celebrate this by reading some of the most personal works of Black authors and learning more about them.",
+  "list": [
+    {
+      "label": "Brown girl dreaming",
+      "isbns": [
+        "9780399252518",
+        "9780553397260",
+        "9780698195707",
+        "9780553397277"
+      ]
+    },
+    {
+      "label": "I, too, am America",
+      "isbns": [
+        "9781442420083"
+      ]
+    },
+    {
+      "label": "Little man, little man : a story of childhood",
+      "isbns": [
+        "9781478000044"
+      ]
+    },
+    {
+      "label": "Obviously : stories from my timeline",
+      "isbns": [
+        "9781101998908"
+      ]
+    },
+    {
+      "label": "One last word : wisdom from the Harlem Renaissance",
+      "isbns": [
+        "9781619635548",
+        "9781619635555"
+      ]
+    },
+    {
+      "label": "Ordinary hazards : a memoir",
+      "isbns": [
+        "9781629798813"
+      ]
+    },
+       {
+      "label": "Poet : the remarkable story of George Moses Horton",
+      "isbns": [
+        "9781561458257"
+      ]
+    },
+        {
+      "label": "The power of her pen : the story of groundbreaking journalist Ethel L. Payne",
+      "isbns": [
+        "9781481462891"
+      ]
+    },
+            {
+      "label": "A song for Gwendolyn Brooks",
+      "isbns": [
+        "9781454930884"
+      ]
+    },
+            {
+      "label": "There is a flower at the tip of my nose smelling me",
+      "isbns": [
+        "9780060570804"
+      ]
+    }
+  ]
+}
