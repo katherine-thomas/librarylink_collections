@@ -1,0 +1,75 @@
+{
+  "label": "Stories by Afro-Latinx Authors",
+  "description": "Celebrate Black History Month by reading diversely! Check out these picture book, middle grade, and young adult titles by Afro-Latinx authors.",
+  "list": [
+    {
+      "label": "Clap when you land",
+      "isbns": [
+        "9780062882769",
+        "9780062882783",
+        "9780063011816"
+      ]
+    },
+    {
+      "label": "Clemente!",
+      "isbns": [
+        "9780805082241"
+      ]
+    },
+    {
+      "label": "I Am Enough",
+      "isbns": [
+        "9780062667120",
+        "9780063054073",
+        "9780062907981"
+      ]
+    },
+    {
+      "label": "My feet are laughing",
+      "isbns": [
+        "9780374350963"
+      ]
+    },
+    {
+      "label": "My Hair is a Garden",
+      "isbns": [
+        "9780807509234",
+        "9780807509241"
+      ]
+    },
+    {
+      "label": "Octopus stew",
+      "isbns": [
+        "9780823437542"
+      ]
+    },
+       {
+      "label": "Shadowshaper",
+      "isbns": [
+        "9780545591614",
+        "9780545591621",
+        "9781338243666"
+      ]
+    },
+        {
+      "label": "Celia Cruz, Queen of Salsa",
+      "isbns": [
+        "9780803729704"
+      ]
+    },
+            {
+      "label": "Sulwe",
+      "isbns": [
+        "9781534425361",
+        "9781534425378"
+      ]
+    },
+            {
+      "label": "What lane?",
+      "isbns": [
+        "9780525518433",
+        "9780525518440"
+      ]
+    }
+  ]
+}
