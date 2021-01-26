@@ -1,0 +1,27 @@
+{
+  "label": "Washington Wizards Book of the Month - February 2021",
+  "description": "Check out the February 2021 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "Memphis, Martin, and the mountaintop",
+      "isbns": [
+        "9781635924312",
+        "9781629797182"
+      ]
+    },
+    {
+      "label": "Martin Rising",
+      "isbns": [
+        "9780545702539",
+        "9780545702546"
+      ]
+    },
+    {
+      "label": "This Book is Anti-Racist",
+      "isbns": [
+        "9780711245211",
+        "9780711251663"
+      ]
+    }
+  ]
+}
