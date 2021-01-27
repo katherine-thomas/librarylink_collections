@@ -1,0 +1,40 @@
+{
+  "label": "ALA 2021 Youth Media Awards | The Sydney Taylor Book Award",
+  "description": "The Sydney Taylor Book Award is presented annually to outstanding books for children and teens that authentically portray the Jewish experience",
+  "list": [
+    {
+      "label": "Welcoming Elijah",
+      "isbns": [
+        "9781580898829",
+        "9781632897428"
+      ]
+    },
+            {
+      "label": "Dancing at the Pity Party",
+      "isbns": [
+        "9780525553021",
+        "9780525556350"
+      ]
+    },
+            {
+      "label": "Anya and the Nightingale",
+      "isbns": [
+        "9780358006022"
+      ]
+    },
+                {
+      "label": "The Blackbird Girls",
+      "isbns": [
+        "9781984837356"
+      ]
+    },
+        {
+      "label": "They Went Left",
+      "isbns": [
+        "9780316490573",
+        "9780316490603",
+        "9781549131707"
+      ]
+    }
+  ]
+}
