@@ -1,0 +1,55 @@
+{
+  "label": "ALA 2021 Youth Media Awards | John Newbery Medal",
+  "description": "John Newbery Medal for the most outstanding contribution to children's literature",
+  "list": [
+    {
+      "label": "When You Trap a Tiger",
+      "isbns": [
+        "9781524715700",
+        "9781524715724"
+      ]
+    },
+    {
+      "label": "Between the world and me",
+      "isbns": [
+        "9780812993547",
+        "9781410485847",
+        "9780451482211",
+        "9780679645986",
+        "9780147520517"
+      ]
+    },
+    {
+      "label": "All Thirteen",
+      "isbns": [
+        "9781536216080"
+      ]
+    },
+    {
+      "label": "BOX: Henry Brown Mails Himself to Freedom",
+      "isbns": [
+        "9780763691561",
+        "9781690594284"
+      ]
+    },
+    {
+      "label": "Fighting Words",
+      "isbns": [
+        "9781984815682"
+      ]
+    },
+    {
+      "label": "We Dream of Space",
+      "isbns": [
+        "9780062747303",
+        "9780062747327"
+      ]
+    },
+       {
+      "label": "A Wish in the Dark",
+      "isbns": [
+        "9781536211726"
+      ]
+    }
+  ]
+}
