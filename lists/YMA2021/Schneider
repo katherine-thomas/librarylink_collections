@@ -1,0 +1,26 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Schneider Family Book Award",
+  "description": "Schneider Family Book Award for books that embody an artistic expression of the disability
+experience",
+  "list": [
+    {
+      "label": "I Talk Like a River",
+      "isbns": [
+        "9780823445592"
+      ]
+    },
+    {
+      "label": "All the Way to the Top",
+      "isbns": [
+        "9781492688976",
+        "9781492688983"
+      ]
+    },
+        {
+      "label": "Itzhak : a boy who loved the violin",
+      "isbns": [
+        "9781419741104"
+      ]
+    }
+  ]
+}
