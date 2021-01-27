@@ -1,0 +1,71 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Alex Award",
+  "description": "Alex Awards for the 10 best adult books that appeal to teen audiences",
+  "list": [
+    {
+      "label": "Black Sun",
+      "isbns": [
+        "9781534437678",
+        "9781534437692",
+        "9781508283065"
+      ]
+    },
+    {
+      "label": "The House in the Cerulean Sea",
+      "isbns": [
+        "9781250217288",
+        "9781250217325"
+      ]
+    },
+        {
+      "label": "The Impossible First: From Fire to Ice",
+      "isbns": [
+        "9781982133115",
+        "9781508299509"
+      ]
+    },
+        {
+      "label": "Kent State: Four Dead in Ohio",
+      "isbns": [
+        "9781419734847"
+      ]
+    },
+        {
+      "label": "The Only Good Indians",
+      "isbns": [
+        "9781982136451",
+        "9781982136475",
+        "9781797105550"
+      ]
+    },
+        {
+      "label": "Plain Bad Heroines",
+      "isbns": [
+        "9780062942852",
+        "9780062942876"
+      ]
+    },
+        {
+      "label": "Riot Baby",
+      "isbns": [
+        "9781250214751",
+        "9781250214768",
+        "9781094006345"
+      ]
+    },
+         {
+      "label": "Solutions and Other Problems",
+      "isbns": [
+        "9781982156947",
+        "9781982156961"
+      ]
+    },
+        {
+      "label": "We Ride Upon Sticks: A Novel",
+      "isbns": [
+        "9781524748098",
+        "9781524748104"
+      ]
+    }
+  ]
+}
