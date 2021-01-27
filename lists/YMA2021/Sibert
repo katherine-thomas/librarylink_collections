@@ -1,0 +1,30 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Robert F. Sibert Informational Book Award",
+  "description": "Robert F. Sibert Informational Book Award for most distinguished informational book for children",
+  "list": [
+    {
+      "label": "Honeybee: The Busy Life of Apis Mellifera",
+      "isbns": [
+        "9780823442850"
+      ]
+    },
+    {
+      "label": "How We Got to the Moon",
+      "isbns": [
+        "9780525647416"
+      ]
+    },
+        {
+      "label": "Exquisite: The Poetry and Life of Gwendolyn Brooks",
+      "isbns": [
+        "9781419734113"
+      ]
+    },
+        {
+      "label": "All Thirteen",
+      "isbns": [
+        "9781536216080"
+      ]
+    }
+  ]
+}
