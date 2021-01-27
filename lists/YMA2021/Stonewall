@@ -1,0 +1,29 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Stonewall Book Award",
+  "description": "Stonewall Book Award - Mike Morgan & Larry Romans Children’s & Young Adult Literature Award given annually to English-language children’s and young adult books of exceptional merit relating to the gay, lesbian, bisexual and transgender experience",
+  "list": [
+    {
+      "label": "Darius the Great Deserves Better",
+      "isbns": [
+        "9780593108239",
+        "9780593108246"
+      ]
+    },
+        {
+      "label": "Felix Ever After",
+      "isbns": [
+        "9780062820259",
+        "9780062820273",
+        "9780063003910"
+      ]
+    },
+        {
+      "label": "You Should See Me in a Crown",
+      "isbns": [
+        "9781338503265",
+        "9781338503623",
+        "9781338637625"
+      ]
+    }
+  ]
+}
