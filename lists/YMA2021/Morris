@@ -1,0 +1,43 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Asian/Pacific American Award for Literature",
+  "description": "William C. Morris Award for a debut book published by a first-time author writing for teens",
+  "list": [
+    {
+      "label": "If These Wings Could Fly",
+      "isbns": [
+        "9780062885029",
+        "9780062885043"
+      ]
+    },
+            {
+      "label": "Black Girl Unlimited",
+      "isbns": [
+        "9781250309853",
+        "9781250248589",
+        "9781250309860",
+        "9781250248572"
+      ]
+    },
+            {
+      "label": "The Black Kids",
+      "isbns": [
+        "9781534462724",
+        "9781534462748",
+        "9781797112213"
+      ]
+    },
+                {
+      "label": "It Sounded Better in My Head",
+      "isbns": [
+        "9781250219268",
+        "9781250219275"
+      ]
+    },
+        {
+      "label": "Woven in Moonlight",
+      "isbns": [
+        "9781624148026"
+      ]
+    }
+  ]
+}
