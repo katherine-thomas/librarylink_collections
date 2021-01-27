@@ -1,0 +1,45 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Asian/Pacific American Award for Literature",
+  "description": "Asian/Pacific American Award for Literature. The award promotes Asian/Pacific American culture and heritage and is awarded based on literary and artistic merit. The award offers three youth categories including Picture Book, Children’s Literature and Youth Literature. The award is administered by the Asian Pacific American Librarians Association (APALA), an affiliate of the American Library Association",
+  "list": [
+    {
+      "label": "Paper Son",
+      "isbns": [
+        "9781524771874"
+      ]
+    },
+            {
+      "label": "Danbi Leads the School Parade",
+      "isbns": [
+        "9780451478894"
+      ]
+    },
+            {
+      "label": "When You Trap a Tiger",
+      "isbns": [
+        "9781524715700",
+        "9781524715724"
+      ]
+    },
+                {
+      "label": "Prairie Lotus",
+      "isbns": [
+        "9781328781505",
+        "9780358330837",
+        "9780593343289"
+      ]
+    },
+        {
+      "label": "This Light Between Us",
+      "isbns": [
+        "9781250192387"
+      ]
+    },
+            {
+      "label": "Displacement",
+      "isbns": [
+        "9781250193537"
+      ]
+    }
+  ]
+}
