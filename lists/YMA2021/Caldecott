@@ -1,0 +1,39 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Randolph Caldecott Medal",
+  "description": "Randolph Caldecott Medal for the most distinguished American picture book for children:",
+  "list": [
+    {
+      "label": "We Are Water Protectors",
+      "isbns": [
+        "9781250203557",
+        "9781250780997"
+      ]
+    },
+    {
+      "label": "A Place Inside of Me: A Poem to Heal the Heart",
+      "isbns": [
+        "9780374307417"
+      ]
+    },
+    {
+      "label": "The Cat Man of Aleppo",
+      "isbns": [
+        "9781984813787"
+      ]
+    },
+    {
+      "label": "Me & Mama",
+      "isbns": [
+        "9781534454217",
+        "9781534454224"
+      ]
+    },
+    {
+      "label": "Outside In",
+      "isbns": [
+        "9781328866820",
+        "9780358330110"
+      ]
+    }
+  ]
+}
