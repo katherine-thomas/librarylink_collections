@@ -1,0 +1,36 @@
+{
+  "label": "ALA 2021 Youth Media Awards | YALSA Award for Excellence in Nonfiction",
+  "description": "YALSA Award for Excellence in Nonfiction for Young Adults",
+  "list": [
+    {
+      "label": "The Rise and Fall of Charles Lindbergh",
+      "isbns": [
+        "9780525646549"
+      ]
+    },
+        {
+      "label": "All Thirteen",
+      "isbns": [
+        "9781536216080"
+      ]
+    },
+        {
+      "label": "The Cat I Never Named",
+      "isbns": [
+        "9781547604555"
+      ]
+    },
+            {
+      "label": "How We Got to the Moon",
+      "isbns": [
+        "9780525647416"
+      ]
+    },
+                {
+      "label": "You call this democracy?",
+      "isbns": [
+        "9780358176923"
+      ]
+    }
+  ]
+}
