@@ -1,0 +1,43 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Michael L. Printz Award",
+  "description": "Michael L. Printz Award for excellence in literature written for young adults",
+  "list": [
+    {
+      "label": "Everything Sad Is Untrue",
+      "isbns": [
+        "9781646140008",
+        "9781646140022"
+      ]
+    },
+    {
+      "label": "Apple: Skin to the Core",
+      "isbns": [
+        "9781646140138",
+        "9781646140145"
+      ]
+    },
+        {
+      "label": "Dragon Hoops",
+      "isbns": [
+        "9781626720794",
+        "9781250783141"
+      ]
+    },
+    {
+      "label": "Every Body Looking",
+      "isbns": [
+        "9780525556206",
+        "9780525556213",
+        "9780593288436"
+      ]
+    },
+    {
+      "label": "We Are Not Free",
+      "isbns": [
+        "9780358131434",
+        "9780358330004",
+        "9780358343561"
+      ]
+    }
+  ]
+}
