@@ -1,0 +1,43 @@
+{
+  "label": "ALA 2021 Youth Media Awards | Pura Belpré Awards",
+  "description": "Pura Belpré Awards honoring a Latinx writer and illustrator whose children's books best portray, affirm and celebrate the Latino cultural experience",
+  "list": [
+    {
+      "label": "¡Vamos! Let’s Go Eat",
+      "isbns": [
+        "9781328557049",
+        "9780358330707",
+        "9781662024054"
+      ]
+    },
+    {
+      "label": "Sharuko",
+      "isbns": [
+        "9780892394234"
+      ]
+    },
+        {
+      "label": "Efrén Divided",
+      "isbns": [
+        "9780062881687",
+        "9780062881700",
+        "9780062971852"
+      ]
+    },
+        {
+      "label": "Furia",
+      "isbns": [
+        "9781616209919",
+        "9781643751207",
+        "9781649040114"
+      ]
+    },
+        {
+      "label": "Never Look Back",
+      "isbns": [
+        "9781547603749",
+        "9781980044093"
+      ]
+    }
+  ]
+}
