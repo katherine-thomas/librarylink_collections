@@ -1,0 +1,49 @@
+{
+  "label": "Celebrate Women in STEM with these Books for Kids",
+  "description": "Celebrate Women's History Month by reading Women's History! Discover the true stories of women leaders in the STEM (Science, Technology, Engineering, & Math) fields with our list of collected biography anthologies. We also have included a few hands-on experiment titles to encourage your own love of STEM. This list is for children of all ages.",
+  "list": [
+    {
+      "label": "Born curious : 20 girls who grew up to be awesome scientists",
+      "isbns": [
+        "9781607749769",
+        "9786070133626"
+      ]
+    },
+    {
+      "label": "Changing the equation : 50+ US Black women in STEM",
+      "isbns": [
+        "9781419707346"
+      ]
+    },
+    {
+      "label": "Girls Think of Everything: Stories of Ingenious Inventions by Women",
+      "isbns": [
+        "9781328772534"
+      ]
+    },
+    {
+      "label": "Women In Science: 50 Fearless Pioneers Who Changed The World",
+      "isbns": [
+        "9781607749769"
+      ]
+    },
+    {
+      "label": "30-minute robotics projects",
+      "isbns": [
+        "9781541538887"
+      ]
+    },
+    {
+      "label": "Build it! : 25 creative STEM projects for budding engineers",
+      "isbns": [
+        "9781454928461"
+      ]
+    },
+       {
+      "label": "STEAM lab for kids : 52 creative hands-on projects exploring science, technology, engineering, art, and math ",
+      "isbns": [
+        "9781631594199"
+      ]
+    }
+  ]
+}
