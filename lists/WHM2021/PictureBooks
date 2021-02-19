@@ -1,0 +1,55 @@
+{
+  "label": "Celebrate Women's History with these Picture Book Biographies",
+  "description": "Celebrate Women's History Month by reading Women's History! Ever heard of Eugenie Clark, the 'Shark Lady?' Learn about her and other women whose stories you may not know with our Women in STEM (Science, Technology, Engineering, & Math) Picture Book Biography book list. This list is for younger school age children.",
+  "list": [
+    {
+      "label": "Finding wonders : three girls who changed science ",
+      "isbns": [
+        "9781481465656"
+      ]
+    },
+    {
+      "label": "Grace Hopper : queen of computer code",
+      "isbns": [
+        "9781454920007"
+      ]
+    },
+    {
+      "label": "Hedy Lamarr's double life",
+      "isbns": [
+        "9781454926917"
+      ]
+    },
+    {
+      "label": "The Queen of Physics: How Wu Chien Shiung Helped Unlock the Secrets of the Atom",
+      "isbns": [
+        "9781454932208"
+      ]
+    },
+    {
+      "label": "Joan Procter, dragon doctor : the woman who loved reptiles",
+      "isbns": [
+        "9780399557255"
+      ]
+    },
+    {
+      "label": "Secret Engineer: How Emily Roebling Built the Brooklyn Bridge",
+      "isbns": [
+        "9781250155320"
+      ]
+    },
+       {
+      "label": "Seeds of change : planting a path to peace",
+      "isbns": [
+        "9781600603679"
+      ]
+    },
+           {
+      "label": "Shark Lady: the true story of how Eugenie Clark became the ocean's most fearless scientist",
+      "isbns": [
+        "9781492642046",
+        "9781492642053"
+      ]
+    }
+  ]
+}
