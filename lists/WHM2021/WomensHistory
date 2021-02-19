@@ -1,0 +1,55 @@
+{
+  "label": "Celebrate Women's History Month with your Family",
+  "description": "Ever wonder what books our children's and young adult librarians would recommend to teens ready to transition to adult fiction and nonfiction? Check out our Adult for Young Adult readers list to find out.",
+  "list": [
+    {
+      "label": "A Is for Awesome!: 23 Iconic Women Who Changed the World ",
+      "isbns": [
+        "9781250245625"
+      ]
+    },
+    {
+      "label": "Brave, black, first : 50+ African American women who changed the world",
+      "isbns": [
+        "9780525645818",
+        "9780525645832"
+      ]
+    },
+    {
+      "label": "Good Night Stories For Rebel Girls",
+      "isbns": [
+        "9780997895810",
+        "9786070739798",
+        "9780525643500"
+      ]
+    },
+    {
+      "label": "Little Dreamers: Visionary Women Around the World",
+      "isbns": [
+        "9780316475174",
+        "9780316475136"
+      ]
+    },
+    {
+      "label": "Rad Women Worldwide",
+      "isbns": [
+        "9780399578861",
+        "9786070136962",
+        "9780399578878"
+      ]
+    },
+    {
+      "label": "Shaking Things Up: 14 Young Women Who Changed The World",
+      "isbns": [
+        "9780062699459"
+      ]
+    },
+       {
+      "label": "She Persisted",
+      "isbns": [
+        "9781524741723",
+        "9781524741778"
+      ]
+    }
+  ]
+}
