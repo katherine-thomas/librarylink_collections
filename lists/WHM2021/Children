@@ -1,6 +1,6 @@
 {
   "label": "Women's History Month Books for Children",
-  "description": "Celebrate Women's History Month by reading Women's History!  Learn more about some of the many memorable women who shaped our world by carving their own paths and changing history. This list is for children of all ages.",
+  "description": "Celebrate Women's History Month by reading Women's History!  Learn more about some of the many memorable girls and women who shaped our world by carving their own paths and changing history. This list is for children of all ages.",
   "list": [
     {
       "label": "A Is for Awesome!: 23 Iconic Women Who Changed the World ",
@@ -13,6 +13,12 @@
       "isbns": [
         "9780525645818",
         "9780525645832"
+      ]
+    },
+        {
+      "label": "I am Jazz!",
+      "isbns": [
+        "9780803741072"
       ]
     },
     {
