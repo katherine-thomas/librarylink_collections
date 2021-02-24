@@ -1,0 +1,26 @@
+{
+  "label": "Washington Wizards Book of the Month - March 2021",
+  "description": "Check out the March 2021 Washington Wizards and DC Public Library Book of the Month picks for children, K-2, 3-5 and 6-8.",
+  "list": [
+    {
+      "label": "Little Leaders: Bold Women in Black History",
+      "isbns": [
+        "9780316475112",
+        "9781549114366"
+      ]
+    },
+    {
+      "label": "Marjory Saves the Everglades",
+      "isbns": [
+        "9781534431546"
+      ]
+    },
+    {
+      "label": "Women Artists A to Z",
+      "isbns": [
+        "9780593108727",
+        "9780593108734"
+      ]
+    }
+  ]
+}
