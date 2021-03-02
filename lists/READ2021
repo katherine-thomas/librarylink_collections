@@ -1,8 +1,115 @@
 {
-  "label": "Celebrate Read Across America Day (READ) 2021 With Titles on Cultivating Compassion",
-  "description": "Books and stories provide points of access for understanding other people's lives. These diverse books for children of all ages help students walk in someone else’s shoes—or try on a different hat! Talk about what they read and how to put their compassion into action. Find more books recommendations to read all year long at https://www.nea.org/professional-excellence/student-engagement/read-across-america/2020-2021-calendar.",
+  "label": "Celebrate Read Across America Day (READ) 2021 With Recommended Titles from the National Endowment for the Arts (NEA)",
+  "description": "Each month, NEA features three books—for young, middle grade and young adult readers—that explore a topic related to diversity and inclusion. Check out the calendar below to see what's in store!",
   "list": [
-    {
+     {
+      "label": "Speak Up",
+      "isbns": [
+        "9780358140962"
+      ]
+    },
+         {
+      "label": "From the Desk of Zoe Washington",
+      "isbns": [
+        "9780062875853",
+        "9780062875884",
+        "9780062969279"
+      ]
+    },
+             {
+      "label": "Say Her Name",
+      "isbns": [
+        "9781368045247"
+      ]
+    },
+                 {
+      "label": "Just ask! : be different, be brave, be you",
+      "isbns": [
+        "9780525514121",
+        "9780525514138"
+      ]
+    },
+                     {
+      "label": "Roll With It",
+      "isbns": [
+        "9781534442559",
+        "9781534442573",
+        "9781797104478"
+      ]
+    },
+                         {
+      "label": "Fresh Ink",
+      "isbns": [
+        "9781524766283",
+        "9781524766306",
+        "9780525595663"
+      ]
+    },
+                             {
+      "label": "Vote for our Future!",
+      "isbns": [
+        "9781984892805",
+        "9781984892812"
+      ]
+    },
+                                 {
+      "label": "Woke: A Young Poet’s Call to Justice",
+      "isbns": [
+        "9781250311207"
+      ]
+    },
+                                     {
+      "label": "One Person, No Vote",
+      "isbns": [
+        "9781547601073",
+        "9781547601530"
+      ]
+    },
+                                         {
+      "label": "Your Name is a Song",
+      "isbns": [
+        "9781943147724",
+        "9781943147915"
+      ]
+    },
+                                             {
+      "label": "Not Your All-American Girl",
+      "isbns": [
+        "9781338037760",
+        "9781338037784"
+      ]
+    },
+                                                 {
+      "label": "Becoming Beatriz",
+      "isbns": [
+        "9781580897785"
+      ]
+    },
+                                                     {
+      "label": "A Ride to Remember: A Civil Rights Story",
+      "isbns": [
+        "9781419736858",
+        "9781690514367",
+        "9781683356233"
+      ]
+    },
+                                                         {
+      "label": "When Stars Are Scattered",
+      "isbns": [
+        "9780525553915",
+        "9780525553922",
+        "9780593162590"
+      ]
+    },
+                                                             {
+      "label": "Stamped: Racism, Antiracism, and You",
+      "isbns": [
+        "9780316453691",
+        "9780316453677",
+        "9781549130724"
+      ]
+    },
+ {
       "label": "Tiara's hat parade",
       "isbns": [
         "9780807579459"
@@ -21,6 +128,87 @@
       "isbns": [
         "9781603094504",
         "9781684067510"
+      ]
+    },
+        {
+      "label": "We Are Water Protectors",
+      "isbns": [
+        "9781250203557",
+        "9781250780997"
+      ]
+    },
+        {
+      "label": "The Total Eclipse of Nestor Lopez",
+      "isbns": [
+        "9780374313609",
+        "9780374313623",
+        "9781690591610"
+      ]
+    },
+        {
+      "label": "Butterfly Yellow",
+      "isbns": [
+        "9780062229212",
+        "9780062229236",
+        "9780062964328"
+      ]
+    },
+            {
+      "label": "Magic Ramen: The Story of Momofuku Ando",
+      "isbns": [
+        "9781499807035"
+      ]
+    },
+            {
+      "label": "When You Trap a Tiger",
+      "isbns": [
+        "9781524715700",
+        "9781524715724",
+        "9780593155462"
+      ]
+    },
+            {
+      "label": "Frankly in Love",
+      "isbns": [
+        "9780241373439",
+        "9780593105597",
+        "9781984812216",
+        "9780593105627"
+      ]
+    },
+                {
+      "label": "Ho’onani: Hula Warrior",
+      "isbns": [
+        "9780735264496",
+        "9780735264502"
+      ]
+    },
+            {
+      "label": "A High Five for Glenn Burke",
+      "isbns": [
+        "9780374312732"
+      ]
+    },
+            {
+      "label": "The Music of What Happens",
+      "isbns": [
+        "9781338215502",
+        "9781338576344",
+        "9781338215526"
+      ]
+    },
+                    {
+      "label": "A New Kind of Wild",
+      "isbns": [
+        "9780525553892"
+      ]
+    },
+            {
+      "label": "The Bridge Home",
+      "isbns": [
+        "9781524738112",
+        "9781524738129",
+        "9781984845108"
       ]
     }
   ]
