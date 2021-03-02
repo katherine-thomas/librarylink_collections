@@ -1,0 +1,27 @@
+{
+  "label": "Celebrate Read Across America Day (READ) 2021 With Titles on Cultivating Compassion",
+  "description": "Books and stories provide points of access for understanding other people's lives. These diverse books for children of all ages help students walk in someone else’s shoes—or try on a different hat! Talk about what they read and how to put their compassion into action. Find more books recommendations to read all year long at https://www.nea.org/professional-excellence/student-engagement/read-across-america/2020-2021-calendar.",
+  "list": [
+    {
+      "label": "Tiara's hat parade",
+      "isbns": [
+        "9780807579459"
+      ]
+    },
+    {
+      "label": "Each tiny spark",
+      "isbns": [
+        "9780451479723",
+        "9780451479730",
+        "9781984884817"
+      ]
+    },
+    {
+      "label": "They called us enemy",
+      "isbns": [
+        "9781603094504",
+        "9781684067510"
+      ]
+    }
+  ]
+}
