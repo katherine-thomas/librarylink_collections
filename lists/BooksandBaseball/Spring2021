@@ -1,0 +1,102 @@
+{
+  "label": "Books and Baseball Reads for Spring 2021",
+  "description": "DC Public Library and the Washington Nationals Youth Baseball Academy have compiled great reads for the Spring 2021 season of Books and Baseball! Check them out today with your library card.",
+  "list": [
+    {
+      "label": "Curious George at the Baseball Game",
+      "isbns": [
+        "9780618663743"
+      ]
+    },
+    {
+      "label": "Would You Could You Save the Sea",
+      "isbns": [
+        "9780593306185"
+      ]
+    },
+    {
+      "label": "Baseball Buzz",
+      "isbns": [
+        "9781496542595"
+      ]
+    },
+    {
+      "label": "Would You Could You Plant a Tree",
+      "isbns": [
+        "9780593306161"
+      ]
+    },
+    {
+      "label": "Get a Hit, Mo",
+      "isbns": [
+        "9780670016327",
+        "9780698136168"
+      ]
+    },
+    {
+      "label": "I Do Not Like Books Anymore",
+      "isbns": [
+        "9781536203349"
+      ]
+    },
+    {
+      "label": "Pete The Cat Play Ball",
+      "isbns": [
+        "9780062110671",
+        "9780062110688",
+        "9780062283542"
+      ]
+    },
+       {
+      "label": "Biscuit Wins a Prize",
+      "isbns": [
+        "9780060094553"
+      ]
+    },
+        {
+      "label": "A Big Guy Took My Ball",
+      "isbns": [
+        "9781423174912"
+      ]
+    },
+        {
+      "label": "Curious George Trash into Treasure",
+      "isbns": [
+        "9781328577467",
+        "9781328586469"
+      ]
+    },
+        {
+      "label": "Dino-Baseball",
+      "isbns": [
+        "9780761344292",
+        "9781467767187"
+        ]
+    },
+        {
+      "label": "Tomorrow I'll Be Kind",
+      "isbns": [
+        "9781524787042"
+      ]
+    },
+            {
+      "label": "Berenstain Bears play Football",
+      "isbns": [
+        "9780062350343"
+      ]
+    },
+            {
+      "label": "My Family is Special",
+      "isbns": [
+        "9781534469815"
+      ]
+    },
+            {
+      "label": "Pit Crew Pups",
+      "isbns": [
+        "9780553508536",
+        "9781612639888"
+      ]
+    }
+  ]
+}
