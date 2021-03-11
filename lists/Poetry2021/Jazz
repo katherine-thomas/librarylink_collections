@@ -1,94 +1,107 @@
 {
-  "label": "Poetry About Jazz - Poetry Appreciation Month 2021",
-  "description": "DC Public Library has compiled great titles exploring poetry about jazz for early readers and students for Poetry Appreciation Month 2021",
+  "label": "'My Soul Looks Back' - Poetry Appreciation Month 2021",
+  "description": "DC Public Library has compiled great titles exploring the life, poetry and legacy of Langston Hughesy for early readers and students for Poetry Appreciation Month 2021",
   "list": [
     {
-      "label": "Jazz",
+      "label": "Lullaby: A Poem",
       "isbns": [
-        "9780823415458",
-        "9780823415458",
-        "9780823415458",
-        "9781430109150"
+        "9780547362656"
       ]
     },
     {
-      "label": "This Jazz Man",
+      "label": "My People",
       "isbns": [
-        "9780152053079"
+        "9781416935407"
       ]
     },
     {
-      "label": "Jazz on a Saturday Night",
+      "label": "Negro Speaks of Rivers",
       "isbns": [
-        "9780590478939"
+        "9780786818679"
       ]
     },
     {
-      "label": "I Live in Music: A Poem",
+      "label": "The Sweet and Sour Animal Book",
       "isbns": [
-        "9781556703720"
+        "9780195091854"
       ]
     },
     {
-      "label": "Ellington Was Not a Street",
+      "label": "Carol of the Brown King",
       "isbns": [
-        "9780689828843",
-        "9780439775731"
+        "9780689818776"
       ]
     },
     {
-      "label": "Jazz Age Josephine",
+      "label": "Langston's Train Ride",
       "isbns": [
-        "9781416961239"
+        "9780439352390"
       ]
     },
     {
-      "label": "Squeek, Rumble, Whomp, Whomp, Whomp",
+      "label": "Visiting Langston",
       "isbns": [
-        "9780763639914"
+        "9780805067446"
       ]
     },
        {
-      "label": "Jazz Baby",
+      "label": "Love to Langston",
       "isbns": [
-        "9780152025229"
+        "9781584302834"
       ]
     },
         {
-      "label": "Jazz A-B-Z",
+      "label": "That's My Dream: A Picturebook of Langston Hughes' 'Dream Variation'",
       "isbns": [
-        "9780763621353"
+        "9780399550171"
       ]
     },
         {
-      "label": "Harlem: A Poem",
+      "label": "Sail Away",
       "isbns": [
-        "9780590543408"
+        "9781481430852"
       ]
     },
         {
-      "label": "I See the Rhythm",
+      "label": "I, Too, Am America",
       "isbns": [
-        "9780892391516"
+        "9781442420083"
         ]
     },
         {
-      "label": "Jazz Day: The Making of a Famous Photograph",
+      "label": "Poetry for Young People: Langston Hughes",
       "isbns": [
-        "9781536205633"
+        "9781454903284"
       ]
     },
             {
-      "label": "Shimmy Shimmy Shimmy Shimmy Like My Sister Kate",
+      "label": "The Dream Keeper and Other Poems",
       "isbns": [
-        "9780805034943"
+        "9780679844211"
       ]
     },
             {
-      "label": "Here in Harlem: Poems in Many Voices",
+      "label": "Essential Hughes",
       "isbns": [
-        "9780823418534",
-        "9781430110569"
+        "9780061336942"
+      ]
+    },
+                {
+      "label": "Langston Hughes: A Poet",
+      "isbns": [
+        "9781417107933"
+      ]
+    },
+                {
+      "label": "Selected Poems of Langston Hughes",
+      "isbns": [
+        "9780307949400"
+      ]
+    },
+                {
+      "label": "The Panther and the Lash",
+      "isbns": [
+        "9780307949394"
       ]
     }
   ]
